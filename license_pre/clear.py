@@ -1,7 +1,7 @@
 import os
 import re
 
-path = "/home/keqiang/Benchmark/license_data/SPDX"
+path = "Benchmark/license_data/SPDX"
 pattern = re.compile("<head><title>404 Not Found</title></head>")
 num = 0
 

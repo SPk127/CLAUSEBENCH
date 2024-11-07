@@ -14,8 +14,8 @@ def compare_license_files(file1, file2):
     return get_file_checksum(file1) == get_file_checksum(file2)
 
 # Example usage
-file1 = '/home/keqiang/Benchmark/license_data/LICENSE/Apache-2.0.txt'
-file2 = '/home/keqiang/Benchmark/license_data/LICENSE/apache-2-0.txt'
+file1 = 'Benchmark/license_data/LICENSE/Apache-2.0.txt'
+file2 = 'Benchmark/license_data/LICENSE/apache-2-0.txt'
 
 if compare_license_files(file1, file2):
     print("The files are identical.")

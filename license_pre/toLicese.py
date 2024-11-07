@@ -11,7 +11,7 @@ def get_license_name(license_path):
     return license_names
     
 def copy_license(src_path, src_licenses, all_licenses):
-    dst_path = '/home/keqiang/Benchmark/license_data/LICENSE'
+    dst_path = 'Benchmark/license_data/LICENSE'
     os.makedirs(dst_path, exist_ok=True)
     copy_num = 0
     
@@ -31,10 +31,10 @@ def copy_license(src_path, src_licenses, all_licenses):
     
 
 if __name__ == '__main__':
-    SCANCODE_path = '/home/keqiang/Benchmark/license_data/SCANCODE'
-    GITHUB_path = '/home/keqiang/Benchmark/license_data/GITHUB'
-    OSI_path = '/home/keqiang/Benchmark/license_data/OSI'
-    SPDX_path = '/home/keqiang/Benchmark/license_data/SPDX'
+    SCANCODE_path = 'Benchmark/license_data/SCANCODE'
+    GITHUB_path = 'Benchmark/license_data/GITHUB'
+    OSI_path = 'Benchmark/license_data/OSI'
+    SPDX_path = 'Benchmark/license_data/SPDX'
     
     SCANCODE_licenses = get_license_name(SCANCODE_path)
     GITHUB_licenses = get_license_name(GITHUB_path)
