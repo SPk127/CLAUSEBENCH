@@ -38,8 +38,7 @@ CLAUSEBENCH/
 ├── license_scan/            # License deduplication and scan results
 │
 ├── fine_grained.json        # Clause-level annotated dataset
-├── README.md                # Project overview and usage information
-└── LICENSE                  # License information for this repository
+└── README.md                # Project overview and usage information
 ```
 
 ## Key Features
