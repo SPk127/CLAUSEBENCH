@@ -1,0 +1,12 @@
+{
+    "filename": "brian-gladman-3-clause.license",
+    "key": "brian-gladman-3-clause",
+    "short_name": "Brian Gladman 3-Clause License",
+    "name": "Brian Gladman 3-Clause License",
+    "category": "Permissive",
+    "owner": "Brian Gladman",
+    "notes": "|\nThere is now a SPDX license with the same name as this license but\nthis is actually a license that we track at brian-gladman-dual.",
+    "spdx_license_key": "LicenseRef-scancode-brian-gladman-3-clause",
+    "other_urls": "\n- https://github.com/SWI-Prolog/packages-clib/blob/master/sha1/brg_endian.h",
+    "license_body": "\nLICENSE TERMS\n\nThe free distribution and use of this software in both source and binary\nform is allowed (with or without changes) provided that:\n\n1. distributions of this source code include the above copyright\nnotice, this list of conditions and the following disclaimer;\n\n2. distributions in binary form include the above copyright\nnotice, this list of conditions and the following disclaimer\nin the documentation and/or other associated materials;\n\n3. the copyright holder's name is not used to endorse products\nbuilt using this software without specific written permission.\n\nDISCLAIMER\n\nThis software is provided 'as is' with no explicit or implied warranties\nin respect of its properties, including, but not limited to, correctness\nand fitness for purpose."
+}

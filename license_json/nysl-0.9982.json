@@ -1,0 +1,15 @@
+{
+    "filename": "nysl-0.9982.license",
+    "key": "nysl-0.9982",
+    "short_name": "NYSL 0.9982",
+    "name": "NYSL 0.9982",
+    "category": "Permissive",
+    "owner": "Kazuhiro Inaba",
+    "homepage_url": "http://www.kmonos.net/nysl/index.en.html",
+    "notes": "|\nthe original version is in Japanese but we track the English text only for\nnow",
+    "spdx_license_key": "LicenseRef-scancode-nysl-0.9982",
+    "text_urls": "\n- https://raw.githubusercontent.com/uasi/license-templates/0f48d7532fb4cc9c26fc6093db680e0601bf5738/LICENSE.NYSL.txt",
+    "faq_url": "http://www.kmonos.net/nysl/readme.html",
+    "other_urls": "\n- http://www.kmonos.net/nysl/\n- http://search.cpan.org/~yakex/Software-License-NYSL-v0.0.1/",
+    "license_body": "\nNYSL Version 0.9982 (en) (Unofficial)\n----------------------------------------\nA. This software is \"Everyone'sWare\". It means:\nAnybody who has this software can use it as if he/she is\nthe author.\n\nA-1. Freeware. No fee is required.\nA-2. You can freely redistribute this software.\nA-3. You can freely modify this software. And the source\nmay be used in any software with no limitation.\nA-4. When you release a modified version to public, you\nmust publish it with your name.\n\nB. The author is not responsible for any kind of damages or loss\nwhile using or misusing this software, which is distributed\n\"AS IS\". No warranty of any kind is expressed or implied.\nYou use AT YOUR OWN RISK.\n\nC. Copyrighted to <copyright holders>\n\nD. Above three clauses are applied both to source and binary\nform of this software."
+}

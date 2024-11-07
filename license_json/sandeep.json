@@ -1,0 +1,14 @@
+{
+    "filename": "sandeep.license",
+    "key": "sandeep",
+    "short_name": "Sandeep License",
+    "name": "Sandeep License",
+    "category": "Proprietary Free",
+    "owner": "Sandeep Gangadharan",
+    "homepage_url": "http://www.sivamdesign.com/scripts/",
+    "spdx_license_key": "LicenseRef-scancode-sandeep",
+    "ignorable_copyrights": "\n- Copyright (c) 2000 - 2014 Sandeep Gangadharan",
+    "ignorable_holders": "\n- Sandeep Gangadharan",
+    "ignorable_urls": "\n- http://www.sivamdesign.com/scripts/",
+    "license_body": "\nTerms of Use\n\nAll scripts available here are original scripts written by the author\nhimself and are protected by international copyright laws. The terms of\nuse listed below will have to be accepted by those who shall be using\nthese scripts:\n\n1. The scripts found here may be used on both personal and commercial\nweb sites free of charge. However, users may not specifically sell\nthese scripts or add them to a product on sale without the expressed\nwritten permission of the author. These scripts may also not be put\nup at another script archive without prior permission of the author.\n\n2. Users must agree not to remove the copyright notice inside each\nscript. This notice is the one that appears inside the <script> tag\nof each script as reproduced below:\n\n|   <!-- Copyright 200_, Sandeep Gangadharan -->\n<!-- For more free scripts go to\nhttp://www.sivamdesign.com/scripts/ --> |\n\nIf users wish to insert the scripts into external .js files, the\ncopyright notices can be retained as usual within the <script> tags\nas shown below:\n\n|   <script language=\"javascript\" type=\"text/javascript\"\nsrc=\"script.js\">\n<!-- Copyright 200_, Sandeep Gangadharan -->\n<!-- For more free scripts go to\nhttp://www.sivamdesign.com/scripts/ -->\n</script> |\n\n3. Although the use of these scripts are not in any way harmful to any\nmachines, the users must agree not to hold the author liable for any\ndamage resulting from either the proper or improper use of any of\nthe scripts. i.e. the use of these scripts is at the users own risk.\n\nIt would be very much appreciated if a link back to the author's home\npage is included although it is not required.\n\nIf you use any of the scripts listed here it will be understood that you\nhave read and agreed to the above usage terms and conditions.\n\n\nCopyright © 2000 - 2014 *Sandeep Gangadharan*. All rights reserved."
+}

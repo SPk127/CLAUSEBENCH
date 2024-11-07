@@ -1,0 +1,12 @@
+{
+    "filename": "cups-apple-os-exception.license",
+    "key": "cups-apple-os-exception",
+    "short_name": "CUPS Apple OS Exception to GPL and LGPL",
+    "name": "CUPS Apple OS Exception to GPL and LGPL",
+    "category": "Copyleft Limited",
+    "owner": "Easy Software Products",
+    "homepage_url": "https://opensource.apple.com/source/cups/cups-91/LICENSE.txt.auto.html",
+    "is_exception": "yes",
+    "spdx_license_key": "LicenseRef-scancode-cups-apple-os-exception",
+    "license_body": "\nIn addition, as the copyright holder of CUPS, Apple Inc. grants\nthe following special exceptions:\n\n1. Apple Operating System Development License Exception;\n\na. Software that is developed by any person or entity\nfor an Apple Operating System (\"Apple OS-Developed\nSoftware\"), including but not limited to Apple and\nthird party printer drivers, filters, and backends\nfor an Apple Operating System, that is linked to the\nCUPS imaging library or based on any sample filters\nor backends provided with CUPS shall not be\nconsidered to be a derivative work or collective work\nbased on the CUPS program and is exempt from the\nmandatory source code release clauses of the GNU GPL.\nYou may therefore distribute linked combinations of\nthe CUPS imaging library with Apple OS-Developed\nSoftware without releasing the source code of the\nApple OS-Developed Software. You may also use sample\nfilters and backends provided with CUPS to develop\nApple OS-Developed Software without releasing the\nsource code of the Apple OS-Developed Software.\n\nb. An Apple Operating System means any operating system\nsoftware developed and/or marketed by Apple Inc.,\nincluding but not limited to all existing releases and\nversions of Apple's Darwin, OS X, and OS X Server\nproducts and all follow-on releases and future\nversions thereof.\n\nc. This exception is only available for Apple\nOS-Developed Software and does not apply to software\nthat is distributed for use on other operating\nsystems.\n\nd. All CUPS software that falls under this license\nexception have the following text at the top of each\nsource file:\n\nThis file is subject to the Apple OS-Developed\nSoftware exception.\n\n2. OpenSSL Toolkit License Exception;\n\na. Apple Inc. explicitly allows the compilation and\ndistribution of the CUPS software with the OpenSSL\nToolkit.\n\nNo developer is required to provide these exceptions in a\nderived work."
+}

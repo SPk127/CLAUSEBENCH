@@ -1,0 +1,12 @@
+{
+    "filename": "openssl-exception-lgpl.license",
+    "key": "openssl-exception-lgpl",
+    "short_name": "OpenSSL exception to LGPL",
+    "name": "OpenSSL exception to LGPL",
+    "category": "Copyleft Limited",
+    "owner": "cryptsetup Project",
+    "homepage_url": "https://gitlab.com/cryptsetup/cryptsetup/-/blob/master/COPYING.LGPL#L505",
+    "is_exception": "yes",
+    "spdx_license_key": "LicenseRef-scancode-openssl-exception-lgpl",
+    "license_body": "\nIn addition, as a special exception, the copyright holders give\npermission to link the code of portions of this program with the\nOpenSSL library under certain conditions as described in each\nindividual source file, and distribute linked combinations including\nthe two.  You must obey the GNU Lesser General Public License in all\nrespects for all of the code used other than OpenSSL.  If you modify\nfile(s) with this exception, you may extend this exception to your\nversion of the file(s), but you are not obligated to do so.  If you do\nnot wish to do so, delete this exception statement from your version.\nIf you delete this exception statement from all source files in the\nprogram, then also delete it here."
+}

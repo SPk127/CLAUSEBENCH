@@ -1,0 +1,23 @@
+[
+{
+    "license_summary": {
+        "license_information": {
+            "filename": "unicode-v3.license",
+            "key": "unicode-v3",
+            "short_name": "Unicode License v3",
+            "name": "Unicode License v3",
+            "category": "Permissive",
+            "owner": "Unicode Consortium",
+            "homepage_url": "https://www.unicode.org/license.txt",
+            "spdx_license_key": "Unicode-3.0",
+            "other_spdx_license_keys": "\n- LicenseRef-scancode-unicode-v3"
+        },
+        "scanner_results": "MIT-style [N]; LicenseRef-scancode-unicode [Sc: 86%]"
+    },
+    "mistral_large_model_response": {
+        "license_name": "Unicode License v3",
+        "license_type": "Permissive",
+        "explanation": "No explanation provided"
+    }
+}
+]

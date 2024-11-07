@@ -1,0 +1,13 @@
+{
+    "filename": "kicad-libraries-exception.license",
+    "key": "kicad-libraries-exception",
+    "short_name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+    "name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+    "category": "Copyleft Limited",
+    "owner": "KiCad",
+    "notes": "this is always an execption to the CC-BY-SA-4.0 license. and the homepage introduces\nthis expection this way \"The KiCad libraries are licensed under the Creative Commons CC-BY-SA\n4.0 License, with the following exception.\" We used to track this as cc-by-sa-4.0 WITH generic-exception",
+    "is_exception": "yes",
+    "spdx_license_key": "KiCad-libraries-exception",
+    "other_urls": "\n- https://www.kicad.org/libraries/license/",
+    "license_body": "\nTo the extent that the creation of electronic designs that use 'Licensed Material'\ncan be considered to be 'Adapted Material', then the copyright holder waives article\n3 of the license with respect to these designs and any generated files which use\ndata provided as part of the 'Licensed Material'."
+}

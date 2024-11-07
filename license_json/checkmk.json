@@ -1,0 +1,11 @@
+{
+    "filename": "checkmk.license",
+    "key": "checkmk",
+    "short_name": "Checkmk License",
+    "name": "Checkmk License",
+    "category": "Permissive",
+    "owner": "libcheck",
+    "spdx_license_key": "checkmk",
+    "other_urls": "\n- https://github.com/libcheck/check/blob/master/checkmk/checkmk.in",
+    "license_body": "\nRedistribution of this program in any form, with or without\nmodifications, is permitted, provided that the above copyright is\nretained in distributions of this program in source form.\n\n(This is a free, non-copyleft license compatible with pretty much any\nother free or proprietary license, including the GPL. It's essentially\na scaled-down version of the \"modified\" BSD license.)"
+}

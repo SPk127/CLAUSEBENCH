@@ -1,0 +1,11 @@
+{
+    "filename": "proprietary.license",
+    "key": "proprietary\nis_deprecated: yes",
+    "short_name": "Proprietary",
+    "name": "Proprietary",
+    "category": "Proprietary Free",
+    "owner": "Unspecified",
+    "notes": "see proprietary-license instead",
+    "is_generic": "yes",
+    "license_body": ""
+}

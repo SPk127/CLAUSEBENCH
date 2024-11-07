@@ -1,0 +1,13 @@
+{
+    "filename": "dhtmlab-public.license",
+    "key": "dhtmlab-public",
+    "short_name": "dhtmlab Public License",
+    "name": "Dynamic HTML Lab Public License",
+    "category": "Permissive",
+    "owner": "DHTML Lab",
+    "spdx_license_key": "LicenseRef-scancode-dhtmlab-public",
+    "ignorable_copyrights": "\n- Copyright (c) 2000 internet.com Corp.",
+    "ignorable_holders": "\n- internet.com Corp.",
+    "ignorable_urls": "\n- http://www.dhtmlab.com/",
+    "license_body": "\nCopyright (c) 2000 internet.com Corp. All Rights Reserved.\nOriginally published and documented at http://www.dhtmlab.com/\nYou may use this code on a public Web site only if this entire\ncopyright notice appears unchanged and you publicly display\non the Web page a link to http://www.dhtmlab.com/.\""
+}

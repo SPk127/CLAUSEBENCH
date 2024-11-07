@@ -1,0 +1,10 @@
+{
+    "filename": "broadcom-unpublished-source.license",
+    "key": "broadcom-unpublished-source\nis_deprecated: yes",
+    "short_name": "Broadcom Unpublished Source License",
+    "name": "Broadcom Unpublished Source License",
+    "category": "Commercial",
+    "owner": "Broadcom",
+    "notes": "use unpublished-source instead",
+    "license_body": "\nThis is UNPUBLISHED PROPRIETARY SOURCE CODE of Broadcom Corporation; the contents of this file may not be disclosed to third parties, copied or duplicated in any form, in whole or in part, without the prior written permission of Broadcom Corporation."
+}

@@ -1,0 +1,14 @@
+{
+    "filename": "json-pd.license",
+    "key": "json-pd",
+    "short_name": "JSON-PD",
+    "name": "JSON Public Domain Notice",
+    "category": "Public Domain",
+    "owner": "JSON.org",
+    "homepage_url": "http://www.json.org/js.html",
+    "spdx_license_key": "LicenseRef-scancode-json-pd",
+    "faq_url": "http://www.json.org/js.html",
+    "other_urls": "\n- http://javascript.crockford.com/jsmin.html",
+    "ignorable_urls": "\n- http://javascript.crockford.com/jsmin.html\n- http://www.json.org/js.html",
+    "license_body": "\nPublic Domain.\n\nNO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.\n\nSee http://www.JSON.org/js.html\n\nThis code should be minified before deployment.\nSee http://javascript.crockford.com/jsmin.html\n\nUSE YOUR OWN COPY. IT IS EXTREMELY UNWISE TO LOAD CODE FROM SERVERS YOU DO NOT CONTROL."
+}

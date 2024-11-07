@@ -1,0 +1,369 @@
+{"license_name": "bsd-zero.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.'\"\n}\n```"}
+{"license_name": "bsd-zero.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.'\"\n}\n```"}
+{"license_name": "bsd-zero.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"3: 'IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.'\"\n}\n```"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"39: 'a royalty-free, non-exclusive license to use, reproduce, make derivative works of, display and distribute the Software.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"34: 'make derivative works of' and 44: 'add your own copyright statement to your modifications of the Software.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"23: 'to make, have made, use, sell and otherwise transfer your Contribution, alone or in combination with any other code.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"48-49: 'IN NO EVENT SHALL BRIGHAM OR ANY CONTRIBUTOR BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY ARISING IN ANY WAY RELATED TO THE SOFTWARE, EVEN IF BRIGHAM OR ANY CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"18: 'you have preserved in the Contribution all applicable attributions, copyright notices and licenses for any third party software or data included in the Contribution.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include License", "response": "```json\n{\n  \"term\": \"Include License\",\n  \"marker\": \"NOT SPECIFIED\",\n  \"explanation\": \"The provided excerpts do not explicitly mention the requirement to include the full license text with distributions.\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"22: 'you, with right to sublicense' and 34: 'provide additional or different license terms and conditions in your sublicenses of modifications of the Software.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"51: 'None of the names, logos or trademarks of Brigham or any of Brigham's affiliates or any of the Contributors, or any funding agency, may be used to endorse or promote products produced in whole or in part by operation of the Software or derived from or based on the Software without specific prior written permission from the applicable party.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"OPTIONAL\",\n  \"explanation\": \"35: 'you consider making, but are under no obligation to make, the source code of any of your modifications to the Software freely available to others on an open source basis.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Relicense", "response": "```json\n{\n  \"term\": \"Relicense\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"37: 'provide additional or different license terms and conditions in your sublicenses of modifications of the Software.'\"\n}\n```"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"6: 'Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met.'\"\n}\n```"}
+{"license_name": "attribution.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"4: 'Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met.'\"\n}\n```"}
+{"license_name": "attribution.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"14: 'IN NO EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES...'\"\n}\n```"}
+{"license_name": "attribution.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"10: 'Neither the name nor any trademark of the Author may be used to endorse or promote products derived from this software without specific prior written permission.'\"\n}\n```"}
+{"license_name": "attribution.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"4: 'Redistributions of source code, in whole or part and with or without modification (the \\\"Code\\\"), must prominently display this GPG-signed text in verifiable form.'\"\n}\n```"}
+{"license_name": "attribution.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"2: 'Permission is granted to make and distribute verbatim copies of this document provided that the copyright notice and this permission notice are preserved on all copies.'\"\n}\n```"}
+{"license_name": "abstyles.license", "license_terms": "Modify", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'This program is distributed WITHOUT ANY WARRANTY, express or implied.'\"\n}\n```"}
+{"license_name": "abstyles.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"2: 'provided that the copyright notice and this permission notice are preserved on all copies.'\"\n}\n```"}
+{"license_name": "abstyles.license", "license_terms": "Include License", "response": "```json\n{\n  \"term\": \"Include License\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"2: 'provided that the copyright notice and this permission notice are preserved on all copies.'\"\n}\n```"}
+{"license_name": "abstyles.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Distribute", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'This document may be copied, in whole or in part, in any form or by any means, as is or with alterations.'\"\n}\n```"}
+{"license_name": "adacore-doc.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Hold Liable", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"1: 'this copyright notice is included unmodified in any copy.'\"\n}\n```"}
+{"license_name": "adacore-doc.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"2: 'Adobe Systems Incorporated grants to you a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license, to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute this source code and such derivative works in source or object code form without any attribution requirements.'\"\n}\n```"}
+{"license_name": "adobe-scl.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"2: 'prepare derivative works of, publicly display, publicly perform, and distribute this source code and such derivative works in source or object code form without any attribution requirements.'\"\n}\n```"}
+{"license_name": "adobe-scl.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"7: 'IN NO EVENT SHALL MACROMEDIA OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES...'\"\n}\n```"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include License", "response": "```json\n{\n  \"term\": \"Include License\",\n  \"marker\": \"NOT SPECIFIED\",\n  \"explanation\": \"The provided license content does not explicitly mention the requirement to include the full license text with distributions.\"\n}\n```"}
+{"license_name": "adobe-scl.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"NOT SPECIFIED\",\n  \"explanation\": \"The license does not explicitly address the requirement to disclose or make the source code accessible upon distribution.\"\n}\n```"}
+{"license_name": "adobe-scl.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, distribute, and sublicense this software and its documentation for any purpose and without fee is hereby granted.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, distribute, and sublicense this software and its documentation for any purpose and without fee is hereby granted.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"8: 'IN NO EVENT SHALL ADOBE BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER ACTION ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"1: 'provided that the above copyright notices appear in all copies and that both those copyright notices and this permission notice appear in supporting documentation.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Include License", "response": "```json\n{\n  \"term\": \"Include License\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"1: 'provided that the above copyright notices appear in all copies and that both those copyright notices and this permission notice appear in supporting documentation.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, distribute, and sublicense this software and its documentation for any purpose and without fee is hereby granted.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"2: 'No trademark license to use the Adobe trademarks is hereby granted.'\"\n}\n```"}
+{"license_name": "x11-adobe.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission is hereby granted... to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation...'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"2: 'to create their own derivative works from the content of this document.'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation.'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"3: 'Adobe shall not be liable to any party for any loss of revenue or profit or for indirect, incidental, special, consequential, or other similar damages.'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"2: 'The above copyright notice and this permission notice shall be included in all copies of the documentation.'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include License", "response": "```json\n{\n  \"term\": \"Include License\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"2: 'The above copyright notice and this permission notice shall be included in all copies of the documentation.'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation.'\"\n}\n```"}
+{"license_name": "adobe-glyph.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, reproduce, display and distribute the listed typefaces is hereby granted.'\"\n}\n```"}
+{"license_name": "adobe-utopia.license", "license_terms": "Modify", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Hold Liable", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"1: 'provided that the Adobe Copyright notice appears in all whole and partial copies of the software'\"\n}\n```"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"1: 'that the following trademark symbol and attribution appear in all unmodified copies of the software.'\"\n}\n```"}
+{"license_name": "adobe-utopia.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"2: 'You may copy, display, modify and redistribute the software code either by itself or as incorporated into your code.'\"\n}\n```"}
+{"license_name": "adsl.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"2: 'You may copy, display, modify and redistribute the software code either by itself or as incorporated into your code.'\"\n}\n```"}
+{"license_name": "adsl.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Hold Liable", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'a world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable license... to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5: 'modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5: 'to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"16-18: 'UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE LICENSOR BE LIABLE TO ANY PERSON FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENSE OR THE USE OF THE ORIGINAL WORK INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PERSON SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"7: 'Redistributions of the Original Work must reproduce all copyright notices in the Original Work as furnished by the Licensor.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"5: 'non-sublicenseable license' explicitly prohibits sublicensing.\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"9: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"22: 'Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.'\"\n}\n```"}
+{"license_name": "afl-1.1.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"4: 'a world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable license... to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"6: 'modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"4: 'to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"16-18: 'Under no circumstances and under no legal theory...shall the Licensor be liable to any person for any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work...'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"2: 'whose owner (the \\\"Licensor\\\") has placed the following notice immediately following the copyright notice for the Original Work.'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"4: 'non-sublicenseable license' explicitly prohibits sublicensing.\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"9: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"6-7: 'You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an 'Attribution Notice.' This indicates that the source code must be disclosed and retained in derivative works.\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Give Credit", "response": "```json\n{\n  \"term\": \"Give Credit\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"6-7: 'You must retain...all copyright, patent or trademark notices...as well as any notices of licensing and any descriptive text identified therein as an 'Attribution Notice.' You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.'\"\n}\n```"}
+{"license_name": "afl-1.2.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"11: 'to distribute copies of the Original Work and Derivative Works to the public.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'to prepare derivative works (\\\"Derivative Works\\\") based upon the Original Work.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims... to make, use, sell and offer for sale the Original Work and Derivative Works.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"28: 'Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to any person for any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"3: 'whose owner (the \\\"Licensor\\\") has placed the following notice immediately following the copyright notice for the Original Work.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5: 'Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license to do the following...'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"13: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"10: 'Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Give Credit", "response": "```json\n{\n  \"term\": \"Give Credit\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"20: 'You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an 'Attribution Notice.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Use Patent Claims", "response": "```json\n{\n  \"term\": \"Use Patent Claims\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"6: 'Grant of Patent License' and 'patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License.'\"\n}\n```"}
+{"license_name": "afl-2.0.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"11: 'to distribute copies of the Original Work and Derivative Works to the public.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'to prepare derivative works (\\\"Derivative Works\\\") based upon the Original Work.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, to make, use, sell and offer for sale the Original Work and Derivative Works.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"28-30: 'Under no circumstances and under no legal theory...shall the Licensor be liable to any person for any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work...'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"3: 'whose owner (the \\\"Licensor\\\") has placed the following notice immediately following the copyright notice for the Original Work.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5: 'Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license to do the following...'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"13: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"10: 'Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Give Credit", "response": "```json\n{\n  \"term\": \"Give Credit\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"20-21: 'You must retain...all copyright, patent or trademark notices...as well as any notices of licensing and any descriptive text identified therein as an 'Attribution Notice.' You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Use Patent Claims", "response": "```json\n{\n  \"term\": \"Use Patent Claims\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"6: 'Grant of Patent License' and 'patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License'\"\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"17: 'to distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice that does not contradict the terms and conditions, including Licensor's reserved rights and remedies, in this Academic Free License.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works (\\\"Derivative Works\\\") based upon the Original Work.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Commercial Use", "response": "```json\n{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5: 'Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, for the duration of the patents, to make, use, sell, offer for sale, have made, and import the Original Work and Derivative Works.' This explicitly permits commercial activities such as selling and offering for sale.\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"28-30: 'Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to anyone for any indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Copyright", "response": "```json\n{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"1: 'whose owner (the \\\"Licensor\\\") has placed the following licensing notice adjacent to the copyright notice for the Original Work:'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Sublicense", "response": "```json\n{\n  \"term\": \"Sublicense\",\n  \"marker\": \"NOT SPECIFIED\",\n  \"explanation\": \"23: The license mentions sublicensing in the context of the Licensor's rights, but it does not explicitly address whether users can grant sublicenses based on the original license.\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"11: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior permission of the Licensor.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Disclose Source", "response": "```json\n{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"7: 'Licensor agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Give Credit", "response": "```json\n{\n  \"term\": \"Give Credit\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"20: 'You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent, or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an 'Attribution Notice.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Use Patent Claims", "response": "```json\n{\n  \"term\": \"Use Patent Claims\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"4: 'Grant of Patent License' and 'patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License.'\"\n}\n```"}
+{"license_name": "afl-3.0.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"Relevant Lines: [1]. Content Excerpts: 'This file may be freely copied and redistributed as long as: 1) This entire notice continues to be included in the file, 2) If the file has been modified in any way, a notice of such modification is conspicuously indicated.'\"\n}\n```"}
+{"license_name": "afmparse.license", "license_terms": "Modify", "response": "```json\n{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"3: 'If the file has been modified in any way, a notice of such modification is conspicuously indicated.' This indicates that modification is allowed, with the condition of indicating modifications.\"\n}\n```"}
+{"license_name": "afmparse.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Hold Liable", "response": "```json\n{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n  \"explanation\": \"4: 'ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES, MAKES NO WARRANTY OF ANY KIND (EXPRESS, IMPLIED OR STATUTORY) WITH RESPECT TO THIS INFORMATION, AND EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSES AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.'\"\n}\n```"}
+{"license_name": "afmparse.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Use Trademark", "response": "```json\n{\n  \"term\": \"Use Trademark\",\n  \"marker\": \"NOT SPECIFIED\",\n  \"explanation\": \"2: 'PostScript, Display PostScript,and Adobe are registered trademarks of Adobe Systems Incorporated.' This line only states that these are registered trademarks but does not specify any permissions or restrictions regarding their use.\"\n}\n```"}
+{"license_name": "afmparse.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "agpl-1.0.license", "license_terms": "Distribute", "response": "```json\n{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5: 'Everyone is permitted to copy and distribute verbatim copies of this license document.'\"\n}\n```"}

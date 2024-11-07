@@ -1,0 +1,12 @@
+{
+    "filename": "dvipdfm.license",
+    "key": "dvipdfm",
+    "short_name": "dvipdfm License",
+    "name": "dvipdfm License",
+    "category": "Permissive",
+    "owner": "Unspecified",
+    "homepage_url": "https://fedoraproject.org/wiki/Licensing/dvipdfm",
+    "notes": "|\nPer Fedora, \"should\" does not mean \"must\", and there are implied rights for\nunlimited copying and distribution rights for unmodified versions.",
+    "spdx_license_key": "dvipdfm",
+    "license_body": "\nA modified version of this file may be distributed, but it should be distributed\nwith a *different* name. Changed files must be distributed *together with a\ncomplete and unchanged* distribution of these files."
+}

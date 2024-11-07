@@ -1,0 +1,11 @@
+{
+    "filename": "generic-amiwm.license",
+    "key": "generic-amiwm",
+    "short_name": "Generic-amiwm",
+    "name": "Generic-amiwm",
+    "category": "Proprietary Free",
+    "owner": "Marcus Comstedt",
+    "homepage_url": "https://metadata.ftp-master.debian.org/changelogs//non-free/a/amiwm/amiwm_0.22pl2-3_copyright",
+    "spdx_license_key": "LicenseRef-scancode-generic-amiwm",
+    "license_body": "\nLicense: Generic-amiwm\nGeneric amiwm License\n=====================\n.\nThis license applies to whomever receives this file.  It is a generic\nlicense to use and distribute amiwm.  If you want to acquire the software\nunder a different license, please contact the author.  This license is\nin part based on the XV license by John Bradley.\n.\nPermission to copy and distribute amiwm in its entirety, for\nnon-commercial purposes, is hereby granted without fee, provided\nthat this license information and copyright notice appear in all copies.\n.\nIf you redistribute amiwm, the *entire* contents of this distribution\nmust be distributed, including the README, INSTALL and LICENSE files,\nthe sources, and the various scripts and Makefiles.\n.\nYou may distribute binaries built from the unmodified amiwm sources, for\nnon-commercial purposes, provided that the entire amiwm source distribution\nis also included, as per the preceding paragraph.\n.\nYou may distribute amiwm as a component of an aggregate software\ndistribution, provided that no other condition of this license is violated.\nIn particular, the entire amiwm distribution must be included in the\naggregate software distribution.\n.\nUnrestricted use of the software is also hereby granted without fee.\nDistribution and modification of source or binaries are not considered use\nand explicitly covered by other paragraphs of this license.\n.\nThe software may be modified for your own purposes, but modified versions\nmay not be distributed without prior consent of the author.  You may\nfreely distribute patches against the unmodified source code.\n.\nThis software is provided 'as-is', without any express or implied\nwarranty.  In no event will the author be held liable for any damages\narising from the use of this software."
+}

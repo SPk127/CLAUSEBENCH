@@ -1,0 +1,13 @@
+{
+    "filename": "proprietary-license.license",
+    "key": "proprietary-license",
+    "short_name": "Proprietary License",
+    "name": "Proprietary License",
+    "category": "Commercial",
+    "owner": "Unspecified",
+    "notes": "replaces the \"proprietary\" ScanCode license key used before ScanCode 3.1.",
+    "is_generic": "yes",
+    "spdx_license_key": "LicenseRef-scancode-proprietary-license",
+    "other_spdx_license_keys": "\n- LicenseRef-LICENSE\n- LicenseRef-LICENSE.md",
+    "license_body": "\nThis component is normally licensed under a proprietary license agreement with\na supplier that has terms and conditions that restrict the use of the code,\nbut may not require payment to the supplier."
+}

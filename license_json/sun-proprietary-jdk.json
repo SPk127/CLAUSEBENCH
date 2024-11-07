@@ -1,0 +1,9 @@
+{
+    "filename": "sun-proprietary-jdk.license",
+    "key": "sun-proprietary-jdk",
+    "short_name": "Sun proprietary notice for Java sources",
+    "name": "Sun proprietary notice for Java sources\nis_deprecated: yes",
+    "category": "Commercial",
+    "owner": "Oracle Corporation",
+    "license_body": "\nSUN PROPRIETARY/CONFIDENTIAL. Use is subject to license terms."
+}

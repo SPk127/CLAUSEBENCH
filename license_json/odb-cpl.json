@@ -1,0 +1,12 @@
+{
+    "filename": "odb-cpl.license",
+    "key": "odb-cpl",
+    "short_name": "ODB CPL",
+    "name": "ODB Commercial Proprietary License (CPL)",
+    "category": "Commercial",
+    "owner": "Code Synthesis",
+    "homepage_url": "https://www.codesynthesis.com/products/odb/license.xhtml",
+    "spdx_license_key": "LicenseRef-scancode-odb-cpl",
+    "faq_url": "https://www.codesynthesis.com/products/odb/license.xhtml",
+    "license_body": "\nCommercial Proprietary License (CPL)\n\nIf you do not wish to be bound by the terms of the GPL or NCUEL, you may purchase the Commercial Proprietary License (CPL) from Code Synthesis. Additional benefits of the CPL include:\n\nRoyalty-free runtime (no runtime licenses)\nApplication source code stays private\nLegal assurances, warranties, and indemnification\nCommercial-grade technical support\nFull-time, dedicated development team provides ongoing maintenance, development, testing, and documentation\nSingle vendor to hold accountable"
+}

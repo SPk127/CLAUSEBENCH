@@ -1,0 +1,11 @@
+{
+    "filename": "libutil-david-nugent.license",
+    "key": "libutil-david-nugent",
+    "short_name": "libutil David Nugent License",
+    "name": "libutil David Nugent License",
+    "category": "Permissive",
+    "owner": "David Nugent",
+    "spdx_license_key": "libutil-David-Nugent",
+    "other_urls": "\n- http://web.mit.edu/freebsd/head/lib/libutil/login_ok.3\n- https://cgit.freedesktop.org/libbsd/tree/man/setproctitle.3bsd",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, is permitted provided that the following conditions\nare met:\n1. Redistributions of source code must retain the above copyright\nnotice immediately at the beginning of the file, without modification,\nthis list of conditions, and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n3. This work was done expressly for inclusion into FreeBSD. Other use\nis permitted provided this notation is included.\n4. Absolutely no warranty of function or purpose is made by the author\nDavid Nugent.\n5. Modifications may be freely made to this file providing the above\nconditions are met."
+}

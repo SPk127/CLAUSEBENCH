@@ -1,0 +1,15 @@
+{
+    "filename": "wtfpl-2.0.license",
+    "key": "wtfpl-2.0",
+    "short_name": "WTFPL 2.0",
+    "name": "WTFPL 2.0",
+    "category": "Public Domain",
+    "owner": "Sam Hocevar",
+    "homepage_url": "http://sam.zoy.org/wtfpl/",
+    "spdx_license_key": "WTFPL",
+    "text_urls": "\n- http://sam.zoy.org/wtfpl/COPYING",
+    "other_urls": "\n- http://fedoraproject.org/wiki/Licensing/WTFPL\n- http://www.wtfpl.net/about/",
+    "ignorable_copyrights": "\n- Copyright (c) 2004 Sam Hocevar",
+    "ignorable_holders": "\n- Sam Hocevar",
+    "license_body": "\nDO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\nVersion 2, December 2004\n\nCopyright (C) 2004 Sam Hocevar\n14 rue de Plaisance, 75014 Paris, France\nEveryone is permitted to copy and distribute verbatim or modified\ncopies of this license document, and changing it is allowed as long\nas the name is changed.\n\nDO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n0. You just DO WHAT THE FUCK YOU WANT TO."
+}

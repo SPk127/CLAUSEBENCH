@@ -1,0 +1,13 @@
+{
+    "filename": "william-alexander.license",
+    "key": "william-alexander",
+    "short_name": "William Alexander License",
+    "name": "William Alexander License",
+    "category": "Permissive",
+    "owner": "Unspecified",
+    "homepage_url": "http://www.java-samples.com/",
+    "spdx_license_key": "LicenseRef-scancode-william-alexander",
+    "text_urls": "\n- http://www.java-samples.com/",
+    "other_urls": "\n- http://www.java-samples.com/java/zip_files_in_a_folder_using_java.htm",
+    "license_body": "\nfree for use as long as this comment is included\nin the program as it is"
+}

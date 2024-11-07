@@ -1,0 +1,11 @@
+{
+    "filename": "cmu-simple.license",
+    "key": "cmu-simple",
+    "short_name": "CMU Simple License",
+    "name": "Carnegie Mellon Simple License",
+    "category": "Permissive",
+    "owner": "Carnegie Mellon University",
+    "notes": "This is a simplified variant of license with a text otherwise borrowed from the cmu-template\nlicense",
+    "spdx_license_key": "LicenseRef-scancode-cmu-simple",
+    "license_body": "\nPermission to use, copy, modify, and distribute this software and its\ndocumentation is hereby granted, provided that the above copyright\nnotice appears in all copies.  This software is provided without any\nwarranty, express or implied."
+}

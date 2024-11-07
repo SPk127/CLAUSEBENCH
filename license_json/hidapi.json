@@ -1,0 +1,13 @@
+{
+    "filename": "hidapi.license",
+    "key": "hidapi",
+    "short_name": "HIDAPI License",
+    "name": "HIDAPI License",
+    "category": "Permissive",
+    "owner": "Signal 11 Software",
+    "homepage_url": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
+    "spdx_license_key": "HIDAPI",
+    "other_spdx_license_keys": "\n- LicenseRef-scancode-hidapi",
+    "other_urls": "\n- https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
+    "license_body": "\nThis software may be used by anyone for any reason so long as the copyright\nnotice in the source files remains intact."
+}

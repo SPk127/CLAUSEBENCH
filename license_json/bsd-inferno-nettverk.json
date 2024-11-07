@@ -1,0 +1,13 @@
+{
+    "filename": "bsd-inferno-nettverk.license",
+    "key": "bsd-inferno-nettverk",
+    "short_name": "BSD-Inferno-Nettverk",
+    "name": "BSD-Inferno-Nettverk",
+    "category": "Permissive",
+    "owner": "Inferno Nettverk",
+    "spdx_license_key": "BSD-Inferno-Nettverk",
+    "other_urls": "\n- https://www.inet.no/dante/LICENSE",
+    "ignorable_authors": "\n- Inferno Nettverk A/S, Norway",
+    "ignorable_emails": "\n- sdc@inet.no",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n1. The above copyright notice, this list of conditions and the following\ndisclaimer must appear in all copies of the software, derivative works\nor modified versions, and any portions thereof, aswell as in all\nsupporting documentation.\n2. All advertising materials mentioning features or use of this software\nmust display the following acknowledgement:\nThis product includes software developed by\nInferno Nettverk A/S, Norway.\n3. The name of the author may not be used to endorse or promote products\nderived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.\nIN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,\nINCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT\nNOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF\nTHIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nInferno Nettverk A/S requests users of this software to return to\n\nSoftware Distribution Coordinator  or  sdc@inet.no\nInferno Nettverk A/S\nOslo Research Park\nGaustadalléen 21\nNO-0349 Oslo\nNorway\n\nany improvements or extensions that they make and grant Inferno Nettverk A/S\nthe rights to redistribute these changes."
+}

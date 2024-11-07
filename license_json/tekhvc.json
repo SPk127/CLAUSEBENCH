@@ -1,0 +1,11 @@
+{
+    "filename": "tekhvc.license",
+    "key": "tekhvc",
+    "short_name": "TekHVC License",
+    "name": "TekHVC License",
+    "category": "Permissive",
+    "owner": "Tektronix",
+    "spdx_license_key": "LicenseRef-scancode-tekhvc",
+    "other_urls": "\n- https://www.x.org/releases/individual/lib/libX11-1.7.2.tar.bz2",
+    "license_body": "\nPermission is hereby granted to use, copy,\nmodify, sell, and otherwise distribute this software and its\ndocumentation for any purpose and without fee, provided that:\n\n1. This copyright, permission, and disclaimer notice is reproduced in\nall copies of this software and any modification thereof and in\nsupporting documentation;\n2. Any color-handling application which displays TekHVC color\ncooordinates identifies these as TekHVC color coordinates in any\ninterface that displays these coordinates and in any associated\ndocumentation;\n3. The term \"TekHVC\" is always used, and is only used, in association\nwith the mathematical derivations of the TekHVC Color Space,\nincluding those provided in this file and any equivalent pathways and\nmathematical derivations, regardless of digital (e.g., floating point\nor integer) representation.\n\nTektronix makes no representation about the suitability of this software\nfor any purpose.  It is provided \"as is\" and with all faults.\n\nTEKTRONIX DISCLAIMS ALL WARRANTIES APPLICABLE TO THIS SOFTWARE,\nINCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE.  IN NO EVENT SHALL TEKTRONIX BE LIABLE FOR ANY\nSPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER\nRESULTING FROM LOSS OF USE, DATA, OR PROFITS, WHETHER IN AN ACTION OF\nCONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN\nCONNECTION WITH THE USE OR THE PERFORMANCE OF THIS SOFTWARE."
+}

@@ -1,0 +1,15 @@
+{
+    "filename": "skip-2014.license",
+    "key": "skip-2014",
+    "short_name": "SKIP License 2014",
+    "name": "SKIP License 2014",
+    "category": "Copyleft Limited",
+    "owner": "KDPS",
+    "homepage_url": "http://www.kanji.org/dictionaries/skip_permission.htm",
+    "spdx_license_key": "LicenseRef-scancode-skip-2014",
+    "text_urls": "\n- https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "other_urls": "\n- http://creativecommons.org/licenses/by-sa/4.0/",
+    "ignorable_authors": "\n- Jack Halpern\n- Jack Halpern Kanji Dictionary Publishing Society",
+    "ignorable_urls": "\n- http://www.kanji.org/",
+    "license_body": "\n****** SKIP - The System of Kanji Indexing by Patterns ******\n\n***** Introduction *****\n\nThe System of Kanji Indexing by Patterns (SKIP) system for\nordering kanji was developed by Jack Halpern and used as the\nmain index for kanji in the New Japanese-English Character\nDictionary (Kenkyusha/NTC, 1990) and The Kodansha Kanji\nLearner's Dictionary (Kodansha, 1999) and other dictionaries\npublished by Kanji Dictionary Publishing Society.\n\nThe SKIP codes for the kanji not in the NJECD were compiled by\nJack Halpern and Martin Duerst (the remaining kanji in JIS X\n0208) and Jim Breen (the 5,801 kanji in JIS X 0212).\nAn overview of the SKIP system is available at this page.\n\n***** Conditions Of Use *****\n\nAs of December 12, 2014, the SKIP coding system and all\nestablished SKIP codes have been placed under a Creative\nCommons_Attribution-ShareAlike_4.0_International. (The full\nLicense Code is here.)\n\nAs stated in that license, you may copy and redistribute the\nSKIP coding system in any medium or format for any purpose,\neven commercially, as long as you give appropriate credit.\n\nAppropriate credit must clearly attribute the system and codes\nto Jack Halpern, with a link to the website of the Kanji\nDictionary Publishing Society at http://www.kanji.org/. Below\nis an example of how such an attribution may look like:\n\nThe SKIP (System of Kanji Indexing by Patterns)\nsystem for ordering kanji was developed by Jack\nHalpern (Kanji Dictionary Publishing Society at http:\n//www.kanji.org/), and is used with his permission.\n\nTo get the latest SKIP codes, please contact us at jack[at]cjki.org."
+}

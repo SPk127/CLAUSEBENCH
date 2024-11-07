@@ -1,0 +1,12 @@
+{
+    "filename": "blessing.license",
+    "key": "blessing",
+    "short_name": "SQLite Blessing",
+    "name": "SQLite Blessing",
+    "category": "Public Domain",
+    "owner": "SQLite",
+    "homepage_url": "https://sqlite.org/src/artifact/df5091916dbb40e6",
+    "spdx_license_key": "blessing",
+    "other_urls": "\n- https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9\n- https://sqlite.org/src/artifact/df5091916dbb40e6",
+    "license_body": "\nThe author disclaims copyright to this source code.\nIn place of a legal notice, here is a blessing:\nMay you do good and not evil.\nMay you find forgiveness for yourself and forgive others.\nMay you share freely, never taking more than you give."
+}

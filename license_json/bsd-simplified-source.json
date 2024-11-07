@@ -1,0 +1,11 @@
+{
+    "filename": "bsd-simplified-source.license",
+    "key": "bsd-simplified-source",
+    "short_name": "BSD-Simplified source",
+    "name": "BSD-Simplified source",
+    "category": "Permissive",
+    "owner": "Unspecified",
+    "notes": "|\na very simplified bsd variant mentioning only source and without disclaimer.\nFound in the Linux kernel",
+    "spdx_license_key": "LicenseRef-scancode-bsd-simplified-source",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that redistributions of source\ncode retain the above copyright notice and this comment without\nmodification."
+}

@@ -1,0 +1,2873 @@
+[
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "agpl-3.0-bacula.license",
+                "key": "agpl-3.0-bacula",
+                "is_deprecated": "yes",
+                "short_name": "AGPL 3.0 with Bacula exception",
+                "name": "AGPL 3.0 with Bacula exception",
+                "category": "Copyleft",
+                "owner": "Bacula",
+                "notes": "composite",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/"
+            },
+            "scanner_results": "AGPL-3.0-only [N][M: 100%][Sc: 100%]; BSD-2-Clause [N][M: 97%][Sc: 100%]; LGPL [N]; OpenSSL-exception [N]; BSD-2-Clause-Views [M: 80%]; LicenseRef-scancode-bacula-exception [Sc: 100%]; AGPL-3.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "AGPL-3.0-only (Possible: BSD-2-Clause, LGPL, OpenSSL-exception, BSD-2-Clause-Views, LicenseRef-scancode-bacula-exception, AGPL-3.0-or-later)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "agpl-3.0-linking-exception.license",
+                "key": "agpl-3.0-linking-exception",
+                "short_name": "AGPL 3.0 linking exception",
+                "name": "AGPL 3.0 linking exception",
+                "category": "Copyleft Limited",
+                "owner": "Unspecified",
+                "is_exception": "yes",
+                "homepage_url": "http://mo.morsi.org/blog/2009/08/13/lesser_affero_gplv3/",
+                "notes": "renamed to linking-exception-agpl-3.0",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "AGPL [N]; AGPL-3.0-or-later [Sc: 56%]; LicenseRef-scancode-linking-exception-agpl-3.0 [Sc: 56%]; GPL-3.0-only [Sc: 100%]; AGPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "AGPL-3.0-only with linking exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "agpl-3.0-openssl.license",
+                "key": "agpl-3.0-openssl",
+                "short_name": "AGPL 3.0 with OpenSSL exception",
+                "name": "AGPL 3.0 with OpenSSL exception",
+                "category": "Copyleft",
+                "owner": "MongoDB",
+                "is_exception": "yes",
+                "is_deprecated": "yes",
+                "notes": "replaced by openssl-exception-agpl-3.0"
+            },
+            "scanner_results": "OpenSSL-exception [N]; cryptsetup-OpenSSL-exception [M: 81%]; AGPL-3.0-only [Sc: 100%]; LicenseRef-scancode-openssl-exception-agpl-3.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "AGPL 3.0 with OpenSSL exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "aladdin-md5.license",
+                "key": "aladdin-md5",
+                "is_deprecated": "yes",
+                "short_name": "Aladdin MD5 License",
+                "name": "Aladdin MD5 License",
+                "category": "Permissive",
+                "owner": "Aladdin Enterprises",
+                "notes": "This license is exactly the same as the zlib license."
+            },
+            "scanner_results": "Aladdin [N]; Zlib [N][M: 98%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Aladdin MD5 License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "aop-pd.license",
+                "key": "aop-pd",
+                "short_name": "AOP-PD",
+                "name": "AOP Public Domain License",
+                "is_deprecated": "yes",
+                "category": "Public Domain",
+                "owner": "AOP Alliance Project"
+            },
+            "scanner_results": "CC-PDDC [N][M: 100%][Sc: 92%]; LicenseRef-scancode-public-domain [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "AOP Public Domain License 1.0",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "apache-2.0-linking-exception.license",
+                "key": "apache-2.0-linking-exception",
+                "short_name": "Apache 2.0 with Linking Exception",
+                "name": "Apache 2.0 with Linking Exception",
+                "category": "Permissive",
+                "owner": "compuphase",
+                "homepage_url": "https://github.com/compuphase/minIni/blob/master/LICENSE",
+                "is_exception": "yes",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "Apache-2.0 [N][Sc: 100%]; LicenseRef-scancode-compuphase-linking-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache 2.0 with Linking Exception",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "apache-2.0-runtime-library-exception.license",
+                "key": "apache-2.0-runtime-library-exception",
+                "short_name": "Apache 2.0 with Runtime Library Exception",
+                "name": "Apache 2.0 with Runtime Library Exception",
+                "category": "Permissive",
+                "owner": "Apple",
+                "homepage_url": "https://github.com/apple/swift/blob/master/LICENSE.txt#L205",
+                "is_exception": "yes",
+                "other_urls": "\n- https://swift.org/",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "Apache-2.0 [N][Sc: 100%]; Swift-exception [M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache License 2.0 with Runtime Library Exception",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "apache-due-credit.license",
+                "key": "apache-due-credit",
+                "is_deprecated": "yes",
+                "short_name": "Apache Due Credit Variant",
+                "name": "Apache Due Credit Variant",
+                "category": "Permissive",
+                "owner": "Codehaus",
+                "notes": "replaced by dom4j",
+                "other_urls": "\n- http://openorb.sourceforge.net/license.txt\n- http://opensource.dell.com/releases/Dell_Active_System_Manager/1.0.0/license_text/DOM4J-2005-BSD-Style.pdf\n- http://www.oracle.com/technetwork/java/javaee/portalpack2-149804.txt\n- https://confluence.sakaiproject.org/plugins/viewsource/viewpagesrc.action?pageId=28442642\n- https://fedoraproject.org/wiki/Licensing:BSD?rd=Licensing/BSD#jCharts_Variant"
+            },
+            "scanner_results": "BSD-style [N]; Plexus [M: 83%][Sc: 100%]; BSD-3-Clause [Sc: 90%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache Due Credit Variant",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "apache-exception-llvm.license",
+                "key": "apache-exception-llvm",
+                "short_name": "Apache-Exception-llvm",
+                "name": "Apache Exception LLVM",
+                "category": "Permissive",
+                "owner": "Apache Software Foundation",
+                "homepage_url": "https://lists.spdx.org",
+                "is_exception": "yes",
+                "is_deprecated": "yes",
+                "notes": "Replaced by llvm-exception",
+                "text_urls": "\n- https://lists.spdx.org/pipermail/spdx-legal/2017-December/002421.html"
+            },
+            "scanner_results": "Apache-2.0 [N]; GPL-2.0-only [N]; LLVM-exception [N][M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache 2.0 with LLVM Exception",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "apache-patent-provision-exception.license",
+                "key": "apache-patent-provision-exception",
+                "is_deprecated": "yes",
+                "short_name": "Apache Patent Provision Exception Deprecated",
+                "name": "Apache Patent Provision Exception Deprecated",
+                "category": "Permissive",
+                "owner": "Michael R Sweet",
+                "homepage_url": "https://github.com/michaelrsweet/mxml/blob/c44aa254ccd90b10b260f04cf9e499bbf971c257/NOTICE",
+                "is_exception": "yes"
+            },
+            "scanner_results": "Apache-2.0 [N]; GPL-2.0-only [N]; LGPL-2.0-only [N]; LicenseRef-scancode-apache-patent-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache Patent Provision Exception Deprecated",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "broadcom-dual.license",
+                "key": "broadcom-dual",
+                "is_deprecated": "yes",
+                "short_name": "Broadcom Dual GPL-Commercial",
+                "name": "Broadcom Dual GPL-Commercial",
+                "category": "Copyleft",
+                "owner": "Broadcom",
+                "notes": "composite"
+            },
+            "scanner_results": "GPL-2.0-or-later [N]; GPL-1.0-or-later [Sc: 50%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-commercial-license [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 2 (GPL-2.0-only)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "broadcom-unpublished-source.license",
+                "key": "broadcom-unpublished-source",
+                "is_deprecated": "yes",
+                "short_name": "Broadcom Unpublished Source License",
+                "name": "Broadcom Unpublished Source License",
+                "category": "Commercial",
+                "owner": "Broadcom",
+                "notes": "use unpublished-source instead"
+            },
+            "scanner_results": "COMMERCIAL [N]; LicenseRef-scancode-unpublished-source [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Broadcom Unpublished Source License",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bsd-2-clause-freebsd.license",
+                "key": "bsd-2-clause-freebsd",
+                "is_deprecated": "yes",
+                "short_name": "BSD-2-Clause-FreeBSD",
+                "name": "BSD-2-Clause-FreeBSD License",
+                "category": "Permissive",
+                "owner": "FreeBSD",
+                "homepage_url": "http://www.freebsd.org/copyright/freebsd-license.html",
+                "notes": "This license was deprecated at SPDX because BSD-2-Clause-Views has been added, as a more\ngeneralized version; and because FreeBSD project community members have indicated that the\nfinal sentence is not part of that project's code license. It's original spdx_license_key\nWas SPDX BSD-2-Clause-FreeBSD",
+                "text_urls": "\n- http://www.freebsd.org/copyright/freebsd-license.html",
+                "faq_url": "https://www.freebsd.org/doc/en_US.ISO8859-1/articles/committers-guide/pref-license.html",
+                "ignorable_copyrights": "\n- Copyright (c) The FreeBSD Project",
+                "ignorable_holders": "\n- The FreeBSD Project"
+            },
+            "scanner_results": "BSD-2-Clause-FreeBSD [N][M: 98%]; BSD-2-Clause-Views [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-2-Clause-FreeBSD License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bsd-2-clause-netbsd.license",
+                "key": "bsd-2-clause-netbsd",
+                "is_deprecated": "yes",
+                "short_name": "BSD-2-Clause-NetBSD",
+                "name": "BSD-2-Clause-NetBSD License",
+                "category": "Permissive",
+                "owner": "NetBSD",
+                "homepage_url": "http://www.netbsd.org/about/redistribution.html#default",
+                "notes": "|\nExcept for the NetBSD Foundation name this license is identical to the\nbsd-simplified Per SPDX.org, NetBSD adopted this 2-clause license in 2008\nfor code contributed to NetBSD Foundation.\nIts former SPDX key was BSD-2-Clause-NetBSD. This is now tracked as\nbsd-simplified aka. BSD-2-Clause.",
+                "text_urls": "\n- http://www.netbsd.org/about/redistribution.html#default"
+            },
+            "scanner_results": "BSD-2-Clause [N][M: 89%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD 2-Clause \"Simplified\" License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bsd-axis.license",
+                "key": "bsd-axis",
+                "short_name": "BSD-Axis",
+                "name": "BSD-Axis",
+                "category": "Permissive",
+                "owner": "Axis Communications",
+                "notes": "This is a variant composed of clause 1 and 3 of a BSD-Modified found in the Linux kernel\nThis is now replaced by the bsd-source-code license.",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "BSD-style [N]; BSD-Source-Code [M: 89%][Sc: 50%]; BSD-3-Clause [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-3-Clause",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bsd-intel.license",
+                "key": "bsd-intel",
+                "short_name": "BSD Intel License",
+                "name": "BSD Intel License",
+                "category": "Permissive",
+                "owner": "Intel Corporation",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "BSD-3-Clause [N][M: 88%][Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD 3-Clause License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bsd-new-far-manager.license",
+                "key": "bsd-new-far-manager",
+                "is_deprecated": "yes",
+                "short_name": "BSD-3-Clause with Far Manager exception",
+                "name": "BSD-3-Clause with Far Manager exception",
+                "category": "Permissive",
+                "owner": "Far Group",
+                "is_exception": "yes"
+            },
+            "scanner_results": "BSD-3-Clause [N][Sc: 100%]; BSD-3-Clause-HP [M: 91%]; LicenseRef-scancode-far-manager-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-3-Clause with Far Manager exception",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bsd-original-uc-1990.license",
+                "key": "bsd-original-uc-1990",
+                "is_deprecated": "yes",
+                "short_name": "BSD-Original-UC-1990",
+                "name": "BSD-Original-UC-1990",
+                "category": "Permissive",
+                "owner": "Regents of the University of California",
+                "notes": "this is a duplicate of bsla license"
+            },
+            "scanner_results": "BSD-style [N]; BSD-4.3TAHOE [M: 84%]; BSD-4-Clause-UC [Sc: 100%]; LicenseRef-scancode-bsla [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-4-Clause-UC",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bzip2-libbzip-1.0.5.license",
+                "key": "bzip2-libbzip-1.0.5",
+                "is_deprecated": "yes",
+                "short_name": "bzip2 License",
+                "name": "bzip2 License",
+                "category": "Permissive",
+                "owner": "bzip",
+                "homepage_url": "http://bzip.org/1.0.5/bzip2-manual-1.0.5.html",
+                "notes": "formerly under spdx_license_key bzip2-1.0.5. See bzip2-libbzip-2010 for replacement",
+                "other_urls": "\n- http://www.bzip.org/\n- https://sourceware.org/git/?p=bzip2.git;a=blob;f=LICENSE;hb=bzip2-1.0.5"
+            },
+            "scanner_results": "bzip2 [N]; bzip2-1.0.6 [M: 94%][Sc: 95%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "bzip2 License 1.0.5",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ccrc-1.0.license",
+                "key": "ccrc-1.0",
+                "short_name": "Common Cure Rights Commitment v1.0",
+                "name": "Common Cure Rights Commitment v1.0",
+                "category": "Copyleft",
+                "owner": "Red Hat, Inc.",
+                "homepage_url": "https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing",
+                "text_urls": "\n- http://git.gluster.org/cgit/glusterfs.git/tree/COMMITMENT\n- https://raw.githubusercontent.com/wildfly/wildfly/master/COMMITMENT",
+                "other_urls": "\n- https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing\n- https://www.fsf.org/blogs/licensing/red-hat-leads-coalition-supporting-key-part-of-principles-of-community-oriented-gpl-enforcement",
+                "notes": "the text of the license itself is under the CC-BY-SA-4.0 license. And this license has\nbeen renamed to gplcc-1.0",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "CC-BY-SA-4.0 [N][Sc: 100%]; GPL-2.0-only [N]; LGPL-2.1-only [N]; GPL-CC-1.0 [M: 99%][Sc: 100%]; GPL-1.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Common Cure Rights Commitment v1.0 (GPL-CC-1.0)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "classworlds.license",
+                "key": "classworlds",
+                "is_deprecated": "yes",
+                "short_name": "Classworlds License",
+                "name": "Classworlds License",
+                "category": "Permissive",
+                "owner": "Codehaus",
+                "homepage_url": "http://classworlds.codehaus.org/license.html",
+                "notes": "|\nPer Fedora, this is an Apache 1.1 derived license. Unfortunately, clause 4\nis too broad, making it Free but GPL-incompatible. replaced by dom4j",
+                "text_urls": "\n- https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License"
+            },
+            "scanner_results": "BSD-style [N]; GPL [N]; Plexus [M: 97%][Sc: 100%]; Apache-1.1 [Sc: 90%]; LicenseRef-scancode-unknown-license-reference [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Plexus Classworlds License (Apache 1.1 derived)",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "cmr-no.license",
+                "key": "cmr-no",
+                "short_name": "CMR License",
+                "name": "Christian Michelsen Research AS License",
+                "category": "Permissive",
+                "owner": "CMR - Christian Michelsen Research AS",
+                "is_deprecated": "yes",
+                "notes": "replaced by mit-old-style"
+            },
+            "scanner_results": "MIT-CMU-style [N]; LicenseRef-scancode-mit-old-style [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MIT-old-style",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "commercial-option.license",
+                "key": "commercial-option",
+                "is_deprecated": "yes",
+                "short_name": "Commercial Option",
+                "name": "Commercial Option",
+                "category": "Commercial",
+                "owner": "Unspecified",
+                "is_generic": "yes",
+                "notes": "replaced by commercial-license"
+            },
+            "scanner_results": "Non-commercial [N]; LicenseRef-scancode-commercial-license [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Commercial Option License",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "digia-qt-exception-lgpl-2.1.license",
+                "key": "digia-qt-exception-lgpl-2.1",
+                "short_name": "Digia Qt Exception to LGPL 2.1",
+                "name": "Digia Qt Exception to LGPL 2.1",
+                "category": "Copyleft Limited",
+                "owner": "Digia",
+                "is_deprecated": "yes",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.txt",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU Lesser General Public License as published by\nthe Free Software Foundation; either version 2.1 of the License, or (at\nyour option) any later version.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License\nfor more details.\nYou should have received a copy of the GNU Lesser General Public License\nalong with this library; if not, write to the Free Software Foundation,\nInc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA\n\nDigia Qt LGPL Exception version 1.1\nAs an additional permission to the GNU Lesser General Public License\nversion\n2.1, the object code form of a \"work that uses the Library\" may incorporate\nmaterial from a header file that is part of the Library. You may distribute\nsuch object code under terms of your choice, provided that:\n(i) the header files of the Library have not been modified; and\n(ii) the incorporated material is limited to numerical parameters, data\nstructure layouts, accessors, macros, inline functions and\ntemplates; and\n(iii) you comply with the terms of Section 6 of the GNU Lesser General\nPublic License version 2.1.\nMoreover, you may apply this exception to a modified version of the\nLibrary,\nprovided that such modification does not involve copying material from the\nLibrary into the modified Library's header files unless such material is\nlimited to (i) numerical parameters; (ii) data structure layouts;\n(iii) accessors; and (iv) small macros, templates and inline functions of\nfive lines or less in length.\nFurthermore, you are not required to apply this additional permission to a\nmodified version of the Library."
+            },
+            "scanner_results": "LGPL-2.1-or-later [N][Sc: 100%]; Qt-LGPL-exception-1.1 [N][Sc: 100%]; Nokia-Qt-exception-1.1 [M: 99%]; LGPL-2.1-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Digia Qt Exception to LGPL 2.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "doug-lea.license",
+                "key": "doug-lea",
+                "is_deprecated": "yes",
+                "short_name": "Doug Lea License",
+                "name": "Doug Lea License",
+                "category": "Public Domain",
+                "owner": "Unspecified",
+                "notes": "composite of several public domain dedications"
+            },
+            "scanner_results": "Public-domain [N]; LicenseRef-scancode-public-domain [Sc: 70%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Doug Lea License (Public Domain Dedication)",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "dr-john-maddock.license",
+                "key": "dr-john-maddock",
+                "short_name": "Dr John Maddock License",
+                "name": "Dr John Maddock License",
+                "category": "Permissive",
+                "owner": "Dr John Maddock",
+                "is_deprecated": "yes",
+                "notes": "replaced by mit-old-style"
+            },
+            "scanner_results": "MIT-CMU-style [N]; LicenseRef-scancode-mit-old-style [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MIT Old Style License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "dual-bsd-gpl.license",
+                "key": "dual-bsd-gpl",
+                "is_deprecated": "yes",
+                "short_name": "Dual BSD-GPL",
+                "name": "Dual BSD-GPL",
+                "category": "Permissive",
+                "owner": "Unspecified",
+                "notes": "this has been replaced by a proper license expression"
+            },
+            "scanner_results": "BSD-3-Clause [N][Sc: 90%]; Dual-license [N]; GPL-2.0-only [N][Sc: 100%]; BSD-3-Clause-HP [M: 82%]; GPL-1.0-or-later [Sc: 90%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-3-Clause or GPL-2.0-only",
+            "license_type": "Permissive (BSD-3-Clause), Copyleft (GPL-2.0-only)",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ekioh.license",
+                "key": "ekioh",
+                "is_deprecated": "yes",
+                "short_name": "Ekioh License",
+                "name": "Ekioh License",
+                "category": "Permissive",
+                "owner": "Ekioh",
+                "notes": "|\nObsolete License -- do not use.  Except for the dangling \", subject to the\nfollowing conditions:\" text, this license is essentially identical to the\nMIT-0-Clause (mit-0) license, which has been accepted in the open source\ncommunity relatively recently.\nSee also https://kryogenix.org/code/browser/licence.html."
+            },
+            "scanner_results": "MIT-0 [N][M: 90%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MIT-0",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "etalab-2.0-fr.license",
+                "key": "etalab-2.0-fr",
+                "language": "fr",
+                "short_name": "Etalab Open License 2.0 French",
+                "name": "Etalab Open License 2.0 French",
+                "category": "Unstated License",
+                "owner": "DINUM",
+                "homepage_url": "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE",
+                "text_urls": "\n- https://github.com/etalab/licence-ouverte/blob/master/open-licence.md",
+                "other_urls": "\n- https://github.com/DISIC/politique-de-contribution-open-source/blob/master/LICENSE.pdf\n- https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE\n- https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf",
+                "ignorable_urls": "\n- http://www.data.gouv.fr/fr/datasets/xxx",
+                "notes": "Renamed to etalab-2.0"
+            },
+            "scanner_results": "See-URL [N]; etalab-2.0 [M: 89%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Licence Ouverte 2.0",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "google-patent-license-fuschia.license",
+                "key": "google-patent-license-fuschia",
+                "short_name": "Google Patent License for Fuschia",
+                "name": "Google Patent License for Fuschia",
+                "category": "Patent License",
+                "owner": "Google",
+                "homepage_url": "https://github.com/flutter/flutter/blob/master/PATENTS",
+                "faq_url": "https://en.wikipedia.org/wiki/Google_Fuchsia",
+                "is_deprecated": "yes",
+                "notes": "there was a typo in the license name and key and this is now replaced by google-patent-license-fuchsia"
+            },
+            "scanner_results": "UnclassifiedLicense [N]; LicenseRef-scancode-google-patent-license-fuchsia [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Google Patent License for Fuchsia",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-autoopts.license",
+                "key": "gpl-2.0-autoopts",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with AutoOpts exception",
+                "name": "GPL 2.0 or later with AutoOpts exception",
+                "category": "Copyleft Limited",
+                "owner": "Bruce Korb",
+                "homepage_url": "http://www.gnu.org/software/autogen/autoopts.html",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 50%]; linking-exception [N]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-autoopts-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with AutoOpts exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-bison-2.2.license",
+                "key": "gpl-2.0-bison-2.2",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with Bison 2.2 exception",
+                "name": "GPL 2.0 or later with Bison 2.2 exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "notes": "replaced by an expression of gpl-2.0 WITH bison-exception-2.2 Was formerly using this\ndeprecated SDX id GPL-2.0-with-bison-exception",
+                "is_exception": "yes",
+                "faq_url": "http://www.gnu.org/software/bison/manual/bison.html#Conditions"
+            },
+            "scanner_results": "Bison-exception-2.2 [N][Sc: 100%]; GPL-2.0-or-later [N][Sc: 50%]; GPL-2.0+-with-bison-exception [M: 93%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 or later with Bison 2.2 exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-bison.license",
+                "key": "gpl-2.0-bison",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with bison exception",
+                "name": "GPL 2.0 with bison exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "notes": "replaced by bison-exception-2.0",
+                "is_exception": "yes",
+                "faq_url": "http://www.gnu.org/software/bison/manual/bison.html#Conditions",
+                "other_urls": "\n- http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141"
+            },
+            "scanner_results": "Bison-exception [N]; GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]; Bison-exception-2.2 [Sc: 100%]; LicenseRef-scancode-bison-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Bison Exception (Possible: Bison-exception-2.2, LicenseRef-scancode-bison-exception-2.0)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-broadcom-linking.license",
+                "key": "gpl-2.0-broadcom-linking",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Broadcom Linking Exception",
+                "name": "GPL 2.0 with Broadcom Linking Exception",
+                "category": "Copyleft Limited",
+                "owner": "Broadcom",
+                "notes": "replaced by broadcom-linking-exception-2.0",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; LicenseRef-scancode-bcm-linking-exception-2.0 [Sc: 98%]; LicenseRef-scancode-commercial-license [Sc: 98%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 2 with Broadcom Linking Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-cygwin.license",
+                "key": "gpl-2.0-cygwin",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Cygwin exception",
+                "name": "GPL 2.0 with Cygwin exception",
+                "category": "Copyleft Limited",
+                "owner": "Cygwin Project",
+                "homepage_url": "http://cygwin.com/licensing.html",
+                "is_exception": "yes",
+                "notes": "replaced by cygwin-exception-2.0",
+                "text_urls": "\n- http://cygwin.com/cgi-bin/cvsweb.cgi/src/winsup/CYGWIN_LICENSE?cvsroot=src"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; LicenseRef-scancode-cygwin-exception-2.0 [Sc: 100%]; LicenseRef-scancode-commercial-license [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0 with Cygwin exception version 1.0 (Possible: GPL-2.0-only, LicenseRef-scancode-cygwin-exception-2.0)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-freertos.license",
+                "key": "gpl-2.0-freertos",
+                "is_deprecated": "yes",
+                "notes": "replaced by freertos-exception-2.0",
+                "short_name": "GPL 2.0 with FreeRTOS exception",
+                "name": "GPL 2.0 with FreeRTOS exception",
+                "category": "Copyleft Limited",
+                "owner": "FreeRTOS",
+                "homepage_url": "http://www.freertos.org/a00114.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.freertos.org/"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; freertos-exception-2.0 [M: 98%][Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-only with freertos-exception-2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-gcc-compiler-exception.license",
+                "key": "gpl-2.0-gcc-compiler-exception",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with GCC compiler exception",
+                "name": "GPL 2.0 with GCC compiler exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "notes": "replaced by gcc-compiler-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-gcc-compiler-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with GCC compiler exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-glibc.license",
+                "key": "gpl-2.0-glibc",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with GLibC exception",
+                "name": "GPL 2.0 with GLibC exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/licenses/gpl.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.gnu.org/licenses/gpl.html",
+                "notes": "replaced by mif-exception"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; mif-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [Sc: 100%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with GLibC exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-guile.license",
+                "key": "gpl-2.0-guile",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with GUILE exception",
+                "name": "GPL 2.0 with GUILE exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "notes": "replaced by guile-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; linking-exception [N]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-guile-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with GUILE exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-ice.license",
+                "key": "gpl-2.0-ice",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Ice exception",
+                "name": "GPL 2.0 with Ice exception",
+                "category": "Copyleft",
+                "owner": "ZeroC",
+                "homepage_url": "https://github.com/zeroc-ice/ice/blob/master/ICE_LICENSE",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses",
+                "notes": "replaced by ice-exception-2.0"
+            },
+            "scanner_results": "Apache-2.0 [N]; GPL-2.0-only [N][Sc: 100%]; LGPL-2.1-only [N]; LicenseRef-scancode-ice-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 2 with Ice exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-independent-module-linking.license",
+                "key": "gpl-2.0-independent-module-linking",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Independent Module Linking exception",
+                "name": "GPL 2.0 with Independent Module Linking exception",
+                "category": "Copyleft Limited",
+                "owner": "ICSharpCode",
+                "homepage_url": "http://icsharpcode.github.io/SharpZipLib/",
+                "notes": "this is a classpath exception",
+                "is_exception": "yes"
+            },
+            "scanner_results": "Classpath-exception-2.0 [N][M: 100%][Sc: 100%]; GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Independent Module Linking exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-iolib.license",
+                "key": "gpl-2.0-iolib",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with GNU IO Library exception",
+                "name": "GPL 2.0 with GNU IO Library exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "notes": "replaced by iolib-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; linking-exception [N]; GNU-compiler-exception [M: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-iolib-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with GNU IO Library exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-iso-cpp.license",
+                "key": "gpl-2.0-iso-cpp",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with ISO C++ Library exception",
+                "name": "GPL 2.0 with ISO C++ Library exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "notes": "replaced by mif-exception"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; mif-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with ISO C++ Library exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-javascript.license",
+                "key": "gpl-2.0-javascript",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Javascript exception",
+                "name": "GPL 2.0 with Javascript exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "notes": "replaced by javascript-exception-2.0",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+            },
+            "scanner_results": "GPL-exception [N]; LGPL [N]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-javascript-exception-2.0 [Sc: 100%]; GPL-2.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Javascript exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-kernel.license",
+                "key": "gpl-2.0-kernel",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Kernel Exception",
+                "name": "GPL 2.0 with Kernel Exception",
+                "category": "Copyleft Limited",
+                "owner": "Linux Foundation",
+                "is_exception": "yes",
+                "notes": "replaced by linux-syscall-exception-gpl"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; Linux-syscall-note [N][M: 100%][Sc: 100%]; GPL-1.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Kernel Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-libgit2.license",
+                "key": "gpl-2.0-libgit2",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with libgit2 exception",
+                "name": "GPL 2.0 with libgit2 exception",
+                "category": "Copyleft Limited",
+                "owner": "libgit2 Project",
+                "homepage_url": "https://github.com/libgit2/libgit2/blob/master/COPYING",
+                "is_exception": "yes",
+                "notes": "replaced by gcc-linking-exception-2.0",
+                "standard_notice": "|\nIn addition to the permissions in the GNU General Public License,\nthe authors give you unlimited permission to link the compiled\nversion of this library into combinations with other programs,\nand to distribute those combinations without any restriction\ncoming from the use of this file. (The General Public License\nrestrictions do apply in other respects; for example, they cover\nmodification of the file, and distribution when not linked into\na combined executable.)"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; GPL-2.0-with-GCC-exception [M: 80%]; GCC-exception-2.0 [M: 87%][Sc: 100%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0 with libgit2 exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-library.license",
+                "key": "gpl-2.0-library",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Library exception",
+                "name": "GPL 2.0 with Library exception",
+                "category": "Copyleft Limited",
+                "owner": "Grammatica",
+                "notes": "|\nthis classpath exception notice was last used in older versions of\ngrammatica and is no longer relevant. Use the classpath-exception-2.0\ninstead.",
+                "is_exception": "yes",
+                "other_urls": "\n- http://grammatica.percederberg.net/index.html"
+            },
+            "scanner_results": "Classpath-exception-2.0 [N][Sc: 100%]; GPL-2.0-only [N][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Library Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-libtool.license",
+                "key": "gpl-2.0-libtool",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with GNU Libtool exception",
+                "name": "GPL 2.0 with GNU Libtool exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "notes": "replaced by libtool-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; Libtool-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with GNU Libtool exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-lmbench.license",
+                "key": "gpl-2.0-lmbench",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with LMBench exception",
+                "name": "GPL 2.0 with LMBench exception",
+                "category": "Copyleft",
+                "owner": "Larry McVoy",
+                "homepage_url": "http://lmbench.sourceforge.net/",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; GPL-1.0-or-later [Sc: 100%]; LicenseRef-scancode-lmbench-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with LMBench exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-mysql-connector-odbc.license",
+                "key": "gpl-2.0-mysql-connector-odbc",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with MySQL Connector ODBC exception",
+                "name": "GPL 2.0 with MySQL Connector ODBC exception",
+                "category": "Copyleft Limited",
+                "owner": "Oracle Corporation",
+                "homepage_url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "notes": "replaced by mysql-connector-odbc-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-mysql-con-odbc-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with MySQL Connector/ODBC exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-mysql-floss.license",
+                "key": "gpl-2.0-mysql-floss",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with MySQL FLOSS exception",
+                "name": "GPL 2.0 with MySQL FLOSS exception",
+                "category": "Copyleft",
+                "owner": "Oracle Corporation",
+                "homepage_url": "https://mariadb.com/kb/en/mariadb/mariadb-license/#the-floss-exception",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "notes": "replaced by mysql-floss-exception-2.0"
+            },
+            "scanner_results": "Apache-2.0 [N]; CDDL-1.0 [N]; GPL-2.0-or-later [N][Sc: 100%]; LGPL-2.0-only [N]; MIT [N]; MPL [N]; NCSA [N]; PHP [N]; W3C [N]; mysql-floss-exception [N]; Alfresco-FLOSS [M: 90%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-mysql-floss-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MySQL FLOSS Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-openjdk.license",
+                "key": "gpl-2.0-openjdk",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with OpenJDK Classpath exception",
+                "name": "GPL 2.0 with OpenJDK Classpath exception",
+                "category": "Copyleft Limited",
+                "owner": "Oracle (Sun)",
+                "notes": "|\nuse a GPL with the openjdk-exception or with the classpath-exception-2.0\ninstead",
+                "is_exception": "yes",
+                "faq_url": "http://openjdk.java.net/legal/exception-modules-2007-05-08.html"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; OpenJDK-assembly-exception-1.0 [N][M: 91%]; GPL-2.0+-with-classpath-exception [M: 93%]; GPL-1.0-or-later [Sc: 50%]; GPL-2.0-only [Sc: 100%]; Classpath-exception-2.0 [Sc: 100%]; LicenseRef-scancode-openjdk-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-only (with OpenJDK Assembly Exception and Classpath Exception)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-openssl.license",
+                "key": "gpl-2.0-openssl",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with OpenSSL exception",
+                "name": "GPL 2.0 with OpenSSL exception",
+                "category": "Copyleft Limited",
+                "owner": "OpenSSL",
+                "homepage_url": "http://www.openssl.org/source/license.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.openssl.org/source/license.html",
+                "faq_url": "http://people.gnome.org/~markmc/openssl-and-the-gpl.html",
+                "other_urls": "\n- http://people.gnome.org/~markmc/openssl-and-the-gpl.html",
+                "notes": "replaced by openssl-exception-gpl-2.0"
+            },
+            "scanner_results": "OpenSSL [N][Sc: 100%]; OpenSSL-exception [N]; cryptsetup-OpenSSL-exception [M: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-openssl-exception-gpl-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with OpenSSL exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-oracle-mysql-foss.license",
+                "key": "gpl-2.0-oracle-mysql-foss",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Oracle MySQL FOSS exception",
+                "name": "GPL 2.0 with Oracle MySQL FOSS exception",
+                "category": "Copyleft",
+                "owner": "Oracle Corporation",
+                "homepage_url": "http://www.mysql.com/about/legal/licensing/foss-exception.html",
+                "is_exception": "yes",
+                "notes": "replaced by oracle-mysql-foss-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; mysql-floss-exception [N]; LicenseRef-scancode-oracle-mysql-foss-exception2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Oracle MySQL FOSS exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-oracle-openjdk.license",
+                "key": "gpl-2.0-oracle-openjdk",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Oracle OpenJDK classpath exception",
+                "name": "GPL 2.0 with Oracle OpenJDK classpath exception",
+                "category": "Copyleft Limited",
+                "owner": "Oracle Corporation",
+                "homepage_url": "http://openjdk.java.net/legal/gplv2+ce.html",
+                "notes": "|\nuse a GPL with the openjdk-exception or with the classpath-exception-2.0\ninstead",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; Classpath-exception-2.0 [N][M: 100%][Sc: 100%]; GPL-1.0-or-later [Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 2 with Oracle Classpath Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-ada.license",
+                "key": "gpl-2.0-plus-ada",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with Ada exception",
+                "name": "GPL 2.0 or later with Ada exception",
+                "category": "Copyleft Limited",
+                "owner": "Dmitriy Anisimkov",
+                "is_exception": "yes",
+                "other_urls": "\n- http://ada-ru.org/\n- http://zlib-ada.sourceforge.net/"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; GNAT-exception [M: 100%]; LicenseRef-scancode-ada-linking-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 or later with Ada exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-ekiga.license",
+                "key": "gpl-2.0-plus-ekiga",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with Ekiga exception",
+                "name": "GPL 2.0 or later with Ekiga exception",
+                "category": "Copyleft Limited",
+                "owner": "Ekiga",
+                "homepage_url": "http://www.ekiga.org/download-ekiga-binaries-or-source-code",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; LicenseRef-scancode-ekiga-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with Ekiga exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-gcc.license",
+                "key": "gpl-2.0-plus-gcc",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with GCC exception",
+                "name": "GPL 2.0 or later with GCC exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt"
+            },
+            "scanner_results": "GCC-exception-2.0 [N][M: 97%][Sc: 100%]; GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with GCC exception 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-geoserver.license",
+                "key": "gpl-2.0-plus-geoserver",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with GeoServer exception",
+                "name": "GPL 2.0 or later with GeoServer exception",
+                "category": "Copyleft Limited",
+                "owner": "Open Source Geospatial Foundation",
+                "homepage_url": "http://geoserver.org/",
+                "is_exception": "yes",
+                "text_urls": "\n- https://master.dl.sourceforge.net/project/geoserver/GeoServer/2.5/geoserver-2.5-src.zip",
+                "other_urls": "\n- http://geoserver.org/\n- http://openplans.org"
+            },
+            "scanner_results": "EPL-1.0 [N]; GPL-2.0-or-later [N][Sc: 100%]; LicenseRef-scancode-geoserver-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with GeoServer exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-linking.license",
+                "key": "gpl-2.0-plus-linking",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with Linking exception",
+                "name": "GPL 2.0 or later with Linking exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "notes": "replaced by linking-exception-2.0-plus",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; linking-exception [N]; SWI-exception [M: 77%]; gnu-javamail-exception [M: 84%]; LicenseRef-scancode-linking-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with Linking exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-nant.license",
+                "key": "gpl-2.0-plus-nant",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with NAnt exception",
+                "name": "GPL 2.0 or later with NAnt exception",
+                "category": "Copyleft Limited",
+                "owner": "NAnt Project",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; openvpn-openssl-exception [M: 76%]; LicenseRef-scancode-nant-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 2.0 or later with NAnt exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-openmotif.license",
+                "key": "gpl-2.0-plus-openmotif",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with Open Motif exception",
+                "name": "GPL 2.0 or later with Open Motif exception",
+                "category": "Copyleft Limited",
+                "owner": "NEdit Project",
+                "homepage_url": "http://nedit.sourcearchive.com/documentation/5.6~cvs20081118/grid3_8c-source.html",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.nedit.org/faq/",
+                "notes": "replaced by openmotif-exception-2.0-plus"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; openvpn-openssl-exception [M: 70%]; LicenseRef-scancode-openmotif-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with Open Motif exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-openssl.license",
+                "key": "gpl-2.0-plus-openssl",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with OpenSSL exception",
+                "name": "GPL 2.0 or later with OpenSSL exception",
+                "category": "Copyleft",
+                "owner": "magnumripper",
+                "homepage_url": "https://github.com/magnumripper/JohnTheRipper/blob/1.8.0/doc/LICENSE",
+                "notes": "replaced by openssl-exception-gpl-2.0-plus",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; DOC [Sc: 100%]; LicenseRef-scancode-openssl-exception-gpl-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with OpenSSL exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-sane.license",
+                "key": "gpl-2.0-plus-sane",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with SANE exception",
+                "name": "GPL 2.0 or later with SANE exception",
+                "category": "Copyleft Limited",
+                "owner": "SANE Project",
+                "homepage_url": "https://alioth.debian.org/",
+                "is_exception": "yes",
+                "text_urls": "\n- https://alioth.debian.org/frs/download.php/file/4224/sane-backends-1.0.27.tar.gz"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; linking-exception [N]; SANE-exception [M: 92%]; LicenseRef-scancode-sane-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 or later with SANE exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-subcommander.license",
+                "key": "gpl-2.0-plus-subcommander",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with Subcommander exception",
+                "name": "GPL 2.0 or later with Subcommander exception",
+                "category": "Copyleft Limited",
+                "owner": "Tigris Project",
+                "homepage_url": "http://subversion.tigris.org/",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; openvpn-openssl-exception [M: 75%]; LicenseRef-scancode-subcommander-exception-2.0plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with Subcommander exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-syntext.license",
+                "key": "gpl-2.0-plus-syntext",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or GPL 3.0 with Syntext Serna exception",
+                "name": "GPL 2.0 or GPL 3.0 with Syntext Serna exception",
+                "category": "Copyleft Limited",
+                "owner": "Syntext",
+                "homepage_url": "https://github.com/ydirson/serna-free/blob/master/GPL_EXCEPTION.txt",
+                "is_exception": "yes"
+            },
+            "scanner_results": "AFL-3.0 [N]; Apache-2.0 [N]; Artistic-1.0 [N]; CDDL-1.0 [N]; GPL-3.0-only [N][Sc: 100%]; LGPL-2.0-only [N]; MIT [N]; MPL [N]; Python-2.0 [N]; X11 [N]; ZPL-2.1 [N]; GPL-1.0-or-later [Sc: 50%]; GPL-2.0-or-later [Sc: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-syntext-serna-exception-1.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache License 2.0, Artistic license (as set forth in the addendum file), BSD license \"July 22 1999\", CDDL-1.0, LGPL-2.0-only, MIT License (as set forth in the addendum file), MPL 1.0 or 1.1, Python Software Foundation License 2.1.1",
+            "license_type": "Permissive (Apache License 2.0, BSD license \"July 22 1999\", MIT License); Weak Copyleft (Artistic license, CDDL-1.0, LGPL-2.0-only, MPL 1.0 or 1.1, Python Software Foundation License 2.1.1)",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-plus-upx.license",
+                "key": "gpl-2.0-plus-upx",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 or later with UPX exception",
+                "name": "GPL 2.0 or later with UPX exception",
+                "category": "Copyleft Limited",
+                "owner": "UPX",
+                "homepage_url": "https://github.com/upx/upx/blob/master/LICENSE",
+                "is_exception": "yes",
+                "other_urls": "\n- http://wildsau.idv.uni-linz.ac.at/mfx/upx.html\n- http://www.nexus.hu/upx\n- http://upx.tsx.org"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; UPX-exception [N]; LicenseRef-scancode-upx-exception-2.0-plus [Sc: 95%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0-or-later with UPX exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-proguard.license",
+                "key": "gpl-2.0-proguard",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with ProGuard exception",
+                "name": "GPL 2.0 with ProGuard exception",
+                "category": "Copyleft Limited",
+                "owner": "ProGuard Project",
+                "homepage_url": "http://proguard.sourceforge.net/index.html#license.html",
+                "notes": "composite replaced by roguard-exception-2.0",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; LicenseRef-scancode-proguard-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with ProGuard exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-qt-qca.license",
+                "key": "gpl-2.0-qt-qca",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Qt-QCA exception",
+                "name": "GPL 2.0 with Qt-QCA exception",
+                "category": "Copyleft Limited",
+                "owner": "Psi Project",
+                "is_exception": "yes",
+                "other_urls": "\n- http://downloads.sourceforge.net/psi/psi-0.15.tar.bz2"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; LicenseRef-scancode-qt-qca-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-2.0 with Qt-QCA exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-redhat.license",
+                "key": "gpl-2.0-redhat",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with Fedora Red Hat Exception",
+                "name": "GPL 2.0 with Fedora Red Hat Exception",
+                "category": "Copyleft Limited",
+                "owner": "Fedora",
+                "homepage_url": "http://www.directory.fedora.redhat.com/wiki/GPL_Exception_License_Text",
+                "notes": "replaced by 389-exception",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.directory.fedora.redhat.com/wiki/GPL_Exception_License_Text"
+            },
+            "scanner_results": "389-exception [N][M: 87%][Sc: 100%]; GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with Fedora Red Hat Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-rrdtool-floss.license",
+                "key": "gpl-2.0-rrdtool-floss",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with RRDtool FLOSS Exception",
+                "name": "GPL 2.0 with RRDtool FLOSS Exception",
+                "category": "Copyleft Limited",
+                "owner": "RRDtool Project",
+                "homepage_url": "https://raw.github.com/oetiker/rrdtool-1.x/master/COPYRIGHT",
+                "notes": "composite replaced by rrdtool-floss-exception-2.0",
+                "is_exception": "yes"
+            },
+            "scanner_results": "CPL-1.0 [N]; GPL-2.0-or-later [N][Sc: 100%]; LGPL-1.0-only [N]; MIT [N]; MPL [N]; MySQL-style [N]; PHP [N]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-rrdtool-floss-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with RRDtool FLOSS Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-2.0-uboot.license",
+                "key": "gpl-2.0-uboot",
+                "is_deprecated": "yes",
+                "short_name": "GPL 2.0 with U-Boot exception",
+                "name": "GPL 2.0 with U-Boot exception",
+                "category": "Copyleft Limited",
+                "owner": "U-Boot",
+                "homepage_url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+                "notes": "replaced by u-boot-exception-2.0"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; GPL-2.0-only [Sc: 100%]; u-boot-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 2.0 with U-Boot exception",
+            "license_type": "Copyleft Limited",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-aptana.license",
+                "key": "gpl-3.0-aptana",
+                "is_deprecated": "yes",
+                "short_name": "GPL 3.0 with Aptana exception",
+                "name": "GPL 3.0 with Aptana exception",
+                "category": "Copyleft",
+                "owner": "Appcelerator",
+                "homepage_url": "https://github.com/aptana/studio3/blob/development/README.md",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.aptana.com/legal/gpl\n- ttp://www.aptana.com/legal/gpl"
+            },
+            "scanner_results": "MIT [N]; BSD [N]; GPL-3.0-only [N][Sc: 100%]; LGPL-2.0-only [N]; MPL-1.1 [N]; GPL-1.0-or-later [Sc: 50%]; LicenseRef-scancode-aptana-exception-3.0 [Sc: 100%]; LicenseRef-scancode-unknown [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 3.0 with Aptana exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-bison.license",
+                "key": "gpl-3.0-bison",
+                "is_deprecated": "yes",
+                "short_name": "GPL 3.0 or later with Bison exception",
+                "name": "GPL 3.0 or later with Bison exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-3.0.txt",
+                "notes": "replaced by bison-exception-2.2"
+            },
+            "scanner_results": "Bison-exception-2.2 [N][Sc: 50%]; GPL-3.0-or-later [N][Sc: 50%]; GPL-2.0+-with-bison-exception [M: 93%]; GPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL 3.0 or later with Bison exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-cygwin.license",
+                "key": "gpl-3.0-cygwin",
+                "is_deprecated": "yes",
+                "short_name": "GPL 3.0 or later with Cygwin exception",
+                "name": "GPL 3.0 or later with Cygwin exception",
+                "category": "Copyleft Limited",
+                "owner": "Cygwin Project",
+                "homepage_url": "http://cygwin.com/licensing.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://cygwin.com/cgi-bin/cvsweb.cgi/src/winsup/CYGWIN_LICENSE?cvsroot=src",
+                "other_urls": "\n- http://www.opensource.org/docs/osd/\n- http://www.redhat.com/about/contact/ww/\n- http://www.redhat.com/software/cygwin/"
+            },
+            "scanner_results": "GPL-3.0-or-later [N][Sc: 50%]; LicenseRef-scancode-unknown-license-reference [Sc: 53%]; LicenseRef-scancode-cygwin-exception-3.0 [Sc: 97%]; GPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 3 or later with Cygwin exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-font.license",
+                "key": "gpl-3.0-font",
+                "is_deprecated": "yes",
+                "short_name": "GPL 3.0 or later with font exception",
+                "name": "GPL 3.0 or later with font exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/software/freefont/license.html",
+                "is_exception": "yes",
+                "notes": "replaced by font-exception-gpl"
+            },
+            "scanner_results": "Font-exception-2.0 [N][M: 100%][Sc: 100%]; GPL-3.0-or-later [N][Sc: 50%]; GPL-1.0-or-later [Sc: 50%]; GPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License 3.0 or later with font exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-openbd.license",
+                "key": "gpl-3.0-openbd",
+                "is_deprecated": "yes",
+                "short_name": "GPL 3.0h with OpenBD exception",
+                "name": "GPL 3.0h with OpenBD exception",
+                "category": "Copyleft",
+                "owner": "OpenBD",
+                "notes": "composite replaced by openbd-exception-3.0",
+                "is_exception": "yes",
+                "standard_notice": "|\ntagServlet Ltd grants the user the exception to distribute the entire Open\nBlueDragon runtime libraries without the web application (.cfml, .html,\n.js, .css, etc) that Open BlueDragon powers, from itself being licensed\nunder the GNU General Public License (v3), as long the entire runtime\nremains intact and includes all license information."
+            },
+            "scanner_results": "GPL-3.0-only [N][Sc: 100%]; GPL-3.0-linking-exception [M: 75%]; GPL-1.0-or-later [Sc: 50%]; LicenseRef-scancode-openbd-exception-3.0 [Sc: 100%]; LicenseRef-scancode-gpl-generic-additional-terms [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-3.0-only (Possible: GPL-1.0-or-later, GPL-3.0-linking-exception)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-plus-openssl.license",
+                "key": "gpl-3.0-plus-openssl",
+                "is_deprecated": "yes",
+                "short_name": "GPL 3.0 or later with OpenSSL exception",
+                "name": "GPL 3.0 or later with OpenSSL exception",
+                "category": "Copyleft Limited",
+                "owner": "Tildeslash",
+                "notes": "replaced by openssl-exception-gpl-3.0-plus",
+                "is_exception": "yes"
+            },
+            "scanner_results": "GPL-3.0-or-later [N][Sc: 100%]; OpenSSL-exception [N]; cryptsetup-OpenSSL-exception [M: 100%]; LicenseRef-scancode-openssl-exception-gpl-3.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License version 3 or later with OpenSSL exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "historical-sell-variant.license",
+                "key": "historical-sell-variant",
+                "short_name": "Historical Permission Notice and Disclaimer - sell variant",
+                "name": "Historical Permission Notice and Disclaimer - sell variant",
+                "other_urls": "\n- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/sunrpc/auth_gss/gss_generic_token.c?h=v4.19",
+                "category": "Permissive",
+                "owner": "Unspecified",
+                "minimum_coverage": "40",
+                "is_deprecated": "yes",
+                "notes": "this is actually the same as the x11-keith-packard"
+            },
+            "scanner_results": "HPND-sell-variant [N][M: 86%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Historical Permission Notice and Disclaimer - sell variant",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "hs-regexp-orig.license",
+                "key": "hs-regexp-orig",
+                "is_deprecated": "yes",
+                "short_name": "Henry Spencer Original Regexp License",
+                "name": "Henry Spencer Original Regexp License",
+                "category": "Permissive",
+                "owner": "Henry Spencer",
+                "notes": "deprecated in favor of the regexp license which is identical",
+                "other_urls": "\n- https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License"
+            },
+            "scanner_results": "Spencer-86 [N][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Henry Spencer Original Regexp License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.0-fltk.license",
+                "key": "lgpl-2.0-fltk",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.0 with FLTK exception",
+                "name": "LGPL 2.0 with FLTK exception",
+                "category": "Copyleft Limited",
+                "owner": "FLTK",
+                "homepage_url": "http://www.fltk.org/COPYING.php",
+                "is_exception": "yes",
+                "notes": "replaced by fltk-exception-lgpl-2.0"
+            },
+            "scanner_results": "LGPL-2.0-only [N][Sc: 80%]; FLTK-exception [M: 98%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.0 with FLTK exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.0-plus-gcc.license",
+                "key": "lgpl-2.0-plus-gcc",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.0 or later with GCC exception",
+                "name": "LGPL 2.0 or later with GCC Runtime Library exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.opensource.apple.com/source/libcppabi/libcppabi-26/include/demangle.h"
+            },
+            "scanner_results": "GCC-exception-2.0 [N][M: 93%][Sc: 100%]; LGPL-2.0-or-later [N][Sc: 100%]; GCC-exception-3.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.0-or-later with GCC Runtime Library exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-digia-qt.license",
+                "key": "lgpl-2.1-digia-qt",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 with Digia Qt Exception",
+                "name": "LGPL 2.1 with Digia Qt Exception",
+                "category": "Copyleft Limited",
+                "owner": "Digia",
+                "homepage_url": "http://doc.qt.io/qt-5/lgpl.html",
+                "is_exception": "yes",
+                "notes": "replaced by qt-company-exception-2017-lgpl-2.1 and then by qt-lgpl-exception-1.1"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Qt-LGPL-exception-1.1 [N][Sc: 100%]; Nokia-Qt-exception-1.1 [M: 99%]; LGPL-2.0-or-later [Sc: 75%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.1 with Digia Qt Exception 1.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-nokia-qt-1.0.license",
+                "key": "lgpl-2.1-nokia-qt-1.0",
+                "short_name": "Nokia Qt LGPL Exception 1.0",
+                "name": "Nokia Qt LGPL Exception v1.0",
+                "category": "Copyleft Limited",
+                "is_exception": "yes",
+                "is_deprecated": "yes",
+                "owner": "Nokia",
+                "notes": "Replaced by qt-company-exception-lgpl-2.1"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; LGPL-2.0-or-later [Sc: 75%]; LicenseRef-scancode-qt-company-exception-lgpl-2.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.1-only with Nokia Qt LGPL Exception v1.0 (Deprecated)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-nokia-qt-1.1.license",
+                "key": "lgpl-2.1-nokia-qt-1.1",
+                "short_name": "Nokia Qt LGPL Exception 1.1",
+                "name": "Nokia Qt LGPL Exception v1.1",
+                "category": "Copyleft Limited",
+                "is_exception": "yes",
+                "is_deprecated": "yes",
+                "notes": "replaced by qt-company-exception-lgpl-2.1",
+                "owner": "Nokia",
+                "text_urls": "\n- https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Nokia-Qt-exception-1.1 [N][M: 100%]; LGPL-2.0-or-later [Sc: 75%]; Qt-LGPL-exception-1.1 [Sc: 100%]; Nokia [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.1 with Nokia Qt Exception 1.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-nokia-qt.license",
+                "key": "lgpl-2.1-nokia-qt",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 with Nokia Qt Exception",
+                "name": "LGPL 2.1 with Nokia Qt Exception",
+                "category": "Copyleft Limited",
+                "owner": "Nokia",
+                "is_exception": "yes",
+                "text_urls": "\n- https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION",
+                "other_urls": "\n- http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
+            },
+            "scanner_results": "LGPL-2.1-or-later [N][Sc: 99%]; Nokia-Qt-exception-1.1 [N][M: 100%]; LGPL-2.0-or-later [Sc: 75%]; Qt-LGPL-exception-1.1 [Sc: 99%]; LGPL-2.1-only [Sc: 100%]; Nokia [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.1 with Nokia Qt Exception version 1.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-plus-linking.license",
+                "key": "lgpl-2.1-plus-linking",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 or later with Linking exception",
+                "name": "LGPL 2.1 or later with Linking exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "notes": "replaced by linking-exception-2.1-plus",
+                "is_exception": "yes",
+                "text_urls": "\n- http://sources.redhat.com/git/gitweb.cgi?p=glibc.git;a=blob;f=libio/libio.h",
+                "other_urls": "\n- http://sources.redhat.com/git/gitweb.cgi?p=glibc.git;a=blob;f=libio/libio.h"
+            },
+            "scanner_results": "LGPL-2.1-only [N]; GNU-compiler-exception [M: 83%]; LGPL-2.1-or-later [Sc: 100%]; LicenseRef-scancode-linking-exception-2.1-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.1-or-later with Linking exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-plus-unlimited-linking.license",
+                "key": "lgpl-2.1-plus-unlimited-linking",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 or later with Unlimited linking exception",
+                "name": "LGPL 2.1 or later with Unlimited linking exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.eglibc.org/cgi-bin/viewvc.cgi/branches/eglibc-2_18/libc/io/stat64.c?revision=23787&view=markup",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.html",
+                "notes": "replaced by unlimited-linking-exception-lgpl"
+            },
+            "scanner_results": "LGPL-2.1-or-later [N][Sc: 100%]; linking-exception [N]; GCC-exception-2.0-note [M: 100%]; LGPL-2.0-or-later [Sc: 75%]; LGPL-2.1-only [Sc: 100%]; LicenseRef-scancode-unlimited-link-exception-lgpl [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.1 or later with Unlimited linking exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-qt-company-2017.license",
+                "key": "lgpl-2.1-qt-company-2017",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 with Qt Company Exception 2017",
+                "name": "LGPL 2.1 with Qt Company Exception 2017",
+                "category": "Copyleft Limited",
+                "owner": "Qt Company",
+                "is_exception": "yes",
+                "standard_notice": "|\nAs an additional permission to the GNU Lesser General Public License\nversion\n2.1, the object code form of a \"work that uses the Library\" may incorporate\nmaterial from a header file that is part of the Library. You may distribute\nsuch object code under terms of your choice, provided that:\n(i) the header files of the Library have not been modified; and\n(ii) the incorporated material is limited to numerical parameters, data\nstructure layouts, accessors, macros, inline functions and\ntemplates; and\n(iii) you comply with the terms of Section 6 of the GNU Lesser General\nPublic License version 2.1.\nMoreover, you may apply this exception to a modified version of the\nLibrary,\nprovided that such modification does not involve copying material from the\nLibrary into the modified Library's header files unless such material is\nlimited to (i) numerical parameters; (ii) data structure layouts;\n(iii) accessors; and (iv) small macros, templates and inline functions of\nfive lines or less in length.\nFurthermore, you are not required to apply this additional permission to a\nmodified version of the Library."
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Nokia-Qt-exception-1.1 [M: 96%]; Qt-LGPL-exception-1.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.1 with Qt Company Exception 2017",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-qt-company.license",
+                "key": "lgpl-2.1-qt-company",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 with Qt Company Exception",
+                "name": "LGPL 2.1 with Qt Company Exception",
+                "category": "Copyleft Limited",
+                "owner": "Qt Company",
+                "homepage_url": "http://doc.qt.io/qt-4.8/lgpl.html",
+                "is_exception": "yes",
+                "notes": "Replaced by the exception qt-company-exception-lgpl-2.1 and a proper license expression"
+            },
+            "scanner_results": "LGPL-2.1-or-later [N][Sc: 100%]; Qt-LGPL-exception-1.1 [N]; LGPL-2.0-or-later [Sc: 75%]; LGPL-2.1-only [Sc: 100%]; LicenseRef-scancode-qt-company-exception-lgpl-2.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.1-or-later with Qt Company Exception 1.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-rxtx.license",
+                "key": "lgpl-2.1-rxtx",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 with RXTX exception",
+                "name": "LGPL 2.1 with RXTX exception",
+                "category": "Copyleft Limited",
+                "owner": "RXTX",
+                "homepage_url": "http://users.frii.com/jarvi/rxtx/license.html",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.fsf.org/licenses/gpl-faq.html#LinkingOverControlledInterface",
+                "notes": "replaced by rxtx-exception-lgpl-2.1"
+            },
+            "scanner_results": "LGPL-2.1-or-later [N][Sc: 100%]; LGPL-2.1-only [Sc: 100%]; LicenseRef-scancode-rxtx-exception-lgpl-2.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.1 with RXTX exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-2.1-spell-checker.license",
+                "key": "lgpl-2.1-spell-checker",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.1 or later with Spell-Checker exception",
+                "name": "LGPL 2.1 or later with Spell-Checker exception",
+                "category": "Copyleft Limited",
+                "owner": "AbiSource",
+                "notes": "replaced by spell-checker-exception-lgpl-2.1-plus",
+                "is_exception": "yes",
+                "text_urls": "\n- https://github.com/AbiWord/enchant/blob/master/src/enchant.h",
+                "other_urls": "\n- https://github.com/AbiWord/enchant/archive/enchant-1-0-0.tar.gz",
+                "standard_notice": "|\nIn addition, as a special exception, Dom Lachowicz\ngives permission to link the code of this program with\nnon-LGPL Spelling Provider libraries (eg: a MSFT Office\nspell checker backend) and distribute linked combinations including\nthe two. You must obey the GNU Lesser General Public License in all\nrespects for all of the code used other than said providers. If you modify\nthis file, you may extend this exception to your version of the\nfile, but you are not obligated to do so. If you do not wish to\ndo so, delete this exception statement from your version."
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; i2p-gpl-java-exception [M: 71%]; LGPL-2.1-or-later [Sc: 50%]; LicenseRef-scancode-spell-exception-lgpl-2.1-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.1 or later with Spell-Checker exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-3-plus-linking.license",
+                "key": "lgpl-3-plus-linking",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 3.0 or later with Linking exception",
+                "name": "LGPL 3.0 or later with Linking exception",
+                "category": "Copyleft Limited",
+                "owner": "Canonical Inc.",
+                "homepage_url": "https://github.com/go-yaml/yaml/blob/v2/LICENSE",
+                "notes": "replaced by linking-exception-lgpl-3.0",
+                "is_exception": "yes",
+                "text_urls": "\n- https://github.com/go-yaml/yaml/blob/v2/LICENSE"
+            },
+            "scanner_results": "LGPL-3.0-or-later [N][Sc: 100%]; LGPL-3.0-linking-exception [M: 100%][Sc: 100%]; LGPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-3.0-or-later with Linking exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-3.0-cygwin.license",
+                "key": "lgpl-3.0-cygwin",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 3.0 or later with Cygwin exception",
+                "name": "LGPL 3.0 or later with Cygwin exception",
+                "category": "Copyleft Limited",
+                "owner": "Cygwin Project",
+                "homepage_url": "https://cygwin.com/licensing.html",
+                "is_exception": "yes",
+                "other_urls": "\n- https://cygwin.com/COPYING.LIB"
+            },
+            "scanner_results": "LGPL-3.0-or-later [N][Sc: 50%]; LGPL-3.0-only [Sc: 100%]; LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-3.0-or-later with Cygwin exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-3.0-plus-openssl.license",
+                "key": "lgpl-3.0-plus-openssl",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 3.0 or later with OpenSSL exception",
+                "name": "LGPL 3.0 or later with OpenSSL exception",
+                "category": "Copyleft Limited",
+                "owner": "psycopg",
+                "homepage_url": "http://initd.org/psycopg/license/",
+                "notes": "this is a composite and exception",
+                "is_exception": "yes"
+            },
+            "scanner_results": "Dual-license [N]; LGPL-3.0-or-later [N][Sc: 100%]; OpenSSL-exception [N]; ZPL [N]; Zlib [N][Sc: 100%]; cryptsetup-OpenSSL-exception [M: 78%]; LicenseRef-scancode-openssl-exception-lgpl3.0plus [Sc: 100%]; ZPL-2.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-3.0-or-later with OpenSSL exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-3.0-zeromq.license",
+                "key": "lgpl-3.0-zeromq",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 3.0 with ZeroMQ exception",
+                "name": "LGPL 3.0 with ZeroMQ exception",
+                "category": "Copyleft Limited",
+                "owner": "ZeroMQ",
+                "homepage_url": "https://github.com/zeromq/zeromq3-x/blob/master/COPYING.LESSER",
+                "is_exception": "yes",
+                "faq_url": "https://github.com/zeromq/zeromq3-x/blob/master/README",
+                "other_urls": "\n- https://github.com/zeromq/zeromq3-x/blob/master/COPYING"
+            },
+            "scanner_results": "Classpath-exception-2.0 [N]; LGPL-3.0-only [N][Sc: 100%]; LicenseRef-scancode-zeromq-exception-lgpl-3.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 3.0 with ZeroMQ exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "libcap.license",
+                "key": "libcap",
+                "is_deprecated": "yes",
+                "short_name": "libcap License",
+                "name": "libcap License",
+                "category": "Permissive",
+                "owner": "Unspecified",
+                "homepage_url": "https://sites.google.com/site/fullycapable/",
+                "notes": "this is a bsd-style license with a GPL alternative and is now reported as an expression\ninstead",
+                "text_urls": "\n- https://git.kernel.org/pub/scm/libs/libcap/libcap.git/plain/License"
+            },
+            "scanner_results": "BSD-style [N]; Dual-license [N]; GPL-2.0-only [N]; GPL-1.0-or-later [Sc: 50%]; BSD-3-Clause [Sc: 90%]; GPL-2.0-or-later [Sc: 95%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-3-Clause OR GPL-2.0-or-later (Possible: GPL-1.0-or-later, GPL-2.0-only)",
+            "license_type": "Permissive OR Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "libtool-exception.license",
+                "key": "libtool-exception",
+                "short_name": "Libtool Exception",
+                "name": "GNU Libtool Exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "is_deprecated": "yes",
+                "other_urls": "\n- http://git.savannah.gnu.org/cgit/libtool.git/tree/m4/libtool.m4",
+                "notes": "replaced by libtool-exception-2.0"
+            },
+            "scanner_results": "GPL [N]; Libtool-exception [M: 100%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU Libtool Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "libzip.license",
+                "key": "libzip",
+                "short_name": "libzip License",
+                "name": "NiH libzip License",
+                "category": "Permissive",
+                "owner": "NiH",
+                "homepage_url": "https://www.nih.at/libzip/LICENSE.html",
+                "notes": "deprecated in favor of bsd-new See https://github.com/nexB/scancode-toolkit/issues/2995"
+            },
+            "scanner_results": "BSD-3-Clause [N][Sc: 100%]; BSD-3-Clause-HP [M: 89%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-3-Clause",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "license-file-reference.license",
+                "key": "license-file-reference",
+                "is_deprecated": "yes",
+                "short_name": "license-file-reference",
+                "name": "license-file-reference",
+                "category": "Unstated License",
+                "owner": "Unspecified",
+                "is_unknown": "yes",
+                "notes": "this was known before as \"see-license\" and is now unknown-license-reference"
+            },
+            "scanner_results": "No_license_found [N]; LicenseRef-scancode-unknown-license-reference [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Unknown License Reference",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "linking-exception-lgpl-3.0.license",
+                "key": "linking-exception-lgpl-3.0",
+                "is_deprecated": "yes",
+                "short_name": "Linking exception to LGPL 3.0",
+                "name": "Linking exception to LGPL 3.0",
+                "category": "Copyleft Limited",
+                "owner": "Canonical Inc.",
+                "homepage_url": "https://github.com/go-yaml/yaml/blob/v2/LICENSE",
+                "notes": "This is deprecated and replaced by lgpl-3.0-linking-exception",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-3.0.txt",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU Lesser General Public License as published by\nthe Free Software Foundation; either version 3 of the License, or (at your\noption) any later version.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License\nfor more details.\nYou should have received a copy of the GNU Lesser General Public License\nalong with this library; if not, write to the Free Software Foundation,\nInc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA\nAs a special exception to the GNU Lesser General Public License version 3\n(\"LGPL3\"), the copyright holders of this Library give you permission to\nconvey to a third party a Combined Work that links statically or\ndynamically to this Library without providing any Minimal Corresponding\nSource or\nMinimal Application Code as set out in 4d or providing the installation\ninformation set out in section 4e, provided that you comply with the other\nprovisions of LGPL3 and provided that you meet, for the Application the\nterms and conditions of the license(s) which apply to the Application.\nExcept as stated in this special exception, the provisions of LGPL3 will\ncontinue to comply in full to this Library. If you modify this Library, you\nmay apply this exception to your version of this Library, but you are not\nobliged to do so. If you do not wish to do so, delete this exception\nstatement from your version. This exception does not (and cannot) modify\nany license terms which apply to the Application, with which you must still\ncomply."
+            },
+            "scanner_results": "LGPL-3.0-or-later [N][Sc: 100%]; LGPL-3.0-linking-exception [M: 100%][Sc: 100%]; LGPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-3.0-linking-exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "linum.license",
+                "key": "linum",
+                "short_name": "Linum Software License",
+                "name": "Linum Software License",
+                "category": "Permissive",
+                "owner": "Linum Software GmbH",
+                "is_deprecated": "yes",
+                "notes": "replaced by identical philippe-de-muyter license"
+            },
+            "scanner_results": "UnclassifiedLicense [N]; WxWindows-exception-3.1 [Sc: 65%]; LGPL-2.0-or-later [Sc: 65%]; LicenseRef-scancode-philippe-de-muyter [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LicenseRef-scancode-philippe-de-muyter",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "madwifi-dual.license",
+                "key": "madwifi-dual",
+                "is_deprecated": "yes",
+                "short_name": "MadWifi Dual BSD-GPL",
+                "name": "MadWifi Dual BSD-GPL",
+                "category": "Permissive",
+                "owner": "MadWifi",
+                "homepage_url": "https://github.com/puzzlet/madwifi/blob/master/include/compat.h",
+                "notes": "composite replaced by expression of intel-bsd OR gpl-2.0"
+            },
+            "scanner_results": "BSD-style [N]; Dual-license [N]; GPL-2.0-only [N][Sc: 100%]; BSD-3-Clause [Sc: 90%]; GPL-1.0-or-later [Sc: 90%]; LicenseRef-scancode-intel-bsd [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MadWifi Dual BSD-3-Clause OR GPL-2.0-only",
+            "license_type": "Permissive OR Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "mentalis.license",
+                "key": "mentalis",
+                "short_name": "Mentalis License",
+                "name": "Mentalis Source Code License",
+                "category": "Permissive",
+                "owner": "Mentalis",
+                "homepage_url": "http://mentalis.org/site/license.qpx",
+                "notes": "this is a bsd-new with clause 1 and 3. Replaced by the bsd-source-code license.",
+                "text_urls": "\n- http://mentalis.org/site/license.qpx",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "BSD-style [N]; BSD-Source-Code [M: 88%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-Source-Code",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "mini-xml.license",
+                "key": "mini-xml",
+                "is_deprecated": "yes",
+                "short_name": "LGPL 2.0 with Mini-XML exception",
+                "name": "LGPL 2.0 with Mini-XML exception",
+                "category": "Copyleft Limited",
+                "owner": "Mini-XML",
+                "homepage_url": "http://www.minixml.org/documentation.php/license.html",
+                "is_exception": "yes",
+                "text_urls": "\n- http://www.minixml.org/documentation.php/license.html",
+                "notes": "replaced by mini-xml-exception-lgpl-2.0"
+            },
+            "scanner_results": "LGPL-2.0-or-later [N][Sc: 100%]; LGPL-2.0-only [Sc: 80%]; LicenseRef-scancode-mini-xml-exception-lgpl-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.0 with Mini-XML exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ms-limited-public.license",
+                "key": "ms-limited-public",
+                "is_deprecated": "yes",
+                "short_name": "MS Limited Public License",
+                "name": "Microsoft Limited Public License",
+                "category": "Permissive",
+                "owner": "Microsoft",
+                "homepage_url": "http://msdn.microsoft.com/en-us/cc300389.aspx#P",
+                "text_urls": "\n- http://msdn.microsoft.com/en-us/cc300389.aspx#P",
+                "other_urls": "\n- http://web.archive.org/web/20080417054425/http://www.microsoft.com/resources/sharedsource/licensingbasics/limitedpubliclicense.mspx\n- https://web.archive.org/web/20091211214028/http://msdn.microsoft.com/en-us/cc300389.aspx#MLPL"
+            },
+            "scanner_results": "MS-LPL [N][M: 97%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Microsoft Limited Public License (Ms-LPL)",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ms-permissive-1.1.license",
+                "key": "ms-permissive-1.1",
+                "is_deprecated": "yes",
+                "short_name": "MS-PL 1.1",
+                "name": "Microsoft Permissive License (MS-PL) v1.1",
+                "category": "Permissive",
+                "owner": "Microsoft",
+                "homepage_url": "https://web.archive.org/web/20180120185447/http://entlibcontrib.codeplex.com/license",
+                "notes": "dupe of ms-pl"
+            },
+            "scanner_results": "MS-PL [N][M: 98%][Sc: 80%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Microsoft Permissive License (MS-PL) v1.1",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ms-refl.license",
+                "key": "ms-refl",
+                "short_name": "MS Reference License",
+                "name": "Microsoft Reference License",
+                "category": "Proprietary Free",
+                "owner": "Microsoft",
+                "homepage_url": "http://www.microsoft.com/resources/sharedsource/licensingbasics/referencelicense.mspx",
+                "notes": "duplicate of ms-rsl",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "MRL [N]; LicenseRef-scancode-ms-rsl [Sc: 97%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Microsoft Reference License (MS-RL)",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "network-time-protocol.license",
+                "key": "network-time-protocol",
+                "is_deprecated": "yes",
+                "short_name": "Duplicate Network Time Protocol License",
+                "name": "Duplicate Network Time Protocol License",
+                "category": "Permissive",
+                "owner": "University of Delaware",
+                "homepage_url": "http://www.eecis.udel.edu/~mills/ntp/html/copyright.html",
+                "text_urls": "\n- http://www.eecis.udel.edu/~mills/ntp/html/copyright.html",
+                "minimum_coverage": "20"
+            },
+            "scanner_results": "NTP [N][M: 83%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Network Time Protocol License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "nokia-qt-exception-1.1.license",
+                "key": "nokia-qt-exception-1.1",
+                "short_name": "Nokia Qt Exception to LGPL 2.1",
+                "name": "Nokia Qt Exception to LGPL 2.1",
+                "category": "Copyleft Limited",
+                "owner": "Nokia",
+                "homepage_url": "https://dev.keepassx.org/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION",
+                "is_exception": "yes",
+                "is_deprecated": "yes",
+                "notes": "previously known as the SPDX id Nokia-Qt-exception-1.1 Replaced by qt-lgpl-exception-1.1",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.txt",
+                "standard_notice": "|\nNokia Qt LGPL Exception version 1.1\nAs an additional permission to the GNU Lesser General Public License\nversion 2.1, the object code form of a \"work that uses the Library\" may\nincorporate material from a header file that is part of the Library. You\nmay distribute such object code under terms of your choice, provided that:\n(i) the header files of the Library have not been modified; and\n(ii) the incorporated material is limited to numerical parameters, data\nstructure layouts, accessors, macros, inline functions and templates; and\n(iii) you comply with the terms of Section 6 of the GNU Lesser General\nPublic License version 2.1.\nMoreover, you may apply this exception to a modified version of the\nLibrary, provided that such modification does not involve copying material\nfrom the Library into the modified Library's header files unless such\nmaterial is limited to\n(i) numerical parameters;\n(ii) data structure layouts;\n(iii) accessors; and\n(iv) small macros, templates and inline functions of five lines or less in\nlength.\nFurthermore, you are not required to apply this additional permission to a\nmodified version of the Library."
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Nokia-Qt-exception-1.1 [N][M: 100%]; LGPL-2.0-or-later [Sc: 75%]; Nokia [Sc: 100%]; Qt-LGPL-exception-1.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Nokia Qt Exception to LGPL 2.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ntpl.license",
+                "key": "ntpl",
+                "is_deprecated": "yes",
+                "short_name": "NTP License",
+                "name": "Network Time Protocol License",
+                "category": "Permissive",
+                "owner": "University of Delaware",
+                "homepage_url": "https://www.eecis.udel.edu/~mills/ntp/html/copyright.html",
+                "text_urls": "\n- http://www.opensource.org/licenses/ntp-license.php",
+                "osi_url": "http://www.opensource.org/licenses/ntp-license.php",
+                "faq_url": "https://www.eecis.udel.edu/~mills/ntp/html/copyright.html",
+                "other_urls": "\n- http://www.opensource.org/licenses/NTP\n- http://www.pgpool.net/mediawiki/index.php/pgpool-II_License",
+                "notes": "replaced by mit-old-style-no-advert"
+            },
+            "scanner_results": "NTP [N][M: 84%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Network Time Protocol License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "nunit-v2.license",
+                "key": "nunit-v2",
+                "is_deprecated": "yes",
+                "short_name": "NUnit v2 License",
+                "name": "NUnit v2 License",
+                "category": "Permissive",
+                "owner": "Charlie Poole",
+                "homepage_url": "https://fedoraproject.org/wiki/Licensing:Nunit?rd=Licensing/Nunit",
+                "notes": "this has been replaced by zlib-acknowledgement and used to be the Nunit SPDX id",
+                "text_urls": "\n- http://nunit.org/index.php?p=license&r=2.6",
+                "other_urls": "\n- http://nunit.org/\n- https://fedoraproject.org/wiki/Licensing/Nunit"
+            },
+            "scanner_results": "Nunit [N]; Zlib [N][M: 75%]; zlib-acknowledgement [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "NUnit v2 License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "odc-1.0.license",
+                "key": "odc-1.0",
+                "is_deprecated": "yes",
+                "short_name": "ODC-By",
+                "name": "Open Data Commons Attribution License",
+                "category": "Copyleft",
+                "owner": "Open Data Commons",
+                "homepage_url": "https://opendatacommons.org/",
+                "notes": "deprecated in favor of odc-by-1.0",
+                "text_urls": "\n- http://www.opendatacommons.org/licenses/by/1.0/"
+            },
+            "scanner_results": "ODC-By-1.0 [N][M: 98%][Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Open Database License 1.0 (ODbL-1.0)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ogc-2006.license",
+                "key": "ogc-2006",
+                "is_deprecated": "yes",
+                "notes": "duplicate of ogc-1.0",
+                "short_name": "OGC Software Notice 2006",
+                "name": "OGC Software Notice 2006",
+                "category": "Permissive",
+                "owner": "Open Geospatial Consortium",
+                "homepage_url": "https://www.ogc.org/ogc/software",
+                "other_urls": "\n- http://www.opengeospatial.org/ogc/legal",
+                "ignorable_copyrights": "\n- Copyright (c) Open Geospatial Consortium, Inc.",
+                "ignorable_holders": "\n- Open Geospatial Consortium, Inc.",
+                "ignorable_urls": "\n- http://www.opengeospatial.org/ogc/legal"
+            },
+            "scanner_results": "OGC [N]; OGC-1.0 [M: 97%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OGC Software Notice 2006",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "osetpl-2.1.license",
+                "key": "osetpl-2.1",
+                "short_name": "OSET 2.1",
+                "name": "OSET Public License v2.1",
+                "category": "Copyleft Limited",
+                "owner": "OSET Foundation",
+                "homepage_url": "http://www.osetfoundation.org/s/OPL_v21-plain.txt",
+                "is_deprecated": "yes",
+                "notes": "duplicate of oset-pl-2.1"
+            },
+            "scanner_results": "MPL-2.0 [N]; OSET-PL-2.1 [M: 99%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OSET Public License 2.1",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "polyform-defensive-1.0.0.license",
+                "key": "polyform-defensive-1.0.0",
+                "is_deprecated": "yes",
+                "short_name": "PolyForm Defensive License 1.0.0",
+                "name": "PolyForm Defensive License 1.0.0",
+                "category": "Source-available",
+                "owner": "Polyform",
+                "homepage_url": "https://polyformproject.org/licenses/defensive-licenses/1.0.0/",
+                "notes": "renamed to polyform-shield-1.0",
+                "ignorable_copyrights": "\n- Copyright Yoyodyne, Inc. (http://example.com)",
+                "ignorable_holders": "\n- Yoyodyne, Inc.",
+                "ignorable_urls": "\n- https://polyformproject.org/licenses/defensive/1.0.0"
+            },
+            "scanner_results": "See-URL [N]; LicenseRef-scancode-unknown-license-reference [Sc: 80%]; LicenseRef-scancode-polyform-shield-1.0.0 [Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "PolyForm Shield 1.0.0",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "proprietary.license",
+                "key": "proprietary",
+                "is_deprecated": "yes",
+                "short_name": "Proprietary",
+                "name": "Proprietary",
+                "category": "Proprietary Free",
+                "owner": "Unspecified",
+                "notes": "see proprietary-license instead",
+                "is_generic": "yes"
+            },
+            "scanner_results": "No_license_found [N]; LicenseRef-scancode-proprietary-license [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Proprietary License",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "qt-company-exception-2017-lgpl-2.1.license",
+                "key": "qt-company-exception-2017-lgpl-2.1",
+                "short_name": "Qt Company Exception to LGPL 2.1 2017",
+                "name": "Qt Company Exception to LGPL 2.1 2017",
+                "category": "Copyleft Limited",
+                "is_deprecated": "yes",
+                "owner": "Qt Company",
+                "is_exception": "yes",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.txt",
+                "notes": "replaced by qt-lgpl-exception-1.1"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Nokia-Qt-exception-1.1 [M: 96%]; Qt-LGPL-exception-1.1 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Qt Company Exception to LGPL 2.1 2017",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "qwt-1.0.license",
+                "key": "qwt-1.0",
+                "is_deprecated": "yes",
+                "short_name": "Qwt License 1.0 Deprecated",
+                "name": "Qwt License 1.0 Deprecated",
+                "category": "Copyleft Limited",
+                "owner": "Qwt Project",
+                "homepage_url": "http://qwt.sourceforge.net/qwtlicense.html",
+                "notes": "replaced by qwt-exception-1.0"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Qwt-exception-1.0 [N][M: 99%][Sc: 50%]; LGPL-2.1-or-later [M: 98%]; LicenseRef-scancode-unknown-license-reference [Sc: 80%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-2.1-only",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ralf-corsepius.license",
+                "key": "ralf-corsepius",
+                "short_name": "Ralf Corsepius License",
+                "name": "Ralf Corsepius License",
+                "category": "Permissive",
+                "owner": "Unspecified",
+                "is_deprecated": "yes"
+            },
+            "scanner_results": "Freeware [N]; LicenseRef-scancode-red-hat-attribution [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Ralf Corsepius License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "see-license.license",
+                "key": "see-license",
+                "short_name": "See License mention",
+                "name": "See License mention",
+                "category": "Unstated License",
+                "owner": "Unspecified",
+                "is_deprecated": "yes",
+                "is_unknown": "yes",
+                "notes": "replaced by unknown-license-reference"
+            },
+            "scanner_results": "See-file [N]; LicenseRef-scancode-unknown-license-reference [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "See License mention",
+            "license_type": "Unstated License",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "slf4j-2005.license",
+                "key": "slf4j-2005",
+                "is_deprecated": "yes",
+                "short_name": "SLF4J License 2005",
+                "name": "SLF4J License 2005",
+                "category": "Permissive",
+                "owner": "QOS Project",
+                "text_urls": "\n- http://www.xfree86.org/3.3.6/COPYRIGHT2.html"
+            },
+            "scanner_results": "MIT-style [N]; Clips [M: 77%]; ICU [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MIT License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "slf4j-2008.license",
+                "key": "slf4j-2008",
+                "is_deprecated": "yes",
+                "short_name": "SLF4J License 2008",
+                "name": "SLF4J License 2008",
+                "category": "Permissive",
+                "owner": "QOS Project",
+                "homepage_url": "http://www.slf4j.org/license.html",
+                "notes": "composite"
+            },
+            "scanner_results": "GPL [N]; MIT [N][M: 95%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "MIT License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "sun-proprietary-jdk.license",
+                "key": "sun-proprietary-jdk",
+                "short_name": "Sun proprietary notice for Java sources",
+                "name": "Sun proprietary notice for Java sources",
+                "is_deprecated": "yes",
+                "category": "Commercial",
+                "owner": "Oracle Corporation"
+            },
+            "scanner_results": "Non-commercial [N]; LicenseRef-scancode-proprietary-license [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Sun proprietary notice for Java sources (Deprecated)",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "trademark-notice.license",
+                "key": "trademark-notice",
+                "is_deprecated": "yes",
+                "short_name": "Trademark Notice",
+                "name": "Generic Trademark Notice",
+                "category": "Unstated License",
+                "owner": "Unspecified",
+                "notes": "replaced by generic-trademark"
+            },
+            "scanner_results": "No_license_found [N][Sc]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Generic Trademark Notice",
+            "license_type": "Proprietary",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ttf2pt1.license",
+                "key": "ttf2pt1",
+                "is_deprecated": "yes",
+                "short_name": "TTF2PT1 Project License",
+                "name": "TTF2PT1 Project License",
+                "category": "Permissive",
+                "owner": "Unspecified",
+                "notes": "composite",
+                "minimum_coverage": "90"
+            },
+            "scanner_results": "BSD-2-Clause [N][M: 79%]; LicenseRef-scancode-bsd-2-clause-plus-advertizing [Sc: 99%]; LicenseRef-scancode-other-permissive [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "TTF2PT1 Project License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "unbuntu-font-1.0.license",
+                "key": "unbuntu-font-1.0",
+                "is_deprecated": "yes",
+                "short_name": "Obsolete Font License 1.0",
+                "name": "Obsolete Font License 1.0",
+                "category": "Free Restricted",
+                "owner": "Unspecified",
+                "homepage_url": "http://font.ubuntu.com/licence/",
+                "notes": "replaced by ubuntu-font-1.0 (there was a typo in the key)s",
+                "text_urls": "\n- http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt",
+                "faq_url": "http://font.ubuntu.com/ufl/FAQ.html",
+                "other_urls": "\n- http://font.ubuntu.com/ufl/copyright.txt"
+            },
+            "scanner_results": "No_license_found [N]; LicenseRef-scancode-unknown-license-reference [Sc: 80%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Ubuntu Font License 1.0",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "unicode-data-software.license",
+                "key": "unicode-data-software",
+                "short_name": "Unicode - Data Files and Software",
+                "name": "Unicode License Agreement - Data Files and Software",
+                "category": "Permissive",
+                "owner": "Unicode Consortium",
+                "homepage_url": "http://unicode.org/",
+                "text_urls": "\n- http://unicode.org/copyright.html",
+                "is_deprecated": "yes",
+                "notes": "this is a duplicate of the unicode license"
+            },
+            "scanner_results": "Unicode [N]; LicenseRef-scancode-unicode [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Unicode License Agreement - Data Files and Software",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "w3c-software-20021231.license",
+                "key": "w3c-software-20021231",
+                "is_deprecated": "yes",
+                "short_name": "W3C-SOFTWARE-20021231",
+                "name": "W3C Software Notice and License (2002-12-31)",
+                "category": "Permissive",
+                "owner": "W3C - World Wide Web Consortium",
+                "homepage_url": "https://www.w3.org/Consortium/Legal/2002/copyright-software-20021231"
+            },
+            "scanner_results": "W3C [N][M: 98%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "W3C Software Notice and License (2002-12-31)",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "x11-r75.license",
+                "key": "x11-r75",
+                "is_deprecated": "yes",
+                "short_name": "X11-R7.5",
+                "name": "X.Org Preferred License",
+                "category": "Permissive",
+                "owner": "X.Org",
+                "homepage_url": "https://www.x.org/archive/X11R7.5/doc/LICENSE.html#AEN16",
+                "notes": "The main difference between this license and the standard MIT License is the text \" (including\nthe next paragraph)\" in this license, which is not in the MIT license. This is not considered\nas a material differences by the SPDX legal team.",
+                "faq_url": "https://www.x.org/archive/X11R7.5/doc/LICENSE.html#AEN16",
+                "other_urls": "\n- https://www.x.org/releases/individual/font/font-util-1.3.1.tar.bz2",
+                "minimum_coverage": "80"
+            },
+            "scanner_results": "MIT [N][M: 93%][Sc: 100%]; DOC [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "X11 License Preferred",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "x11-xconsortium_veillard.license",
+                "key": "x11-xconsortium_veillard",
+                "is_deprecated": "yes",
+                "short_name": "X11-Style (X Consortium Veillard) - Deprecated",
+                "name": "X11-Style (X Consortium Veillard) - Deprecated",
+                "category": "Permissive",
+                "owner": "Daniel Veillard",
+                "standard_notice": "|\nExcept where otherwise noted in the source code (e.g. the files hash.c,\nlist.c and the trio files, which are covered by a similar licence but\nwith different Copyright notices) all the files are:\nCopyright (C) 1998-2003 Daniel Veillard. All Rights Reserved."
+            },
+            "scanner_results": "MIT [N][M: 88%]; X11 [M: 81%]; X11-distribute-modifications-variant [M: 83%]; LicenseRef-scancode-x11-xconsortium-veillard [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "X11-Style (X Consortium Veillard) - Deprecated (Possible: LicenseRef-scancode-x11-xconsortium-veillard)",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "x11r5-authors.license",
+                "key": "x11r5-authors",
+                "is_deprecated": "yes",
+                "short_name": "X11-R5 Authors",
+                "name": "X11-R5 Authors",
+                "category": "Permissive",
+                "owner": "XFree86 Project, Inc",
+                "other_urls": "\n- http://pypi.python.org/packages/source/C/Cheetah/Cheetah-2.4.4.tar.gz",
+                "minimum_coverage": "80"
+            },
+            "scanner_results": "X11-style [N]; HPND [M: 68%]; SMLNJ [Sc: 98%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "X11 License",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    }
+]

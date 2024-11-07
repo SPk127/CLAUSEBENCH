@@ -1,0 +1,10 @@
+{
+    "filename": "trademark-notice.license",
+    "key": "trademark-notice\nis_deprecated: yes",
+    "short_name": "Trademark Notice",
+    "name": "Generic Trademark Notice",
+    "category": "Unstated License",
+    "owner": "Unspecified",
+    "notes": "replaced by generic-trademark",
+    "license_body": ""
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "gpl-2.0-adaptec.license",
+    "key": "gpl-2.0-adaptec",
+    "short_name": "GPL 2.0 plus Adaptec conditions",
+    "name": "GPL 2.0 plus Adaptec conditions",
+    "category": "Copyleft",
+    "owner": "Adaptec",
+    "notes": "this is a combination of GPL and BSD terms",
+    "spdx_license_key": "LicenseRef-scancode-gpl-2.0-adaptec",
+    "minimum_coverage": "90",
+    "license_body": "\nYou are permitted to redistribute, use and modify this README file in whole\nor in part in conjunction with redistribution of software governed by the\nGeneral Public License, provided that the following conditions are met:\n1. Redistributions of README file must retain the above copyright\nnotice, this list of conditions, and the following disclaimer,\nwithout modification.\n2. The name of the author may not be used to endorse or promote products\nderived from this software without specific prior written permission.\n3. Modifications or new contributions must be attributed in a copyright\nnotice identifying the author (\"Contributor\") and added below the\noriginal copyright notice. The copyright notice is for purposes of\nidentifying contributors and should not be deemed as permission to alter\nthe permissions given by Adaptec.\n\nTHIS README FILE IS PROVIDED BY ADAPTEC AND CONTRIBUTORS ``AS IS'' AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY\nWARRANTIES OF NON-INFRINGEMENT OR THE IMPLIED WARRANTIES OF MERCHANTABILITY\nAND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL\nADAPTEC OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED\nTO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\nPROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING\nNEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS README\nFILE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+}

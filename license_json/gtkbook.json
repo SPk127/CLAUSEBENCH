@@ -1,0 +1,12 @@
+{
+    "filename": "gtkbook.license",
+    "key": "gtkbook",
+    "short_name": "gtkbook License",
+    "name": "gtkbook License",
+    "category": "Permissive",
+    "owner": "Syd Logan",
+    "notes": "|\nAdded in SPDX license list 3.23\nThis was previously the license rule: other-permissive_102.RULE",
+    "spdx_license_key": "gtkbook",
+    "other_urls": "\n- https://github.com/slogan621/gtkbook\n- https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11",
+    "license_body": "\nThis code is distributed without warranty. You are free to use\nthis code for any purpose, however, if this code is republished or\nredistributed in its original form, as hardcopy or electronically,\nthen you must include this copyright notice along with the code."
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "postgresql.license",
+    "key": "postgresql",
+    "short_name": "PostgreSQL License",
+    "name": "PostgreSQL License",
+    "category": "Permissive",
+    "owner": "PostgreSQL",
+    "homepage_url": "http://www.postgresql.org/about/licence",
+    "notes": "Per SPDX.org, this license is OSI certified.",
+    "spdx_license_key": "PostgreSQL",
+    "text_urls": "\n- http://www.opensource.org/licenses/postgresql\n- http://www.postgresql.org/about/licence",
+    "osi_url": "http://www.opensource.org/licenses/postgresql",
+    "other_urls": "\n- http://www.opensource.org/licenses/PostgreSQL\n- https://opensource.org/licenses/PostgreSQL",
+    "ignorable_copyrights": "\n- Portions Copyright (c) 1994, The Regents of the University of California\n- Portions Copyright (c) The PostgreSQL Global Development Group",
+    "ignorable_holders": "\n- The PostgreSQL Global Development Group\n- The Regents of the University of California",
+    "license_body": "\nPostgreSQL is released under the PostgreSQL License, a liberal Open Source license, similar to the BSD or MIT licenses.\n\nPostgreSQL Database Management System\n(formerly known as Postgres, then as Postgres95)\n\nPortions Copyright (c) The PostgreSQL Global Development Group\n\nPortions Copyright (c) 1994, The Regents of the University of California\n\nPermission to use, copy, modify, and distribute this software and its\ndocumentation for any purpose, without fee, and without a written agreement is\nhereby granted, provided that the above copyright notice and this paragraph and\nthe following two paragraphs appear in all copies.\n\nIN NO EVENT SHALL THE UNIVERSITY OF CALIFORNIA BE LIABLE TO ANY PARTY FOR\nDIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST\nPROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF\nTHE UNIVERSITY OF CALIFORNIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nTHE UNIVERSITY OF CALIFORNIA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING,\nBUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN \"AS IS\" BASIS, AND\nTHE UNIVERSITY OF CALIFORNIA HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT,\nUPDATES, ENHANCEMENTS, OR MODIFICATIONS."
+}

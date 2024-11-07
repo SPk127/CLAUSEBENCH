@@ -1,0 +1,1828 @@
+[
+    {
+        "license_name": "bsd-zero.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "3dslicer-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "Modify": {
+                        "can_modify_software": {
+                            "marker": "CAN",
+                            "excerpt_reference": [
+                                "8",
+                                "9"
+                            ],
+                            "description": "Users can download, copy, modify, display, distribute or use the Software."
+                        },
+                        "must_grant_license_to_brigham": {
+                            "marker": "MUST",
+                            "excerpt_reference": [
+                                "28",
+                                "32"
+                            ],
+                            "description": "Contributors must grant a perpetual, worldwide, non-exclusive, no charge, royalty-free, irrevocable license to Brigham for using, reproducing, making derivative works of, displaying and distributing the Contribution."
+                        },
+                        "cannot_require_open_source_license": {
+                            "marker": "MUST NOT",
+                            "excerpt_reference": [
+                                "34",
+                                "35"
+                            ],
+                            "description": "Contributors cannot require or prescribe an 'Open Source License' for derivative works."
+                        },
+                        "must_comply_with_license_conditions": {
+                            "marker": "MUST",
+                            "excerpt_reference": [
+                                "44",
+                                "46"
+                            ],
+                            "description": "Users must comply with all terms and conditions when using, reproducing, making derivative works of, displaying, distributing the Software or any portion of it."
+                        },
+                        "must_preserve_attributions_and_licenses": {
+                            "marker": "MUST",
+                            "excerpt_reference": [
+                                "37"
+                            ],
+                            "description": "Users must preserve and maintain all applicable attributions, copyright notices and licenses included in or applicable to the Software."
+                        },
+                        "must_identify_and_mark_modified_versions": {
+                            "marker": "MUST",
+                            "excerpt_reference": [
+                                "39"
+                            ],
+                            "description": "Users must identify and mark any modified versions of the Software appropriately."
+                        },
+                        "obtain_third_party_permissions": {
+                            "marker": "MUST",
+                            "excerpt_reference": [
+                                "56"
+                            ],
+                            "description": "Users are solely responsible for obtaining any permissions from third parties that they need to use, reproduce, make derivative works of, display and distribute the Software."
+                        },
+                        "comply_with_applicable_laws": {
+                            "marker": "MUST",
+                            "excerpt_reference": [
+                                "58"
+                            ],
+                            "description": "Users further agree to use, reproduce, make derivative works of, display and distribute the Software in compliance with all applicable governmental laws, regulations and orders."
+                        }
+                    }
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN sublicense"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": {
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "attribution.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "abstyles.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adacore-doc.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None"
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-scl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "x11-adobe.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-glyph.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-utopia.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adsl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "Distribute": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "LICENSOR CANNOT BE HELD LIABLE"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.2.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "Distribute": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "modify": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "LICENSOR CANNOT BE HELD LIABLE"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "Disclose Source": "MUST"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "Distribute copies of the Original Work and Derivative Works to the public": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "modify": {
+                        "createDerivativeWorks": "CAN",
+                        "retainNoticesInSourceCode": "MUST",
+                        "causeSourceCodeToCarryAttributionNotice": "MUST"
+                    }
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "marker": "CANNOT"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN distribute or communicate copies of the Original Work and Derivative Works to the public"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afmparse.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Private Use",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "State Changes",
+                "response": "None"
+            },
+            {
+                "term": "Place Warranty",
+                "response": "None"
+            },
+            {
+                "term": "Include Notice",
+                "response": "None"
+            },
+            {
+                "term": "Include Original",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            },
+            {
+                "term": "Include Install Instructions",
+                "response": "None"
+            },
+            {
+                "term": "Compensate for Damages",
+                "response": "None"
+            },
+            {
+                "term": "Statically Link",
+                "response": "None"
+            },
+            {
+                "term": "Pay Above Use Threshold",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "agpl-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "MUST"
+                }
+            }
+        ]
+    }
+]

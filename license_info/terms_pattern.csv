@@ -1,0 +1,15 @@
+ID,Term,Pattern
+1,Distribute,distribute|distribution|redistribute|share copies|provide copies|circulate copies|redistributing copies|grant copies|distribution rights|sharing
+2,Modify,modify|modification|alter|change|create derivatives|derivative work|changes made|alteration rights|editing|modify for own use
+3,Commercial Use,offer of sale|resale|use for commercial|commercial use|use for profit|business use|sell|resell|profit from|generate profit|commercial purposes|utilize for business|profit-driven usage|with fee|without fee
+4,Relicense,relicense|license choice|distribute under different license|new license terms|different license terms|compliance of new license|transfer licensing rights|change license type|alternative licensing|relicensing rights
+5,Hold Liable,liability|liable|without any warranty|responsible for impacts|legal responsibility|accountability|waiver of responsibility|disclaimer for damages|absence of liability
+6,Use Patent Claims,use patent claims|assert patent|patent rights|assert claims|patent license|patent coverage|use patented|patent application|apply patent rights|enforce patent|under patent protection
+7,Sublicense,sublicense|sub-license|sublicensing|allow more restrictive license|sublicensable|third-party sublicensing|grant sublicense rights|secondary licensing rights|authorize sublicensing
+8,Use Trademark,use Trademark|trademark|service mark|product name|marks or logos|author names in advertising|trademarked names|branding|company logo|protected trademark|name branding|use of marks|endorsement with author name
+9,Include Copyright,retain copyright|copyright notice|include copyright|keep copyright|show copyright notice|retain copyright in copies|ownership notice|retain intellectual property rights|display copyright
+10,Include License,copy this License|permission notice|include license|license text|license agreement|license terms|provide license text|keep license|attach license copy|maintain license terms|incorporate license content|retain legal text
+11,Disclose Source,disclose Source|source compiled|source code|make source available|provide source files|share source repository
+12,Give Credit,credit|acknowledgment|attribution notice|recognition of authorship|give credit to contributors|acknowledge creators
+13,Rename,rename|not misrepresented|not use the same name|misrepresent name|use original name|preserve original name|avoid misnaming|do not rename|correct labeling of software
+14,Contact Author,contact Author|contact us|written consent|let us know|assist with problems|inform author|reach out to author|author notification|seek author approval|author communication|notify the creator

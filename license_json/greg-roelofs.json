@@ -1,0 +1,12 @@
+{
+    "filename": "greg-roelofs.license",
+    "key": "greg-roelofs",
+    "short_name": "Greg Roelofs License",
+    "name": "Greg Roelofs License",
+    "category": "Permissive",
+    "owner": "Unspecified",
+    "spdx_license_key": "LicenseRef-scancode-greg-roelofs",
+    "other_urls": "\n- https://www.oreilly.com/library/view/png-the-definitive/9781565925427/",
+    "ignorable_authors": "\n- Greg Roelofs and contributors",
+    "license_body": "\nThis software is provided \"as is,\" without warranty of any kind,\nexpress or implied.  In no event shall the author or contributors\nbe held liable for any damages arising in any way from the use of\nthis software.\n\nPermission is granted to anyone to use this software for any purpose,\nincluding commercial applications, and to alter it and redistribute\nit freely, subject to the following restrictions:\n\n1. Redistributions of source code must retain the above copyright\nnotice, disclaimer, and this list of conditions.\n\n2. Redistributions in binary form must reproduce the above copyright\nnotice, disclaimer, and this list of conditions in the documentation\nand/or other materials provided with the distribution.\n\n3. All advertising materials mentioning features or use of this\nsoftware must display the following acknowledgment:\n\nThis product includes software developed by Greg Roelofs\nand contributors for the book, \"PNG: The Definitive Guide,\"\npublished by O'Reilly and Associates."
+}

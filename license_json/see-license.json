@@ -1,0 +1,10 @@
+{
+    "filename": "see-license.license",
+    "key": "see-license",
+    "short_name": "See License mention",
+    "name": "See License mention",
+    "category": "Unstated License",
+    "owner": "Unspecified\nis_deprecated: yes\nis_unknown: yes",
+    "notes": "replaced by unknown-license-reference",
+    "license_body": ""
+}

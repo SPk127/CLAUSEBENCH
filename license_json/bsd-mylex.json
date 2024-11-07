@@ -1,0 +1,13 @@
+{
+    "filename": "bsd-mylex.license",
+    "key": "bsd-mylex",
+    "short_name": "BSD-Mylex",
+    "name": "BSD-Mylex",
+    "category": "Permissive",
+    "owner": "Mylex",
+    "notes": "found in the Linux kernel for the Flashpoint code",
+    "spdx_license_key": "LicenseRef-scancode-bsd-mylex",
+    "ignorable_copyrights": "\n- Copyright 1995-1996 by Mylex Corporation",
+    "ignorable_holders": "\n- Mylex Corporation",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are\nmet:\n\n1. Redistributions of source code must retain this LICENSE.FlashPoint\nfile, without modification, this list of conditions, and the following\ndisclaimer.  The following copyright notice must appear immediately at\nthe beginning of all source files:\n\nCopyright 1995-1996 by Mylex Corporation.  All Rights Reserved\n\nThis file is available under both the GNU General Public License\nand a BSD-style copyright; see LICENSE.FlashPoint for details.\n\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n\n3. The name of Mylex Corporation may not be used to endorse or promote\nproducts derived from this software without specific prior written\npermission.\n\nTHIS SOFTWARE IS PROVIDED BY MYLEX CORP. ``AS IS'' AND ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN\nNO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,\nINDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY\nOUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGE."
+}

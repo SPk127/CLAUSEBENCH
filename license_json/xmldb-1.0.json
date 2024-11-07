@@ -1,0 +1,19 @@
+{
+    "filename": "xmldb-1.0.license",
+    "key": "xmldb-1.0",
+    "short_name": "XML:DB Initiative Software License 1.0",
+    "name": "XML:DB Initiative Software License 1.0",
+    "category": "Permissive",
+    "owner": "XMLDB",
+    "homepage_url": "http://xmldb-org.sourceforge.net/index.html",
+    "spdx_license_key": "LicenseRef-scancode-xmldb-1.0",
+    "text_urls": "\n- http://xmldb-org.sourceforge.net/legal.html",
+    "faq_url": "http://xmldb-org.sourceforge.net/faqs.html",
+    "other_urls": "\n- http://www.xmldb.org/",
+    "ignorable_copyrights": "\n- Copyright (c) 2000-2003 The XML:DB Initiative",
+    "ignorable_holders": "\n- The XML:DB Initiative",
+    "ignorable_authors": "\n- the XML:DB Initiative (http://www.xmldb.org/)",
+    "ignorable_urls": "\n- http://www.xmldb.org/",
+    "ignorable_emails": "\n- info@xmldb.org",
+    "license_body": "\nThe XML:DB Initiative Software License, Version 1.0\n\nCopyright (c) 2000-2003 The XML:DB Initiative.  All rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in\nthe documentation and/or other materials provided with the\ndistribution.\n\n3. The end-user documentation included with the redistribution,\nif any, must include the following acknowledgment:\n\"This product includes software developed by the\nXML:DB Initiative (http://www.xmldb.org/).\"\nAlternately, this acknowledgment may appear in the software itself,\nif and wherever such third-party acknowledgments normally appear.\n\n4. The name \"XML:DB Initiative\" must not be used to endorse or\npromote products derived from this software without prior written\npermission. For written permission, please contact info@xmldb.org.\n\n5. Products derived from this software may not be called \"XML:DB\",\nnor may \"XML:DB\" appear in their name, without prior written\npermission of the XML:DB Initiative.\n\nTHIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED\nWARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR\nITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF\nUSE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND\nON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT\nOF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGE.\n====================================================================\n\nThis software consists of voluntary contributions made by many\nindividuals on behalf of the XML:DB Initiative. For more information\non the XML:DB Initiative, please see <http://www.xmldb.org/>."
+}

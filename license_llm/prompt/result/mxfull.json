@@ -1,0 +1,2070 @@
+[
+    {
+        "license_name": "bsd-zero.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "3dslicer-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": [
+                    {
+                        "section": "PART A. GRANT OF LICENSE",
+                        "clauses": [
+                            {
+                                "marker": "CAN",
+                                "content": "use, reproduce, modify, display, and distribute the Software"
+                            },
+                            {
+                                "marker": "MUST",
+                                "content": "include a notice in any copy of the Software or a derivative work that you distribute that includes a notice in the Software"
+                            },
+                            {
+                                "marker": "MUST NOT",
+                                "content": "use, reproduce, modify, display, or distribute the Software except as permitted by this License or by law"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART B. SUBLICENSING OF MODIFICATIONS",
+                        "clauses": [
+                            {
+                                "marker": "CAN",
+                                "content": "sublicense modifications of the Software; provided that in each case your use, reproduction or distribution of such modifications otherwise complies with the conditions stated in this Software License"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART C. THIRD PARTY SOFTWARE",
+                        "clauses": [
+                            {
+                                "marker": "MUST",
+                                "content": "obtain any permissions from third parties that you need to use, reproduce, make derivative works of, display and distribute the Software"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART D. DISCLAIMER AND LIMITATION OF LIABILITY",
+                        "clauses": [
+                            {
+                                "marker": "MUST NOT",
+                                "content": "hold Brigham or any Contributor liable for damages however caused and on any theory of liability arising in any way related to the Software"
+                            },
+                            {
+                                "marker": "MUST",
+                                "content": "assume all liability for your use, reproduction, making of derivative works, display, license or distribution of the Software and agree to indemnify and hold harmless Brigham and all Contributors from and against any and all claims, suits, actions, demands and judgments arising therfrom"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART E. TRADEMARKS",
+                        "clauses": [
+                            {
+                                "marker": "MUST NOT",
+                                "content": "use the names, logos or trademarks of Brigham or any of Brigham's affiliates or any of the Contributors to endorse or promote products produced in whole or in part by operation of the Software or derived from or based on the Software without specific prior written permission from the applicable party"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART F. TERMINATION",
+                        "clauses": [
+                            {
+                                "marker": "MUST NOT",
+                                "content": "use, reproduce or distribute the Software which is not in accordance with this Software License"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART G. INTELLECTUAL PROPERTY RIGHTS",
+                        "clauses": [
+                            {
+                                "marker": "CANNOT",
+                                "content": "grants any rights in or to any intellectual property owned by Brigham or any Contributor except those rights expressly granted hereunder"
+                            }
+                        ]
+                    },
+                    {
+                        "section": "PART H. MISCELLANEOUS",
+                        "clauses": [
+                            {
+                                "marker": "NOT SPECIFIED",
+                                "content": "This Agreement shall be governed by and construed in accordance with the laws of The Commonwealth of Massachusetts without regard to principles of conflicts of law"
+                            },
+                            {
+                                "marker": "MUST",
+                                "content": "supercede and replace any license terms that you may have agreed to previously with respect to Slicer"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": " Here is the JSON object based on the provided term "
+            },
+            {
+                "term": "Relicense",
+                "response": " {\n  \"1\": \"CAN\",\n  \"2\": \"MUST\",\n  \"3\": \"MUST\",\n "
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": [
+                    {
+                        "section": "1",
+                        "marker": "CAN"
+                    },
+                    {
+                        "section": "2",
+                        "marker": "MAY"
+                    },
+                    {
+                        "section": "3",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "4",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "5",
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "section": "6",
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "section": "7",
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "section": "8",
+                        "marker": "NOT SPECIFIED"
+                    }
+                ]
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "CAN",
+                    "clause": "1.",
+                    "description": "You can sublicense modifications of the Software under different license terms or conditions, as long as your use, reproduction or distribution of such modifications otherwise complies with the conditions stated in this Software License."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "attribution.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "WITH MODIFICATION"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "abstyles.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adacore-doc.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None"
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-scl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "x11-adobe.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-glyph.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-utopia.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adsl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.2.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": [
+                    {
+                        "section": "7",
+                        "marker": "MUST",
+                        "description": "Include a copy of this License or its URL in every copy of the Original Work or Derivative Work that You distribute or publicly digitally perform. This obligation is designed to make sure that users have access to the full legal terms that govern the work."
+                    },
+                    {
+                        "section": "8",
+                        "marker": "MUST NOT",
+                        "description": "Use technical measures such as copyright misuse or analogous measures to limit the distribution or legal use of the Original Work, Derivative Works, or copies thereof."
+                    },
+                    {
+                        "section": "9",
+                        "marker": "MUST",
+                        "description": "Make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License if You distribute copies of the Original Work or a Derivative Work."
+                    },
+                    {
+                        "section": "10",
+                        "marker": "MUST NOT",
+                        "description": "Commence an action for patent infringement against Licensor with respect to a patent applicable to software, or against any entity with respect to a patent applicable to the Original Work, excluding combinations of the Original Work with other software or hardware."
+                    },
+                    {
+                        "section": "15",
+                        "marker": "CAN",
+                        "description": "Use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You."
+                    }
+                ]
+            },
+            {
+                "term": "Modify",
+                "response": [
+                    {
+                        "section": 7,
+                        "marker": "MUST",
+                        "content": "include a copy of this License in every Derivative Work"
+                    },
+                    {
+                        "section": 8,
+                        "marker": "MUST NOT",
+                        "content": "use technological measures in the Original Work that alter or restrict the ability of a recipient to exercise the rights granted in Section 1"
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "content": "make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License"
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "content": "commence an action for patent infringement against Licensor or any entity with respect to a patent applicable to the Original Work"
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN",
+                        "content": "use the Original Work in all ways not otherwise restricted or conditioned by this License or by law"
+                    }
+                ]
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "marker": "MUST",
+                    "text": "If You distribute copies of the Original Work or a Derivative Work, You must make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License."
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": [
+                    {
+                        "section": 7,
+                        "marker": "MUST",
+                        "description": "include a copy of this License or a notice referring to the License in all copies of the Derivative Work as redistributed or otherwise disseminated by You."
+                    },
+                    {
+                        "section": 8,
+                        "marker": "MUST NOT",
+                        "description": "distribute the Created Work or offer to distribute it without also distributing a copy of this License or a notice referring to the License."
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "description": "make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "description": "commence an action, including a cross-claim or counterclaim, for patent infringement against Licensor with respect to a patent applicable to software or against any entity with respect to a patent applicable to the Original Work."
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN",
+                        "description": "use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You."
+                    }
+                ]
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "marker": "MUST",
+                    "clause": "provide Recipients with a copy of this License including the Attribution Notice described above to the extent reasonably practicable;"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "MUST",
+                    "clause": "include a copy of, or the Uniform Resource Identifier for, this License with every copy of the Original Work You distribute or publicly display"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "MUST",
+                    "clause": "provide Recipients with a copy of this License including the NOTICE section."
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": [
+                    {
+                        "section": 2,
+                        "marker": "MUST",
+                        "content": "include a copy of this License, the copyright notice, and a disclaimer of warranties; provide the names of any other contributions, if any, that comprise the Original Work; identify the Initial Writer along with a contact address, if applicable."
+                    },
+                    {
+                        "section": 3,
+                        "marker": "MUST",
+                        "content": "reproduce the notice in this section at the beginning of the Original Work and (if applicable) in each Derivative Work file; clearly mark any files containing only Derivative Works."
+                    },
+                    {
+                        "section": 4,
+                        "marker": "MUST",
+                        "content": "include and reproduce the individual copyright notices of the Original Work and any associated Contributors in all copies or substantial portions of the Original Work or Derivative Works."
+                    },
+                    {
+                        "section": 5,
+                        "marker": "MUST",
+                        "content": "provide a notice stating that the Original Work is released under this License in each Derivative Work and include an appropriate copyright notice for any additions or changes made to the Original Work."
+                    },
+                    {
+                        "section": 6,
+                        "marker": "MUST",
+                        "content": "reproduce the list of conditions in this Section 6 in each Derivative Work and make all recipients aware of the most recent version of this License published by the Copyright Holder."
+                    },
+                    {
+                        "section": 7,
+                        "marker": "MUST",
+                        "content": "keep intact all notices that refer to this License and to the absence of any warranty; preserve all attribution and disclaimer notices from the Original Work in Derivative Works."
+                    },
+                    {
+                        "section": 8,
+                        "marker": "SHALL NOT",
+                        "content": "apply to liability for death or personal injury resulting from Licensor's negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You."
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "content": "obtain the express assent of recipients to the terms of this License if distributing copies of the Original Work or a Derivative Work; any other permission or agreement is not valid."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "TERMINATES AUTOMATICALLY",
+                        "content": "if You commence an action against Licensor or any licensee alleging that the Original Work infringes a patent. This termination provision does not apply for an action alleging patent infringement by combinations of the Original Work with other software or hardware."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "CAN",
+                        "content": "bring any action or suit relating to this License only in the courts of a jurisdiction wherein the Licensor resides or conducts its primary business and under the laws of that jurisdiction excluding its conflict-of-law provisions. Any use of the Original Work outside the scope of this License or after its termination shall be subject to penalties under U.S. Copyright Act, equivalent laws of other countries, and international treaty."
+                    },
+                    {
+                        "section": 12,
+                        "marker": "ENTITLED TO",
+                        "content": "recover costs and expenses, including reasonable attorneys' fees, in any action to enforce the terms of this License or seeking damages relating thereto, including any appeal of such action."
+                    },
+                    {
+                        "section": 13,
+                        "marker": "REFORMED ONLY",
+                        "content": "to make it enforceable if any provision of this License is held to be unenforceable."
+                    }
+                ]
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MUST NOT",
+                    "description": "apply this limitation of liability to cases of death or personal injury caused by Licensor's negligence, if prohibited by applicable law."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": [
+                    {
+                        "section": 2,
+                        "marker": "MUST",
+                        "content": "give any Enterprise Copies used with the Original Work to those who receive the Original Work."
+                    },
+                    {
+                        "section": 3,
+                        "marker": "MUST NOT",
+                        "content": "distribute or communicate copies of the Original Work to the public without a License, and a separate license is required for each place where the Original Work is accessible."
+                    },
+                    {
+                        "section": 5,
+                        "marker": "MUST",
+                        "content": "remove or delete any pre-existing copyright notices in any copies of the Original Work."
+                    },
+                    {
+                        "section": 6,
+                        "marker": "NOT SPECIFIED",
+                        "content": "There is no specification for how to display a notice."
+                    },
+                    {
+                        "section": 7,
+                        "marker": "MUST NOT",
+                        "content": "imply that the Licensor endorses You or Your use of the Original Work."
+                    },
+                    {
+                        "section": 8,
+                        "marker": "NOT SPECIFIED",
+                        "content": "There is no specification for what constitutes substantial compliance with this License."
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "content": "make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "content": "exercise any of the rights granted in Section 1 herein as of the date You commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "MUST",
+                        "content": "bring any action or suit relating to this License in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions."
+                    },
+                    {
+                        "section": 12,
+                        "marker": "MUST",
+                        "content": "recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action."
+                    },
+                    {
+                        "section": 14,
+                        "marker": "DEFINITION",
+                        "content": "Defines 'You' throughout this License as an individual or a legal entity exercising rights under, and complying with all of the terms of, this License. For legal entities, 'You' includes any entity that controls, is controlled by, or is under common control with you."
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN",
+                        "content": "use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You."
+                    }
+                ]
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": [
+                    {
+                        "section": 2,
+                        "marker": "MUST",
+                        "content": "include a copy of this License, the copyright notice, and the disclaimer."
+                    },
+                    {
+                        "section": 3,
+                        "marker": "MUST",
+                        "content": "reproduce the above mentioned details (License, copyright notice, and disclaimer) in the Derivative Work."
+                    },
+                    {
+                        "section": 4,
+                        "marker": "MUST",
+                        "content": "keep intact all the notices that refer to this Public License and to the absence of any warranty. If you create a Derivative Work, you must include in such Derivative Work all the notices from the Original Work that are appropriate for the Derivative Work."
+                    },
+                    {
+                        "section": 5,
+                        "marker": "MUST",
+                        "content": "indicate in any Derivative Work or in a readme file accompanying such Derivative Work at a minimum, the following: (i) the name of the Original Work, (ii) whether the Derivative Work is distributed under the terms of this Public License or under different terms permitted by Section 3 above, and (iii) if it is distributed under different terms, provide enough information to allow Recipients to obtain a copy of the license."
+                    },
+                    {
+                        "section": 6,
+                        "marker": "MUST NOT",
+                        "content": "offer or impose any terms on the Original Work that alter or restrict the terms of this Public License or the recipients' exercise of the rights granted hereunder."
+                    },
+                    {
+                        "section": 7,
+                        "marker": "NOT SPECIFIED",
+                        "content": "the exact form of the notice required in Section 5(c)"
+                    },
+                    {
+                        "section": 8,
+                        "marker": "MUST NOT",
+                        "content": "apply any legal terms or technological measures that legally restrict others from doing anything the license permits."
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "content": "make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "content": "exercise any of the rights granted in Section 1 herein if you have commenced an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "MUST",
+                        "content": "bring any action or suit relating to this License in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions."
+                    },
+                    {
+                        "section": 12,
+                        "marker": "MUST",
+                        "content": "pay the prevailing party's costs and expenses, including reasonable attorneys' fees and costs incurred in connection with such action or seeking damages relating thereto, if you commence an action to enforce the terms of this License or seek damages relating thereto and lose."
+                    }
+                ]
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": [
+                    {
+                        "section": 2,
+                        "marker": "MUST",
+                        "content": "include a copy of this License, the copyright notice, and the permission notice in all Derivative Works you distribute."
+                    },
+                    {
+                        "section": 3,
+                        "marker": "MUST",
+                        "content": "indicate if You modified the Original Work. If so, You must include an prominent statement of your modifications as well as the date."
+                    },
+                    {
+                        "section": 4,
+                        "marker": "MUST",
+                        "content": "keep intact all notices that refer to this Public License and to the disclaimer of warranties. You may not delete any of these references."
+                    },
+                    {
+                        "section": 5,
+                        "marker": "MUST NOT",
+                        "content": "offer or impose any terms on any Authorized Users that alter or restrict the terms and conditions of this Public License or the recipients' exercise of the rights granted hereunder."
+                    },
+                    {
+                        "section": 6,
+                        "marker": "MUST",
+                        "content": "distribute only complete and unmodified copies of the Original Work."
+                    },
+                    {
+                        "section": 7,
+                        "marker": "NOT SPECIFIED",
+                        "content": null
+                    },
+                    {
+                        "section": 8,
+                        "marker": "CAN",
+                        "content": "use the Original Work in all ways not otherwise restricted or conditioned by this License or by law."
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "content": "make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License when distributing copies of the Original Work or a Derivative Work."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "content": "exercise any of the rights granted in Section 1 after termination of the License due to a patent action."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "NOT SPECIFIED",
+                        "content": null
+                    },
+                    {
+                        "section": 12,
+                        "marker": "NOT SPECIFIED",
+                        "content": null
+                    },
+                    {
+                        "section": 13,
+                        "marker": "NOT SPECIFIED",
+                        "content": null
+                    },
+                    {
+                        "section": 14,
+                        "marker": "NOT SPECIFIED",
+                        "content": null
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN",
+                        "content": "use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You."
+                    }
+                ]
+            },
+            {
+                "term": "Sublicense",
+                "response": [
+                    {
+                        "section": 2,
+                        "marker": "MUST",
+                        "content": "include a copy of the BSD License text and the copyright notice in all Derivative Works of the Original Work."
+                    },
+                    {
+                        "section": 3,
+                        "marker": "MUST",
+                        "content": "acknowledge the original Licensor's rights to the Original Work in theDerivative Work."
+                    },
+                    {
+                        "section": 4,
+                        "marker": "MUST NOT",
+                        "content": "use any trademark term of the Licensor in your Derivative Works without the Licensor's prior written permission."
+                    },
+                    {
+                        "section": 5,
+                        "marker": "NOT SPECIFIED",
+                        "content": "specify the warranty disclaimer for Derivative Works."
+                    },
+                    {
+                        "section": 6,
+                        "marker": "MUST NOT",
+                        "content": "imply any endorsement by the Licensor or its partners of your Derivative Work without their prior written permission."
+                    },
+                    {
+                        "section": 7,
+                        "marker": "NOT SPECIFIED",
+                        "content": "specify if and how Licensor's liability is limited for any claim that the Original Work or a Derivative Work infringes the intellectual property rights of a third party."
+                    },
+                    {
+                        "section": 9,
+                        "marker": "MUST",
+                        "content": "obtain the express assent of recipients to the terms of this License when distributing copies of the Original Work or a Derivative Work."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "content": "exercise any rights granted in Section 1 after termination of the License due to a patent action against Licensor or its licensees."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "NOT SPECIFIED",
+                        "content": "specify the jurisdiction for actions related to this License for any country other than the US."
+                    },
+                    {
+                        "section": 12,
+                        "marker": "MUST",
+                        "content": "pay attorney's fees and costs incurred by the prevailing party in an action related to this License or seeking damages relating thereto."
+                    }
+                ]
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "1": "MUST NOT",
+                    "2": "MUST",
+                    "3": "MUST",
+                    "4": "MUST",
+                    "5": "MUST",
+                    "6": "NOT SPECIFIED",
+                    "7": "NOT SPECIFIED",
+                    "8": "SHALL NOT (equivalent to MUST NOT)",
+                    "9": "MUST",
+                    "10": "MUST NOT",
+                    "11": "MUST",
+                    "12": "MUST",
+                    "13": "NOT SPECIFIED",
+                    "14": "NOT SPECIFIED",
+                    "15": "CAN"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": " Here is the JSON object based on the terms of the license agreement:\n\n```json\n[\n  {\n    \"section\": 2,\n    \"marker\": \"MUST\",\n    \"content\": \"give any other recipients of the Original Work or Derivative Works a copy of this License or a notice of whether Subsection 6d applies to them.\"\n  },\n  {\n    \"section\": 3,\n    \"marker\": \"MUST NOT\",\n    \"content\": \"distribute the Original Work or any Derivative Work in any form separate from a copy of this License.\"\n  },\n  {\n    \"section\": 5,\n    \"marker\": \"MUST\",\n    \"content\": \"include a prominent notice that identifies You as the author of any Derivative Works you create and indicates that You have distributed them under the terms of this License.\"\n  },\n  {\n    \"section\": 7,\n    \"marker\": \"MUST NOT\",\n    \"content\": \"impose any effective technological measures on the Original Work or any Derivative Work that restricts access to that work defensively.\"\n  },\n  {\n    \"section\": 8,\n    \"marker\": \"NOT SPECIFIED\",\n    \"content\": \"the limitation of liability shall not apply to liability for death or personal injury resulting from Licensor's negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.\"\n  },\n  {\n    \"section\": 9,\n    \"marker\": \"MUST\",\n    \"content\": \"make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License. Nothing else but this License (or another written agreement between Licensor and You) grants You permission to create Derivative Works based upon the Original Work or to exercise any of the rights granted in Section 1 herein, and any attempt to do so except under the terms of this License (or another written agreement between Licensor and You) is expressly prohibited by U.S. copyright law, the equivalent laws of other countries, and by international treaty.\"\n  },\n  {\n    \"section\": 10,\n    \"marker\": \"MUST NOT\",\n    \"content\": \"exercise any of the rights granted to You in Section 1 herein as of the date You commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent. This termination provision shall not apply for an action alleging patent infringement by combinations of the Original Work with other software or hardware.\"\n  },\n  {\n    \"section\": 11,\n    \"marker\": \"MUST\",\n    \"content\": \"bring any action or suit relating to this License in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded.\"\n  },\n  {\n    \"section\": 12,\n    \"marker\": \"MUST\",\n    \"content\": \"recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action. This section shall survive the termination of this License.\"\n  },\n  {\n    \"section\": 14,\n    \"marker\": \"DEFINITION\",\n    \"content\": '\"You\" throughout this License, whether in upper or lower case, means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License. For legal entities, \"You\" includes any entity that controls, is controlled by, or is under common control with you. For purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.'\n  },\n  {\n    \"section\": 15,\n    \"marker\": \"CAN\",\n    \"content\": \"use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You.\"\n  }\n]\n```\nNote: I have only included sections that contain explicit requirements or prohibitions. Some sections are purely informational or do not contain any obligations for the licensee."
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": [
+                    {
+                        "term": "Derivative Works",
+                        "marker": "MUST"
+                    },
+                    {
+                        "term": "honoring these terms and conditions",
+                        "marker": "MUST"
+                    },
+                    {
+                        "term": "copyright law and international treaty",
+                        "marker": "NOT SPECIFIED"
+                    },
+                    {
+                        "term": "fair use or fair dealing",
+                        "marker": "NOT SPECIFIED"
+                    },
+                    {
+                        "term": "Section 1(c)",
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "term": "patent action",
+                        "marker": "TERMINATION FOR PATENT ACTION"
+                    },
+                    {
+                        "term": "jurisdiction, venue and governing law",
+                        "marker": "NOT SPECIFIED"
+                    },
+                    {
+                        "term": "United Nations Convention on Contracts for the International Sale of Goods",
+                        "marker": "EXPLICITLY EXCLUDED"
+                    },
+                    {
+                        "term": "costs and expenses, including reasonable attorneys' fees",
+                        "marker": "MUST"
+                    },
+                    {
+                        "term": "unenforceable provision",
+                        "marker": "REFORMED TO MAKE IT ENFORCEABLE"
+                    },
+                    {
+                        "term": "You",
+                        "marker": "CAN"
+                    },
+                    {
+                        "term": "Modify this License",
+                        "marker": "MUST NOT"
+                    }
+                ]
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": [
+                    {
+                        "section": 1,
+                        "subsections": [
+                            {
+                                "number": "1c",
+                                "marker": "MUST",
+                                "description": "honor the conditions in Section 1(c)"
+                            }
+                        ]
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "description": "commence an action against Licensor or any licensee alleging that the Original Work infringes a patent"
+                    },
+                    {
+                        "section": 11,
+                        "marker": "MUST",
+                        "description": "bring any action or suit relating to this License in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business and under the laws of that jurisdiction excluding its conflict-of-law provisions"
+                    },
+                    {
+                        "section": 12,
+                        "marker": "MUST",
+                        "description": "recover its costs and expenses, including reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action, if prevailing party in an action to enforce the terms of this License or seeking damages relating thereto"
+                    },
+                    {
+                        "section": 14,
+                        "marker": "DEFINED AS",
+                        "description": "an individual or a legal entity exercising rights under, and complying with all of the terms of, this License. For legal entities, You includes any entity that controls, is controlled by, or is under common control with you."
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN",
+                        "description": "use the Original Work in all ways not otherwise restricted or conditioned by this License or by law"
+                    },
+                    {
+                        "section": 16,
+                        "marker": "MUST NOT",
+                        "description": "indicate in any way that your Modified License is the 'Academic Free License' or 'AFL' and you may not use those names in the name of your Modified License"
+                    }
+                ]
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": [
+                    {
+                        "section": "0",
+                        "marker": "MUST",
+                        "description": "Include the license terms in all copies or substantial portions of the Software Samples."
+                    },
+                    {
+                        "section": "1(a)",
+                        "marker": "MUST",
+                        "description": "Retain the above copyright notice, this list of conditions and the following disclaimer."
+                    },
+                    {
+                        "section": "1(b)",
+                        "marker": "MUST",
+                        "description": "Include a copy of the License in all Derivative Works unless they are solely Modifications of the Original Work."
+                    },
+                    {
+                        "section": "1(c)",
+                        "marker": "MUST",
+                        "description": "Indicate clearly that the software is a Derivative Work, and include an obvious visible display of both the original copyright notice and a copy of the License."
+                    },
+                    {
+                        "section": "2",
+                        "marker": "MUST NOT",
+                        "description": "Use trademark terms to disparage Licensor or the Original Work. Use trademarked terms fairly and following conventional trademark use guidelines."
+                    },
+                    {
+                        "section": "3",
+                        "marker": "CAN",
+                        "description": "Apply different terms and conditions to Derivative Works, as long as they comply with this License or copyright exceptions and limitations such as 'fair use'."
+                    },
+                    {
+                        "section": "4",
+                        "marker": "MUST NOT",
+                        "description": "Suggest that Licensor endorses Your use of the Original Work."
+                    },
+                    {
+                        "section": "5",
+                        "marker": "MUST",
+                        "description": "Include a prominent display of the word 'Modified' or something similar, along with the date of any Modifications when distributing Derivative Works that are Modifications of the Original Work."
+                    },
+                    {
+                        "section": "6",
+                        "marker": "MUST NOT",
+                        "description": "Offer warranties or make similar representations unless they are given without excluding or limiting Licensor's legal rights."
+                    },
+                    {
+                        "section": "7",
+                        "marker": "MUST",
+                        "description": "Include a clear and prominent notice that the User is receiving the Original Work 'as is', with no warranty, to the extent permitted by applicable law."
+                    },
+                    {
+                        "section": "8",
+                        "marker": "MUST NOT",
+                        "description": "Limit or alter Licensor's rights or the recipients' exceptions, restrictions, and terms without explicit permission from Licensor."
+                    },
+                    {
+                        "section": "9",
+                        "marker": "NOT SPECIFIED",
+                        "description": "This section does not have a clear marker. It describes derivative works based upon the Original Work."
+                    },
+                    {
+                        "section": "10",
+                        "marker": "MUST NOT",
+                        "description": "Commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent. However, this does not apply to actions alleging patent infringement by combinations of the Original Work with other software or hardware."
+                    },
+                    {
+                        "section": "11",
+                        "marker": "MUST",
+                        "description": "Bring any action or suit relating to this License in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions."
+                    },
+                    {
+                        "section": "12",
+                        "marker": "MUST",
+                        "description": "In any action to enforce the terms of this License or seeking damages relating thereto, award costs and expenses, including reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action, to the prevailing party."
+                    },
+                    {
+                        "section": "13",
+                        "marker": "MUST",
+                        "description": "Reform any provision of this License that is held to be unenforceable, only to the extent necessary to make it enforceable."
+                    },
+                    {
+                        "section": "14",
+                        "marker": "NOT SPECIFIED",
+                        "description": "This section provides a definition for 'You' throughout this License."
+                    },
+                    {
+                        "section": "15",
+                        "marker": "MUST",
+                        "description": "Include the license terms in all copies or substantial portions of the Software Samples."
+                    }
+                ]
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": [
+                    {
+                        "section": 1,
+                        "subsections": [
+                            {
+                                "number": "1c",
+                                "marker": "MUST",
+                                "description": "Honor the conditions in Section 1(c) to continue exercising rights granted by this License."
+                            }
+                        ]
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "description": "Commence an action alleging that the Original Work infringes a patent while holding a valid license. This termination provision does not apply for actions alleging patent infringement by combinations of the Original Work with other software or hardware."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "MUST",
+                        "description": "Bring any action or suit relating to this License in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded."
+                    },
+                    {
+                        "section": 12,
+                        "marker": "MUST",
+                        "description": "Recover costs and expenses, including reasonable attorneys' fees and costs incurred in connection with any action to enforce the terms of this License or seeking damages relating thereto, including any appeal of such action."
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN",
+                        "description": "Use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You."
+                    },
+                    {
+                        "section": 16,
+                        "marker": "MUST NOT",
+                        "description": "Modify this License as applied to the Original Work or to Derivative Works. However, you may modify the text of this License and apply it to other original works of authorship subject to certain conditions."
+                    }
+                ]
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": [
+                    {
+                        "section": 1,
+                        "subsections": [
+                            {
+                                "marker": "MUST",
+                                "clause": "attribution of the Original Work in any Derivative Works"
+                            },
+                            {
+                                "marker": "MUST",
+                                "clause": "include a copy of this License in any Derivative Works"
+                            },
+                            {
+                                "marker": "MUST NOT",
+                                "clause": "remove any of the above requirements from Derivative Works"
+                            }
+                        ]
+                    },
+                    {
+                        "section": 2,
+                        "marker": "CAN"
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "section": 11,
+                        "marker": "NOT SPECIFIED"
+                    },
+                    {
+                        "section": 12,
+                        "marker": "NOT SPECIFIED"
+                    },
+                    {
+                        "section": 14,
+                        "marker": "NOT SPECIFIED",
+                        "clause": "definition of 'You'"
+                    },
+                    {
+                        "section": 15,
+                        "marker": "CAN"
+                    },
+                    {
+                        "section": 16,
+                        "marker": "MUST NOT",
+                        "clause": "indicate in any way that your Modified License is the 'Academic Free License' or 'AFL'"
+                    }
+                ]
+            },
+            {
+                "term": "Include Copyright",
+                "response": [
+                    {
+                        "section": 1,
+                        "subsections": [
+                            {
+                                "marker": "MUST",
+                                "content": "Include copyright and permission notice."
+                            },
+                            {
+                                "marker": "MUST",
+                                "content": "Include the title of the Original Work."
+                            },
+                            {
+                                "marker": "MUST",
+                                "content": "Include the URL for the Original Work."
+                            },
+                            {
+                                "marker": "MUST",
+                                "content": "Include the URI to any software repository, if applicable."
+                            },
+                            {
+                                "marker": "MUST NOT",
+                                "content": "Alter or remove any of the above information."
+                            }
+                        ]
+                    },
+                    {
+                        "section": 2,
+                        "marker": "MUST",
+                        "content": "Provide clear and sole ownership of the Original Work to the Licensor."
+                    },
+                    {
+                        "section": 3,
+                        "marker": "MUST NOT",
+                        "content": "Use trademark terms in a way that suggests endorsement or sponsorship by the Original Work's author(s) or licensor(s)."
+                    },
+                    {
+                        "section": 4,
+                        "marker": "MUST",
+                        "content": "Include a copy of this License with every copy of the Original Work."
+                    },
+                    {
+                        "section": 5,
+                        "marker": "MUST",
+                        "content": "Make a good faith effort to redistribute the latest version of the license."
+                    },
+                    {
+                        "section": 6,
+                        "marker": "MUST NOT",
+                        "content": "Impose any terms on the exercise of rights granted by this License."
+                    },
+                    {
+                        "section": 7,
+                        "marker": "MUST",
+                        "content": "Include proper attribution when creating Derivative Works based upon the Original Work."
+                    },
+                    {
+                        "section": 10,
+                        "marker": "MUST NOT",
+                        "content": "Commence an action alleging patent infringement by the Original Work after accepting this License."
+                    },
+                    {
+                        "section": 11,
+                        "marker": "MUST",
+                        "content": "Bring any legal action in the courts of a jurisdiction where the Licensor resides or conducts its primary business and under the laws of that jurisdiction."
+                    },
+                    {
+                        "section": 12,
+                        "marker": "MUST",
+                        "content": "Pay reasonable attorneys' fees and costs incurred by the prevailing party in any legal action related to this License."
+                    },
+                    {
+                        "section": 14,
+                        "marker": "IS",
+                        "content": "Defined as an individual or a legal entity exercising rights under this License and complying with all of its terms."
+                    }
+                ]
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": " Based on the provided input, here is the JSON object with the corresponding marker value for each term:\n\n```json\n[\n  {\n    \"term\": \"Derivative Works\",\n    \"marker\": \"CAN\"\n  },\n  {\n    \"term\": \"honoring these terms and conditions\",\n    \"marker\": \"MUST\"\n  },\n  {\n    \"term\": \"copyright law and international treaty\",\n    \"marker\": \"MUST\"\n  },\n  {\n    \"term\": \"copyright exceptions and limitations (including 'fair use' or 'fair dealing')\",\n    \"marker\": \"CAN\"\n  },\n  {\n    \"term\": \"exercise any of the rights granted to You by this License upon your failure to honor the conditions in Section 1(c)\",\n    \"marker\": \"MUST NOT\"\n  },\n  {\n   "
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afmparse.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "marker": "MODIFY WITH NOTICE OF CHANGE"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "agpl-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": [
+                    {
+                        "section": "1",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "2",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "2",
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "section": "3",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "3",
+                        "marker": "MUST INCLUDE"
+                    },
+                    {
+                        "section": "4",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "5",
+                        "marker": "MUST NOT"
+                    },
+                    {
+                        "section": "6",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "7",
+                        "marker": "MUST"
+                    },
+                    {
+                        "section": "8",
+                        "marker": "MAY"
+                    },
+                    {
+                        "section": "9",
+                        "marker": "CAN"
+                    },
+                    {
+                        "section": "10",
+                        "marker": "MUST WRITE FOR PERMISSION"
+                    },
+                    {
+                        "section": "11",
+                        "marker": "NO WARRANTY"
+                    },
+                    {
+                        "section": "12",
+                        "marker": "WILL NOT BE LIABLE"
+                    }
+                ]
+            }
+        ]
+    }
+]

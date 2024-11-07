@@ -1,0 +1,15 @@
+{
+    "filename": "fair.license",
+    "key": "fair",
+    "short_name": "Fair License",
+    "name": "Fair License",
+    "category": "Permissive",
+    "owner": "OSI - Open Source Initiative",
+    "homepage_url": "http://opensource.org/licenses/fair.php",
+    "notes": "Per SPDX.org, this license is OSI certified",
+    "spdx_license_key": "Fair",
+    "text_urls": "\n- http://opensource.org/licenses/fair.php",
+    "osi_url": "http://opensource.org/licenses/fair.php",
+    "other_urls": "\n- http://fairlicense.org/\n- http://www.opensource.org/licenses/Fair\n- https://opensource.org/licenses/Fair\n- http://rhid.com/fair",
+    "license_body": "\nUsage of the works is permitted provided that this instrument is retained with\nthe works, so that any entity that uses the works is notified of this\ninstrument.\n\nDISCLAIMER: THE WORKS ARE WITHOUT WARRANTY."
+}

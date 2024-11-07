@@ -1,0 +1,5 @@
+Please see
+http://joinup.ec.europa.eu/software/page/eupl
+for all the co-equal version of the EUPL-1.1 into various European languages. (This
+matrix
+showing the EUPL-1.1’s compatibility with other OSI-approved licenses may also be useful.)

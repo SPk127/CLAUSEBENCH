@@ -1,0 +1,12 @@
+{
+    "filename": "threeparttable.license",
+    "key": "threeparttable",
+    "short_name": "threeparttable License",
+    "name": "threeparttable License",
+    "owner": "Fedora",
+    "category": "Permissive",
+    "notes": "|\nAdded in SPDX license list 3.24\nThis was previously the license rule: other-permissive_322.RULE",
+    "spdx_license_key": "threeparttable",
+    "other_urls": "\n- https://fedoraproject.org/wiki/Licensing/Threeparttable",
+    "license_body": "\nThis file may be distributed, modified, and used in other works with just\none restriction: modified versions must clearly indicate the modification\n(a name change, or a displayed message, or ?)."
+}

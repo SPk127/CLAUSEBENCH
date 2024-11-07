@@ -1,0 +1,12 @@
+{
+    "filename": "karl-peterson.license",
+    "key": "karl-peterson",
+    "short_name": "Karl Peterson License",
+    "name": "Karl Peterson License",
+    "category": "Free Restricted",
+    "owner": "Karl Peterson",
+    "homepage_url": "http://www.mvps.org/vb",
+    "spdx_license_key": "LicenseRef-scancode-karl-peterson",
+    "other_urls": "\n- http://www.mvps.org/vb",
+    "license_body": "\nYou are free to use this code within your own applications, but you\nare expressly forbidden from selling or otherwise distributing this\nsource code without prior written consent."
+}

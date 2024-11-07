@@ -1,0 +1,11 @@
+{
+    "filename": "takuya-ooura.license",
+    "key": "takuya-ooura",
+    "short_name": "Takuya OOURA License",
+    "name": "Takuya OOURA License",
+    "category": "Permissive",
+    "owner": "Takuya OOURA",
+    "homepage_url": "http://www.kurims.kyoto-u.ac.jp/~ooura/fft.html",
+    "spdx_license_key": "LicenseRef-scancode-takuya-ooura",
+    "license_body": "\nYou may use, copy, modify and distribute this code for any purpose (include\ncommercial use) and without fee. Please refer to this package when you modify\nthis code."
+}

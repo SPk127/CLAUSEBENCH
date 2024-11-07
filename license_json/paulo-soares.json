@@ -1,0 +1,11 @@
+{
+    "filename": "paulo-soares.license",
+    "key": "paulo-soares",
+    "short_name": "Paulo Soares License",
+    "name": "Paulo Soares License",
+    "category": "Permissive",
+    "owner": "Paulo Soares",
+    "spdx_license_key": "LicenseRef-scancode-paulo-soares",
+    "ignorable_authors": "\n- Paulo Soares",
+    "license_body": "\nThese specific metrics files were created by Paulo Soares and may be used,\ncopied, and distributed for any purpose and without charge, with or without\nmodification."
+}

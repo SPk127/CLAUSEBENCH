@@ -1,0 +1,14 @@
+{
+    "filename": "ttyp0.license",
+    "key": "ttyp0",
+    "short_name": "TTYP0 License",
+    "name": "TTYP0 License",
+    "category": "Permissive",
+    "owner": "Uwe Waldmann",
+    "homepage_url": "https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/",
+    "spdx_license_key": "TTYP0",
+    "other_spdx_license_keys": "\n- LicenseRef-scancode-ttyp0",
+    "other_urls": "\n- https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/uw-ttyp0-1.3.tar.gz\n- https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/",
+    "minimum_coverage": "70",
+    "license_body": "\nTHE TTYP0 LICENSE\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this font software and associated files (the \"Software\"),\nto deal in the Software without restriction, including without\nlimitation the rights to use, copy, modify, merge, publish,\ndistribute, embed, sublicense, and/or sell copies of the Software,\nand to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\n(1) The above copyright notice, this permission notice, and the\ndisclaimer below shall be included in all copies or substantial\nportions of the Software.\n\n(2) If the design of any glyphs in the fonts that are contained in the\nSoftware or generated during the installation process is modified\nor if additional glyphs are added to the fonts, the fonts\nmust be renamed. The new names may not contain the word \"UW\",\nirrespective of capitalisation; the new names may contain the word\n\"ttyp0\", irrespective of capitalisation, only if preceded by a\nfoundry name different from \"UW\".\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+}

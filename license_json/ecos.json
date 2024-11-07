@@ -1,0 +1,16 @@
+{
+    "filename": "ecos.license",
+    "key": "ecos\nis_deprecated: yes",
+    "short_name": "GPL 2.0 or later with eCos Exception",
+    "name": "GPL 2.0 or later with eCos Exception",
+    "category": "Copyleft Limited",
+    "owner": "eCos",
+    "homepage_url": "http://ecos.sourceware.org/ecos-license/",
+    "is_exception": "yes",
+    "spdx_license_key": "eCos-2.0",
+    "text_urls": "\n- http://www.fsf.org/licensing/licenses/ecos-license.html\n- http://www.gnu.org/licenses/ecos-license.html",
+    "faq_url": "http://ecos.sourceware.org/license-overview.html",
+    "minimum_coverage": "100",
+    "notes": "|\nPer SPDX.org, this is really GPL v2 or later + an exception.\nReplaced by ecos-exception-2.0.",
+    "license_body": "\nThis file is part of eCos, the Embedded Configurable Operating System.\n\neCos is free software; you can redistribute it and/or modify it under\nthe terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2 or (at your option) any later version.\n\neCos is distributed in the hope that it will be useful, but WITHOUT ANY\nWARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License\nfor more details.\n\nYou should have received a copy of the GNU General Public License along\nwith eCos; if not, write to the Free Software Foundation, Inc.,\n59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.\n\nAs a special exception, if other files instantiate templates or use macros\nor inline functions from this file, or you compile this file and link it\nwith other works to produce a work based on this file, this file does not\nby itself cause the resulting work to be covered by the GNU General Public\nLicense. However the source code for this file must still be made available\nin accordance with section (3) of the GNU General Public License.\n\nThis exception does not invalidate any other reasons why a work based on\nthis file might be covered by the GNU General Public License."
+}

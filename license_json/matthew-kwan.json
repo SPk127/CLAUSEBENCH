@@ -1,0 +1,12 @@
+{
+    "filename": "matthew-kwan.license",
+    "key": "matthew-kwan",
+    "short_name": "Matthew Kwan License",
+    "name": "Matthew Kwan License",
+    "category": "Permissive",
+    "owner": "Matthew Kwan",
+    "homepage_url": "http://www.darkside.com.au/bitslice/",
+    "spdx_license_key": "LicenseRef-scancode-matthew-kwan",
+    "text_urls": "\n- http://www.darkside.com.au/bitslice/sboxes.c\n- http://www.darkside.com.au/bitslice/nonstd.c",
+    "license_body": "\nThis software may be modified, redistributed, and used for any purpose,\nso long as its origin is acknowledged."
+}

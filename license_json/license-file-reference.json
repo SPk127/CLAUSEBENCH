@@ -1,0 +1,10 @@
+{
+    "filename": "license-file-reference.license",
+    "key": "license-file-reference\nis_deprecated: yes",
+    "short_name": "license-file-reference",
+    "name": "license-file-reference",
+    "category": "Unstated License",
+    "owner": "Unspecified\nis_unknown: yes",
+    "notes": "this was known before as \"see-license\" and is now unknown-license-reference",
+    "license_body": ""
+}

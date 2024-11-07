@@ -1,0 +1,15 @@
+{
+    "filename": "ricebsd.license",
+    "key": "ricebsd",
+    "short_name": "RiceBSD",
+    "name": "Rice BSD Software License",
+    "category": "Permissive",
+    "owner": "Rice University",
+    "homepage_url": "https://web.archive.org/web/20060907200326/http://www.caam.rice.edu/software/ARPACK/RiceBSD.doc",
+    "spdx_license_key": "LicenseRef-scancode-ricebsd",
+    "other_urls": "\n- https://github.com/pisilinux/uludag/blob/d202a1ddc0f5855acbad532ae0cf319f9f280c55/tags/pisi/2.2.18/licenses/RiceBSD\n- https://github.com/search?q=\"Also%2C+we+ask+that+use+of+ARPACK+is+properly\"&type=code\nhave this",
+    "ignorable_copyrights": "\n- Copyright (c) 2001, Rice University",
+    "ignorable_holders": "\n- Rice University",
+    "ignorable_authors": "\n- D.C. Sorensen, R.B. Lehoucq, C. Yang, and K. Maschhoff",
+    "license_body": "\nRice BSD Software License\nPermits source and binary redistribution of the software ARPACK and\nP_ARPACK  for both non-commercial and commercial use.\n\nCopyright (©) 2001, Rice University\nDeveloped by D.C. Sorensen, R.B. Lehoucq, C. Yang, and K. Maschhoff.\nAll rights reserved.\n\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are\nmet:\n• Redistributions of source code must retain the above copyright notice,\nthis list of conditions and the following disclaimer.\n• Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n• If you modify the source for these routines we ask that you change the\nname of the routine and comment the changes made to the original.\n• Written notification is provided to the developers of  intent to use\nthis software.  Also, we ask that use of ARPACK is properly cited in\nany resulting publications or software documentation.\n• Neither the name of Rice University (RICE) nor the names of its\ncontributors may be used to endorse or promote products derived from\nthis software without specific prior written permission.\n\n\nTHIS SOFTWARE IS PROVIDED BY RICE AND CONTRIBUTORS \"AS IS\" AND  ANY  EXPRESS\nOR  IMPLIED  WARRANTIES,  INCLUDING,  BUT  NOT  LIMITED  TO,   THE   IMPLIED\nWARRANTIES OF MERCHANTABILITY AND  FITNESS  FOR  A  PARTICULAR  PURPOSE  ARE\nDISCLAIMED. IN NO EVENT  SHALL  RICE  OR  CONTRIBUTORS  BE  LIABLE  FOR  ANY\nDIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR  CONSEQUENTIAL  DAMAGES\n(INCLUDING,  BUT  NOT  LIMITED  TO,  PROCUREMENT  OF  SUBSTITUTE  GOODS   OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS  INTERRUPTION)  HOWEVER\nCAUSED  AND  ON  ANY  THEORY  OF  LIABILITY,  WHETHER  IN  CONTRACT,  STRICT\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING  IN  ANY  WAY\nOUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF  SUCH\nDAMAGE."
+}

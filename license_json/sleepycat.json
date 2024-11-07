@@ -1,0 +1,16 @@
+{
+    "filename": "sleepycat.license",
+    "key": "sleepycat",
+    "short_name": "Sleepycat License",
+    "name": "Sleepycat License (Berkeley Database License)",
+    "category": "Copyleft",
+    "owner": "Oracle Corporation",
+    "homepage_url": "http://opensource.org/licenses/sleepycat.html",
+    "notes": "Per SPDX.org, this license is OSI certified",
+    "spdx_license_key": "Sleepycat",
+    "text_urls": "\n- http://www.oracle.com/technology/software/products/berkeley-db/htdocs/oslicense.html",
+    "osi_url": "http://opensource.org/licenses/sleepycat.html",
+    "faq_url": "https://docs.oracle.com/cd/E17076_05/html/license/license_db.html",
+    "other_urls": "\n- http://www.opensource.org/licenses/Sleepycat\n- http://www.opensource.org/licenses/sleepycat.php\n- https://opensource.org/licenses/Sleepycat",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n3. Redistributions in any form must be accompanied by information on\nhow to obtain complete source code for the DB software and any\naccompanying software that uses the DB software.  The source code\nmust either be included in the distribution or be available for no\nmore than the cost of distribution plus a nominal fee, and must be\nfreely redistributable under reasonable conditions.  For an\nexecutable file, complete source code means the source code for all\nmodules it contains.  It does not include source code for modules or\nfiles that typically accompany the major components of the operating\nsystem on which the executable file runs.\n\nTHIS SOFTWARE IS PROVIDED BY ORACLE CORPORATION ``AS IS'' AND ANY EXPRESS\nOR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR\nNON-INFRINGEMENT, ARE DISCLAIMED.  IN NO EVENT SHALL ORACLE CORPORATION\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\nINTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\nCONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\nARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF\nTHE POSSIBILITY OF SUCH DAMAGE."
+}

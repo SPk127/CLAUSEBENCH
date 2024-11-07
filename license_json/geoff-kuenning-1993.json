@@ -1,0 +1,14 @@
+{
+    "filename": "geoff-kuenning-1993.license",
+    "key": "geoff-kuenning-1993",
+    "short_name": "Geoff Kuenning License 1993",
+    "name": "Geoff Kuenning License 1993",
+    "category": "Permissive",
+    "owner": "Geoff Kuenning",
+    "homepage_url": "https://www.hitachi.co.jp/Prod/comp/soft1/jp1/trial/trialv12/sla/license/373.txt",
+    "spdx_license_key": "LicenseRef-scancode-geoff-kuenning-1993",
+    "ignorable_copyrights": "\n- Copyright 1993, Geoff Kuenning, Granada Hills, CA",
+    "ignorable_holders": "\n- Geoff Kuenning, Granada Hills, CA",
+    "ignorable_authors": "\n- Geoff Kuenning",
+    "license_body": "\nCopyright 1993, Geoff Kuenning, Granada Hills, CA\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n3. All modifications to the source code must be clearly marked as\nsuch.  Binary redistributions based on modified source code\nmust be clearly marked as modified versions in the documentation\nand/or other materials provided with the distribution.\n4. All advertising materials mentioning features or use of this software\nmust display the following acknowledgment:\nThis product includes software developed by Geoff Kuenning and\nother unpaid contributors.\n5. The name of Geoff Kuenning may not be used to endorse or promote\nproducts derived from this software without specific prior\nwritten permission.\n\nTHIS SOFTWARE IS PROVIDED BY GEOFF KUENNING AND CONTRIBUTORS ``AS\nIS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS\nFOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL GEOFF\nKUENNING OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,\nINCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,\nBUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN\nANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGE."
+}

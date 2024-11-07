@@ -1,0 +1,10 @@
+{
+    "filename": "broadcom-confidential.license",
+    "key": "broadcom-confidential",
+    "short_name": "Broadcom Confidential",
+    "name": "Broadcom Confidential",
+    "category": "Commercial",
+    "owner": "Broadcom",
+    "spdx_license_key": "LicenseRef-scancode-broadcom-confidential",
+    "license_body": "\nNo portions of this material may be reproduced in any form without the written permission of:\nBroadcom Corporation\n16251 Laguna Canyon Road\nIrvine, California  92618\nAll information contained in this document is Broadcom Corporation company private, proprietary, and trade secret."
+}

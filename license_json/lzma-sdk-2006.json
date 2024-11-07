@@ -1,0 +1,13 @@
+{
+    "filename": "lzma-sdk-2006.license",
+    "key": "lzma-sdk-2006",
+    "short_name": "LZMA SDK 2006",
+    "name": "LZMA SDK 2006",
+    "category": "Copyleft Limited",
+    "owner": "Igor Pavlov",
+    "spdx_license_key": "LicenseRef-scancode-lzma-sdk-2006",
+    "ignorable_copyrights": "\n- Copyright (c) 1999-2006 Igor Pavlov (2006-05-01) http://www.7-zip.org",
+    "ignorable_holders": "\n- Igor Pavlov",
+    "ignorable_urls": "\n- http://www.7-zip.org/",
+    "license_body": "\nLZMA SDK 4.40 Copyright (c) 1999-2006 Igor Pavlov (2006-05-01)\nhttp://www.7-zip.org/\n\nLZMA SDK is licensed under two licenses:\n1) GNU Lesser General Public License (GNU LGPL)\n2) Common Public License (CPL)\nIt means that you can select one of these two licenses and\nfollow rules of that license.\n\nSPECIAL EXCEPTION:\nIgor Pavlov, as the author of this code, expressly permits you to\nstatically or dynamically link your code (or bind by name) to the\ninterfaces of this file without subjecting your linked code to the\nterms of the CPL or GNU LGPL. Any modifications or additions\nto this file, however, are subject to the LGPL or CPL terms."
+}

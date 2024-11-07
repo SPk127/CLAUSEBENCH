@@ -1,0 +1,17 @@
+{
+    "filename": "efl-2.0.license",
+    "key": "efl-2.0",
+    "short_name": "EFL 2.0",
+    "name": "Eiffel Forum License 2.0",
+    "category": "Permissive",
+    "owner": "Eiffel NICE",
+    "homepage_url": "http://www.eiffel-nice.org/license/",
+    "notes": "Per SPDX.org, this license is OSI certified",
+    "spdx_license_key": "EFL-2.0",
+    "osi_license_key": "EFL-2.0",
+    "text_urls": "\n- http://www.eiffel-nice.org/license/eiffel-forum-license-2.txt\n- http://www.opensource-definition.org/licenses/ver2_eiffel.html",
+    "osi_url": "http://www.opensource.org/licenses/ver2_eiffel.php",
+    "faq_url": "http://inamidst.com/stuff/eiffel/",
+    "other_urls": "\n- http://amalasoft.com/downloads/ael/ds/LICENSE.txt\n- http://en.wikipedia.org/wiki/Eiffel_Forum_License\n- http://opensource.org/licenses/EFL-2.0\n- http://www.eiffel-nice.org/license/eiffel-forum-license-2.html\n- https://opensource.org/licenses/EFL-2.0",
+    "license_body": "\nEiffel Forum License, version 2\n\n1. Permission is hereby granted to use, copy, modify and/or\ndistribute this package, provided that:\n* copyright notices are retained unchanged,\n* any distribution of this package, whether modified or not,\nincludes this license text.\n2. Permission is hereby also granted to distribute binary programs\nwhich depend on this package. If the binary program depends on a\nmodified version of this package, you are encouraged to publicly\nrelease the modified version of this package.\n\n***********************\n\nTHIS PACKAGE IS PROVIDED \"AS IS\" AND WITHOUT WARRANTY. ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY\nDIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.\n\n***********************"
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "jam.license",
+    "key": "jam",
+    "short_name": "Jam License",
+    "name": "Jam License",
+    "category": "Permissive",
+    "owner": "Perforce",
+    "spdx_license_key": "Jam",
+    "other_spdx_license_keys": "\n- LicenseRef-scancode-jam",
+    "other_urls": "\n- https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html\n- https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README",
+    "license_body": "\nLicense is hereby granted to use this software and distribute it freely,\nas long as this copyright notice is retained and modifications are\nclearly marked.\n\nALL WARRANTIES ARE HEREBY DISCLAIMED."
+}

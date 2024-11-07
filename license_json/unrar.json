@@ -1,0 +1,12 @@
+{
+    "filename": "unrar.license",
+    "key": "unrar",
+    "short_name": "UnRar License",
+    "name": "UnRar License",
+    "category": "Source-available",
+    "owner": "RAR",
+    "homepage_url": "http://sharpnews.weebly.com/uploads/1/2/7/9/1279604/license.txt",
+    "spdx_license_key": "LicenseRef-scancode-unrar",
+    "osi_url": "http://www.rarlab.com/rar/unrarsrc-5.2.7.tar.gz",
+    "license_body": "\n******    *****   ******   UnRAR - free utility for RAR archives\n**   **  **   **  **   **  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n******   *******  ******    License for use and distribution of\n**   **  **   **  **   **   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n**   **  **   **  **   **         FREE portable version\n~~~~~~~~~~~~~~~~~~~~~\n\nThe source code of UnRAR utility is freeware. This means:\n\n1. All copyrights to RAR and the utility UnRAR are exclusively\nowned by the author - Alexander Roshal.\n\n2. UnRAR source code may be used in any software to handle\nRAR archives without limitations free of charge, but cannot be\nused to develop RAR (WinRAR) compatible archiver and to\nre-create RAR compression algorithm, which is proprietary.\nDistribution of modified UnRAR source code in separate form\nor as a part of other software is permitted, provided that\nfull text of this paragraph, starting from \"UnRAR source code\"\nwords, is included in license, or in documentation if license\nis not available, and in source code comments of resulting package.\n\n3. The UnRAR utility may be freely distributed. It is allowed\nto distribute UnRAR inside of other software packages.\n\n4. THE RAR ARCHIVER AND THE UnRAR UTILITY ARE DISTRIBUTED \"AS IS\".\nNO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.  YOU USE AT\nYOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS,\nDAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING\nOR MISUSING THIS SOFTWARE.\n\n5. Installing and using the UnRAR utility signifies acceptance of\nthese terms and conditions of the license.\n\n6. If you don't agree with terms of the license you must remove\nUnRAR files from your storage devices and cease to use the\nutility.\n\nThank you for your interest in RAR and UnRAR.\nAlexander L. Roshal"
+}

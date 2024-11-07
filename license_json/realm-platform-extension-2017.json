@@ -1,0 +1,15 @@
+{
+    "filename": "realm-platform-extension-2017.license",
+    "key": "realm-platform-extension-2017",
+    "short_name": "Realm Platform Extensions License 2017",
+    "name": "Realm Platform Extensions License 2017",
+    "category": "Proprietary Free",
+    "owner": "Realm",
+    "homepage_url": "https://github.com/realm/realm-studio/blob/channel/major-10/LICENSE",
+    "spdx_license_key": "LicenseRef-scancode-realm-platform-extension-2017",
+    "faq_url": "http://realm.io/pricing/",
+    "ignorable_copyrights": "\n- Copyright (c) 2011-2017 Realm Inc",
+    "ignorable_holders": "\n- Realm Inc",
+    "ignorable_urls": "\n- http://realm.io/pricing",
+    "license_body": "\nRealm Platform Extensions License\n\nCopyright (c) 2011-2017 Realm Inc All rights reserved\n\nRedistribution and use in binary form, with or without modification, is\npermitted provided that the following conditions are met:\n\n1. You agree not to attempt to decompile, disassemble, reverse engineer or\notherwise discover the source code from which the binary code was derived.\nYou may, however, access and obtain a separate license for most of the\nsource code from which this Software was created, at\nhttp://realm.io/pricing/.\n\n2. Redistributions in binary form must reproduce the above copyright notice,\nthis list of conditions and the following disclaimer in the documentation\nand/or other materials provided with the distribution.\n\n3. Neither the name of the copyright holder nor the names of its\ncontributors may be used to endorse or promote products derived from this\nsoftware without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\nARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE\nLIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\nINTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\nCONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\nARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGE."
+}

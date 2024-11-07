@@ -1,0 +1,16 @@
+{
+    "filename": "avsystem-5-clause.license",
+    "key": "avsystem-5-clause",
+    "short_name": "AVSystem 5-Clause License",
+    "name": "AVSystem 5-Clause License",
+    "category": "Source-available",
+    "owner": "AVSystem",
+    "homepage_url": "https://github.com/AVSystem/Anjay/blob/master/LICENSE",
+    "spdx_license_key": "LicenseRef-scancode-avsystem-5-clause",
+    "other_urls": "\n- https://github.com/AVSystem/Anjay/blob/master/demo/firmware_update.c",
+    "standard_notice": "Licensed under the AVSystem-5-clause License.",
+    "ignorable_copyrights": "\n- Copyright by AVSystem sp. z o.o. (AVSystem) 17th March 2022",
+    "ignorable_holders": "\n- AVSystem sp. z o.o. (AVSystem) 17th March",
+    "ignorable_emails": "\n- sales@avsystem.com",
+    "license_body": "\nAVSystem-5-clause License\n\nCopyright by AVSystem sp. z o.o. (AVSystem) 17th March 2022.\nAll rights reserved.\nThis software is licensed under the following conditions specified below.\n\n\nAll materials referring to features or use of this software must display the\nfollowing acknowledgement:\n\n\"This product includes software developed by AVSystem\"\n\nRedistribution and use of the software in source and binary code forms, with or\nwithout modification, are permitted only provided that the following conditions\nare met:\n\n1. Redistribution of source code must retain copyright notice and include the\nlist of usage conditions and AVSystem's disclaimer.\n\n2. Redistribution in binary form, except as embedded in a physical device, must\ncontain the above copyright notice, this list of conditions of use and the\nfollowing disclaimer in the documentation and/or other materials provided\nwith the software.\n\n3. Neither the name of the AVSystem nor its collaborators (if any) may be used\nto offer or promote products derived from this software without prior\nwritten consent of the owner.\n\n4. Commercial use of this software, with or without modifications, requires\nprior notification to AVSystem at sales@avsystem.com of such use. In case\nthe software is used together with AVSystem's CoioteDM Platform, such\nnotification is not required.\n\n5. Commercial use of the software is limited to 100.000 (one hundred thousand)\ndevices, unless a separate agreement with AVSystem is made.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT OWNER \"AS IS\" AND ANY DIRECT OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF\nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO\nEVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,\nPROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR\nBUSINESS INTERRUPTION) HOWEVER CAUSED AND REGARDLESS OF THE SOURCE OF\nLIABILITY, WHETHER CONTRACT, DIRECT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR\nOTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED\nOF THE POSSIBILITY OF SUCH DAMAGE."
+}

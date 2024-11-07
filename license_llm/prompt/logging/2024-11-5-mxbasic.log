@@ -1,0 +1,369 @@
+{"license_name": "bsd-zero.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "bsd-zero.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "bsd-zero.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "bsd-zero.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Distribute", "response": " Based on the provided open-source software license and the term \"Distribute\", here is the JSON output:\n\n```json\n{\n  \"marker\": \"MUST\"\n}\n```\n\nThe term \"Distribute\" in this context implies that one is obligated to distribute the Software under the conditions outlined in this Software License. This includes including all of Part B of the Agreement with any distributed copies, adhering to all terms and conditions, retaining copyright statements and license terms, among other requirements."}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Modify", "response": " Based on the provided input, here's the output JSON object:\n\n```json\n{\n  \"Modify\": {\n    \"can_modify_software\": {\n      \"marker\": \"CAN\",\n      \"excerpt_reference\": [\"8\", \"9\"],\n      \"description\": \"Users can download, copy, modify, display, distribute or use the Software.\"\n    },\n    \"must_grant_license_to_brigham\": {\n      \"marker\": \"MUST\",\n      \"excerpt_reference\": [\"28\", \"32\"],\n      \"description\": \"Contributors must grant a perpetual, worldwide, non-exclusive, no charge, royalty-free, irrevocable license to Brigham for using, reproducing, making derivative works of, displaying and distributing the Contribution.\"\n    },\n    \"cannot_require_open_source_license\": {\n      \"marker\": \"MUST NOT\",\n      \"excerpt_reference\": [\"34\", \"35\"],\n      \"description\": \"Contributors cannot require or prescribe an 'Open Source License' for derivative works.\"\n    },\n    \"must_comply_with_license_conditions\": {\n      \"marker\": \"MUST\",\n      \"excerpt_reference\": [\"44\", \"46\"],\n      \"description\": \"Users must comply with all terms and conditions when using, reproducing, making derivative works of, displaying, distributing the Software or any portion of it.\"\n    },\n    \"must_preserve_attributions_and_licenses\": {\n      \"marker\": \"MUST\",\n      \"excerpt_reference\": [\"37\"],\n      \"description\": \"Users must preserve and maintain all applicable attributions, copyright notices and licenses included in or applicable to the Software.\"\n    },\n    \"must_identify_and_mark_modified_versions\": {\n      \"marker\": \"MUST\",\n      \"excerpt_reference\": [\"39\"],\n      \"description\": \"Users must identify and mark any modified versions of the Software appropriately.\"\n    },\n    \"obtain_third_party_permissions\": {\n      \"marker\": \"MUST\",\n      \"excerpt_reference\": [\"56\"],\n      \"description\": \"Users are solely responsible for obtaining any permissions from third parties that they need to use, reproduce, make derivative works of, display and distribute the Software.\"\n    },\n    \"comply_with_applicable_laws\": {\n      \"marker\": \"MUST\",\n      \"excerpt_reference\": [\"58\"],\n      \"description\": \"Users further agree to use, reproduce, make derivative works of, display and distribute the Software in compliance with all applicable governmental laws, regulations and orders.\"\n    }\n  }\n}\n```\nThis JSON object contains details about whether users can or must perform certain actions related to modifying the software. Each action has a marker indicating if it is allowed, required, or not allowed. The `excerpt_reference` key refers to the line numbers in the input where the relevant information was found."}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include License", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"CAN sublicense\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"OPTIONAL\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Relicense", "response": " {\n  \"marker\": \"OPTIONAL\"\n}"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "3dslicer-1.0.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "attribution.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"OPTIONAL\"\n}"}
+{"license_name": "attribution.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "attribution.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "attribution.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "attribution.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "attribution.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "abstyles.license", "license_terms": "Modify", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "abstyles.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "abstyles.license", "license_terms": "Include License", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "abstyles.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "abstyles.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Distribute", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adacore-doc.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Hold Liable", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "adacore-doc.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adacore-doc.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adobe-scl.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adobe-scl.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include License", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "adobe-scl.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "adobe-scl.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adobe-scl.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Include License", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "x11-adobe.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "x11-adobe.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include License", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adobe-glyph.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adobe-glyph.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adobe-utopia.license", "license_terms": "Modify", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Hold Liable", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "adobe-utopia.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adobe-utopia.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adsl.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "adsl.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Hold Liable", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Use Trademark", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "adsl.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Distribute", "response": " {\n  \"Distribute\": \"CAN\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"LICENSOR CANNOT BE HELD LIABLE\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-1.1.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-1.1.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Distribute", "response": " {\n  \"Distribute\": \"CAN\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Modify", "response": " {\n  \"modify\": \"CAN\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"LICENSOR CANNOT BE HELD LIABLE\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Disclose Source", "response": " {\n  \"Disclose Source\": \"MUST\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Give Credit", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-1.2.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-1.2.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Distribute", "response": " {\n  \"Distribute copies of the Original Work and Derivative Works to the public\": \"CAN\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Modify", "response": " Based on the provided open-source software license excerpts and the specific term to evaluate, here's the output JSON object:\n\n```json\n{\n  \"marker\": \"CAN\"\n}\n```\n\nThe term \"Modify\" corresponds to the ability to prepare derivative works (Derivative Works) based upon the Original Work, which is covered in section 1(b) of the license excerpt. This allows users to modify the original work, and thus the marker is set to \"CAN\"."}
+{"license_name": "afl-2.0.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Give Credit", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Use Patent Claims", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "afl-2.0.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-2.0.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Distribute", "response": " Based on the provided license content and the specific term to evaluate, here's the output JSON object:\n\n```json\n{\n  \"marker\": \"CAN\"\n}\n```\n\nThe licensor grants a non-exclusive, perpetual, sublicenseable license to distribute copies of the Original Work and Derivative Works to the public. Therefore, users can distribute the software according to the terms and conditions stated in the license."}
+{"license_name": "afl-2.1.license", "license_terms": "Modify", "response": " Based on the provided license content and the term to evaluate, here's the output:\n\n```json\n{\n  \"modify\": {\n    \"createDerivativeWorks\": \"CAN\",\n    \"retainNoticesInSourceCode\": \"MUST\",\n    \"causeSourceCodeToCarryAttributionNotice\": \"MUST\"\n  }\n}\n```"}
+{"license_name": "afl-2.1.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Give Credit", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Use Patent Claims", "response": " {\n  \"marker\": \"CANNOT\"\n}"}
+{"license_name": "afl-2.1.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-2.1.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Distribute", "response": " Based on the provided input, here's the output JSON object:\n\n```json\n{\n  \"marker\": \"CAN distribute or communicate copies of the Original Work and Derivative Works to the public\"\n}\n```\nThis output is related to the specific term \"Distribute\" evaluated within the context of the given open-source software license excerpts."}
+{"license_name": "afl-3.0.license", "license_terms": "Modify", "response": " Based on the provided input, here's the output in JSON format:\n\n```json\n{\n  \"marker\": \"CAN\"\n}\n```\n\nThe term \"Modify\" falls under the \"CAN\" category since the license explicitly grants the right to translate, adapt, alter, transform, modify, or arrange the Original Work (License Content for Analysis, point b). This allows users to create derivative works based on the original work."}
+{"license_name": "afl-3.0.license", "license_terms": "Commercial Use", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Copyright", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Sublicense", "response": " {\n  \"marker\": \"OPTIONAL\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Disclose Source", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Give Credit", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Use Patent Claims", "response": " {\n  \"marker\": \"MUST NOT\"\n}"}
+{"license_name": "afl-3.0.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afl-3.0.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Distribute", "response": " {\n  \"marker\": \"CAN\"\n}"}
+{"license_name": "afmparse.license", "license_terms": "Modify", "response": " {\n  \"marker\": \"MUST\"\n}"}
+{"license_name": "afmparse.license", "license_terms": "Commercial Use", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Hold Liable", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "afmparse.license", "license_terms": "Include Copyright", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include License", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Sublicense", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Use Trademark", "response": " {\n  \"marker\": \"NOT SPECIFIED\"\n}"}
+{"license_name": "afmparse.license", "license_terms": "Private Use", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Disclose Source", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "State Changes", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Place Warranty", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include Notice", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include Original", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Give Credit", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Use Patent Claims", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Rename", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Relicense", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Contact Author", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Include Install Instructions", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Compensate for Damages", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Statically Link", "response": "None"}
+{"license_name": "afmparse.license", "license_terms": "Pay Above Use Threshold", "response": "None"}
+{"license_name": "agpl-1.0.license", "license_terms": "Distribute", "response": " Based on the provided input, here is the JSON object with the applicable marker value:\n\n```json\n{\n  \"marker\": \"MUST\"\n}\n```\n\nThe reason for this answer is that the text clearly states: \"You may not copy, modify, sublicense, or distribute the Program except as expressly provided under this License.\" This implies that it's a requirement (or something to be done in accordance with) the terms of the license."}

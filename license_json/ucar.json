@@ -1,0 +1,13 @@
+{
+    "filename": "ucar.license",
+    "key": "ucar",
+    "short_name": "UCAR License",
+    "name": "UCAR License",
+    "category": "Permissive",
+    "owner": "UCAR",
+    "homepage_url": "https://github.com/Unidata/UDUNITS-2/blob/master/COPYRIGHT",
+    "spdx_license_key": "UCAR",
+    "ignorable_authors": "\n- the Unidata Program Center of the University Corporation for Atmospheric Research (UCAR)\nhttp://www.unidata.ucar.edu",
+    "ignorable_urls": "\n- http://www.unidata.ucar.edu/",
+    "license_body": "\nThis software was developed by the Unidata Program Center of the\nUniversity Corporation for Atmospheric Research (UCAR)\n<http://www.unidata.ucar.edu>.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n1) Redistributions of source code must retain the above copyright notice,\nthis list of conditions and the following disclaimer.\n2) Redistributions in binary form must reproduce the above copyright notice,\nthis list of conditions and the following disclaimer in the documentation\nand/or other materials provided with the distribution.\n3) Neither the names of the development group, the copyright holders, nor the\nnames of contributors may be used to endorse or promote products derived\nfrom this software without specific prior written permission.\n4) This license shall terminate automatically and you may no longer exercise\nany of the rights granted to you by this license as of the date you\ncommence an action, including a cross-claim or counterclaim, against\nthe copyright holders or any contributor alleging that this software\ninfringes a patent. This termination provision shall not apply for an\naction alleging patent infringement by combinations of this software with\nother software or hardware.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS\nOR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE."
+}

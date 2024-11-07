@@ -1,0 +1,11 @@
+{
+    "filename": "mame.license",
+    "key": "mame",
+    "short_name": "MAME license",
+    "name": "MAME license",
+    "category": "Free Restricted",
+    "owner": "Nicola Salmoria",
+    "homepage_url": "https://web-beta.archive.org/web/20100311021704/http://mamedev.org/legal.html",
+    "spdx_license_key": "LicenseRef-scancode-mame",
+    "license_body": "\nRedistribution and use of the MAME code or any derivative works are\npermitted provided that the following conditions are met:\n\nRedistributions may not be sold, nor may they be used in a\ncommercial product or activity.\n\nRedistributions that are modified from the original source must\ninclude the complete source code, including the source code for all\ncomponents used by a binary built from the modified sources.\nHowever, as a special exception, the source code distributed need\nnot include anything that is normally distributed (in either source\nor binary form) with the major components (compiler, kernel, and so\non) of the operating system on which the executable runs, unless\nthat component itself accompanies the executable.\n\nRedistributions must reproduce the above copyright notice, this list\nof conditions and the following disclaimer in the documentation\nand/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS\nIS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED\nTO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER\nOR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,\nEXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,\nPROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\nPROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING\nNEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+}

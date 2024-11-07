@@ -1,0 +1,13 @@
+{
+    "filename": "gcc-exception-2.0-note.license",
+    "key": "gcc-exception-2.0-note",
+    "short_name": "GCC Runtime Library exception 2.0 - note variant",
+    "name": "GCC Runtime Library exception 2.0 - note variant",
+    "category": "Copyleft Limited",
+    "owner": "Free Software Foundation (FSF)",
+    "notes": "This is unlimited-linking-exception-lgpl.LICENSE with a note.",
+    "is_exception": "yes",
+    "spdx_license_key": "GCC-exception-2.0-note",
+    "other_urls": "\n- https://sourceware.org/git/?p=glibc.git;a=blob;f=sysdeps/x86_64/start.S",
+    "license_body": "\nIn addition to the permissions in the GNU Lesser General Public\nLicense, the Free Software Foundation gives you unlimited\npermission to link the compiled version of this file with other\nprograms, and to distribute those programs without any restriction\ncoming from the use of this file. (The GNU Lesser General Public\nLicense restrictions do apply in other respects; for example, they\ncover modification of the file, and distribution when not linked\ninto another program.)\n\nNote that people who make modified versions of this file are not\nobligated to grant this special exception for their modified\nversions; it is their choice whether to do so. The GNU Lesser\nGeneral Public License gives permission to release a modified\nversion without this exception; this exception also makes it\npossible to release a modified version which carries forward this\nexception."
+}

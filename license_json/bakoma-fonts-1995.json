@@ -1,0 +1,16 @@
+{
+    "filename": "bakoma-fonts-1995.license",
+    "key": "bakoma-fonts-1995",
+    "short_name": "BaKoMa Fonts Licence 1995",
+    "name": "BaKoMa Fonts Licence 1995",
+    "category": "Permissive",
+    "owner": "Unspecified",
+    "homepage_url": "http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma",
+    "spdx_license_key": "LicenseRef-scancode-bakoma-fonts-1995",
+    "text_urls": "\n- http://ctan.cs.uu.nl/fonts/cm/ps-type1/bakoma/LICENCE\n- http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma/LICENCE",
+    "ignorable_copyrights": "\n- Copyright (c) 1994, 1995, Basil K. Malyshev",
+    "ignorable_holders": "\n- Basil K. Malyshev",
+    "ignorable_urls": "\n- http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma",
+    "ignorable_emails": "\n- bakoma@mail.ru\n- malyshev@mail.ihep.ru",
+    "license_body": "\nBaKoMa Fonts Licence\n--------------------\n\nThis licence covers two font packs (known as BaKoMa Fonts Colelction,\nwhich is available at `CTAN:fonts/cm/ps-type1/bakoma/'):\n\n1) BaKoMa-CM (1.1/12-Nov-94)\nComputer Modern Fonts in PostScript Type 1 and TrueType font formats.\n\n2) BaKoMa-AMS (1.2/19-Jan-95)\nAMS TeX fonts in PostScript Type 1 and TrueType font formats.\n\nCopyright (C) 1994, 1995, Basil K. Malyshev. All Rights Reserved.\n\nPermission to copy and distribute these fonts for any purpose is\nhereby granted without fee, provided that the above copyright notice,\nauthor statement and this permission notice appear in all copies of\nthese fonts and related documentation.\n\nPermission to modify and distribute modified fonts for any purpose is\nhereby granted without fee, provided that the copyright notice,\nauthor statement, this permission notice and location of original\nfonts (http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma)\nappear in all copies of modified fonts and related documentation.\n\nPermission to use these fonts (embedding into PostScript, PDF, SVG\nand printing by using any software) is hereby granted without fee.\nIt is not required to provide any notices about using these fonts.\n\nBasil K. Malyshev\nINSTITUTE FOR HIGH ENERGY PHYSICS\nIHEP, OMVT\nMoscow Region\n142281 PROTVINO\nRUSSIA\n\nE-Mail:\tbakoma@mail.ru\nor\tmalyshev@mail.ihep.ru"
+}

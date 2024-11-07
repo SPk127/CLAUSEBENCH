@@ -1,0 +1,11 @@
+{
+    "filename": "commercial-option.license",
+    "key": "commercial-option\nis_deprecated: yes",
+    "short_name": "Commercial Option",
+    "name": "Commercial Option",
+    "category": "Commercial",
+    "owner": "Unspecified",
+    "is_generic": "yes",
+    "notes": "replaced by commercial-license",
+    "license_body": "\nThis component may be licensed under a commercial contract from the supplier."
+}

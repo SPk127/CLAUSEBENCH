@@ -1,0 +1,11 @@
+{
+    "filename": "magaz.license",
+    "key": "magaz",
+    "short_name": "magaz License",
+    "name": "magaz License",
+    "category": "Permissive",
+    "owner": "Donald Arseneau",
+    "spdx_license_key": "magaz",
+    "other_urls": "\n- https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
+    "license_body": "\nThis software may be freely used, transmitted, reproduced, or modified provided that\nthe copyright notice and this permission is retained."
+}

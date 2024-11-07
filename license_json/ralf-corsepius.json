@@ -1,0 +1,9 @@
+{
+    "filename": "ralf-corsepius.license",
+    "key": "ralf-corsepius",
+    "short_name": "Ralf Corsepius License",
+    "name": "Ralf Corsepius License",
+    "category": "Permissive",
+    "owner": "Unspecified\nis_deprecated: yes",
+    "license_body": "\nPermission to use, copy, modify, and distribute this software\nis freely granted, provided that this notice is preserved."
+}

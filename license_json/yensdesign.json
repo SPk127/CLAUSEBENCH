@@ -1,0 +1,11 @@
+{
+    "filename": "yensdesign.license",
+    "key": "yensdesign",
+    "short_name": "Yensdesign License",
+    "name": "Yensdesign License",
+    "category": "Permissive",
+    "owner": "yensdesign",
+    "homepage_url": "http://www.yensdesign.com/",
+    "spdx_license_key": "LicenseRef-scancode-yensdesign",
+    "license_body": "\nlicense: Feel free to use it, but keep this credits please!"
+}

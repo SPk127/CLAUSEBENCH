@@ -1,0 +1,12 @@
+{
+    "filename": "xzoom.license",
+    "key": "xzoom",
+    "short_name": "xzoom License",
+    "name": "xzoom License",
+    "owner": "Itai Nahshon",
+    "category": "Permissive",
+    "notes": "|\nAdded in SPDX license list 3.24\nThis was previously the license rule: other-copyleft_34.RULE",
+    "spdx_license_key": "xzoom",
+    "other_urls": "\n- https://metadata.ftp-master.debian.org/changelogs//main/x/xzoom/xzoom_0.3-27_copyright",
+    "license_body": "\nThis program is distributed with no warranty.\n\nSource files for this program may be distributed freely.\nModifications to this file are okay as long as:\na. This copyright notice and comment are preserved and\nleft at the top of the file.\nb. The man page is fixed to reflect the change.\nc. The author of this change adds his name and change\ndescription to the list of changes below.\nExecutable files may be distributed with sources, or with\nexact location where the source code can be obtained."
+}

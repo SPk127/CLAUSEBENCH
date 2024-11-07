@@ -1,0 +1,1409 @@
+[
+    {
+        "license_name": "bsd-zero.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "1: 'Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "1: 'Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.'"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "3: 'IN NO EVENT SHALL THE AUTHOR BE LIABLE... arising out of or in connection with the use or performance of this software' - This clause explicitly prohibits holding the author liable for any damages resulting from using the software."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "3dslicer-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "7: 'If you distribute Software downloaded from Slicer, all of the paragraphs of Part B of this Agreement must be included with and apply to such Software.', 39: 'The license granted in this Software License includes without limitation the right to (i) incorporate the Software into proprietary programs (subject to any restrictions applicable to such programs), (ii) add your own copyright statement to your modifications of the Software, and (iii) provide additional or different license terms and conditions in your sublicenses of modifications of the Software'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "Terms": [
+                        {
+                            "term": "Use the Software",
+                            "marker": "CAN",
+                            "explanation": "1: 'you grant...a royalty-free, non-exclusive license to use...the Software'."
+                        },
+                        {
+                            "term": "Reproduce the Software",
+                            "marker": "CAN",
+                            "explanation": "1: 'you grant...a royalty-free, non-exclusive license to use...the Software'."
+                        },
+                        {
+                            "term": "Make Derivative Works",
+                            "marker": "CAN",
+                            "explanation": "1: 'make derivative works of the Software'."
+                        },
+                        {
+                            "term": "Display the Software",
+                            "marker": "CAN",
+                            "explanation": "1: 'display and distribute the Software'."
+                        },
+                        {
+                            "term": "Distribute the Software",
+                            "marker": "CAN",
+                            "explanation": "1: 'distribute the Software'."
+                        },
+                        {
+                            "term": "Include Terms in Copies and Sublicenses",
+                            "marker": "MUST",
+                            "explanation": "2(b): 'in connection with any copy...all of the terms and conditions...shall appear...'."
+                        },
+                        {
+                            "term": "Preserve Attributions, Copyright Notices, and Licenses",
+                            "marker": "MUST",
+                            "explanation": "3(c): 'preserve and maintain all applicable attributions, copyright notices and licenses included in or applicable to the Software'."
+                        },
+                        {
+                            "term": "Identify and Mark Modified Versions",
+                            "marker": "MUST",
+                            "explanation": "3(d): 'modified versions of the Software must be clearly identified and marked as such'."
+                        },
+                        {
+                            "term": "Consider Making Source Code Available",
+                            "marker": "OPTIONAL",
+                            "explanation": "3(e): 'you consider making...freely available to others on an open source basis'."
+                        },
+                        {
+                            "term": "Incorporate Software into Proprietary Programs",
+                            "marker": "CAN",
+                            "explanation": "14: 'incorporate the Software into proprietary programs (subject to any restrictions applicable to such programs)'."
+                        },
+                        {
+                            "term": "Add Copyright Statement to Modifications",
+                            "marker": "CAN",
+                            "explanation": "14: 'add your own copyright statement to your modifications of the Software'."
+                        },
+                        {
+                            "term": "Provide Additional or Different License Terms in Sublicenses of Modifications",
+                            "marker": "CAN",
+                            "explanation": "14: 'provide additional or different license terms and conditions in your sublicenses of modifications of the Software'."
+                        },
+                        {
+                            "term": "Use, Reproduce, Make Derivative Works, Display, License or Distribute the Software in Compliance with Laws",
+                            "marker": "MUST",
+                            "explanation": "16: 'use, reproduce, make derivative works of, display and distribute the Software in compliance with all applicable governmental laws, regulations and orders'."
+                        },
+                        {
+                            "term": "Assume Liability for Use, Reproduction, Making Derivative Works, Display, License or Distribution of the Software",
+                            "marker": "MUST NOT",
+                            "explanation": "17: 'assume all liability for your use, reproduction, making of derivative works, display, license or distribution of the Software'."
+                        },
+                        {
+                            "term": "Indemnify Brigham and Contributors",
+                            "marker": "MUST",
+                            "explanation": "17: 'agree to indemnify and hold harmless Brigham and all Contributors from and against any and all claims, suits, actions, demands and judgments arising therfrom'."
+                        }
+                    ]
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "term": "Commercial Use",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "23: 'grant...a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under your interest in patent rights covering the Contribution, to make, have made, use, sell and otherwise transfer your Contribution, alone or in combination with any other code' - The excerpt does not explicitly address commercial use; it only mentions granting a license for making, selling, and transferring contributions without specifying whether this includes commercial contexts."
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": {
+                    "term": "Relicense",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "37: The license allows users to provide additional or different license terms and conditions in sublicenses of modifications, but it does not explicitly mention the possibility or prohibition of relicensing the software under a different license."
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "26, 48-49: 'Brigham shall have no liability arising in connection with claims resulting from your breach' and 'TO THE MAXIMUM EXTENT NOT PROHIBITED BY LAW OR REGULATION, YOU FURTHER ASSUME ALL LIABILITY FOR YOUR USE... AND AGREE TO INDEMNIFY AND HOLD HARMLESS BRIGHAM AND ALL CONTRIBUTORS FROM AND AGAINST ANY AND ALL CLAIMS, SUITS, ACTIONS, DEMANDS AND JUDGMENTS ARISING THEREFROM.' This indicates that users cannot hold Brigham liable for any damages or claims arising from the software's use."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "CAN",
+                    "explanation": "12, 30: 'with right to sublicense', and 'provided that you accept and adhere to all of the terms and conditions of this Software License; and in connection with any copy of or sublicense of all or any portion of the Software'."
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "51: 'None of the names, logos or trademarks of Brigham...may be used to endorse or promote products...without specific prior written permission' - This suggests that using trademarks for endorsing or promoting products is prohibited without explicit permission."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "18: 'preserved in the Contribution all applicable attributions, copyright notices and licenses' (preserve copyright notices is a form of including them)"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "term": "Include License",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "37, 58: The provided license excerpts do not contain any explicit requirements or mentions related to including the full license text in software distributions."
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"OPTIONAL\",\n  \"explanation\": \"35: 'you consider making, but are under no obligation to make, the source code of any of your modifications to the Software freely available to others on an open source basis.'\"}\"\n}"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "attribution.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "4: 'Redistribution and use in source and binary forms, with or without modification, are permitted provided that...'; 6: 'Redistributions of the Code in binary form must be accompanied by this GPG-signed text...'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "4: 'with or without modification, are permitted' - This phrase indicates that users can modify the software under the conditions outlined in the license."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "14: 'IN NO EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE' - This line explicitly states that users cannot hold the author or contributors liable for any damages."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "10: 'Neither the name nor any trademark of the Author may be used to endorse or promote products derived from this software without specific prior written permission.'"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "term": "Disclose Source",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "4: 'Redistributions of source code... must prominently display this GPG-signed text in verifiable form' - The license does not explicitly address making the software's source code publicly accessible or available to recipients upon distribution, ensuring code transparency and reusability."
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "abstyles.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "2: 'Permission is granted to make and distribute verbatim copies of this document' AND 3: 'Permission is granted to copy and distribute modified versions of this document'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "1: 'This program is distributed WITHOUT ANY WARRANTY, express or implied.' The license does not explicitly address being held liable, but it includes a disclaimer of warranty which may imply that the provider is not responsible for outcomes resulting from the software's use."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "2: 'Permission is granted to make and distribute verbatim copies of this document provided that the copyright notice and this permission notice are preserved on all copies.'"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "term": "Include License",
+                    "marker": "MUST",
+                    "explanation": "2: 'Permission is granted to make and distribute verbatim copies of this document provided that the copyright notice and this permission notice are preserved on all copies.' - This states that the full license text must be included with any distributed copies."
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adacore-doc.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None"
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "'in whole or in part, in any form or by any means, as is or with alterations' - this excerpt implies that users can modify the software"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "1: 'this copyright notice is included unmodified in any copy.'"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-scl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "2, 4: 'to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute this source code and such derivative works in source or object code form without any attribution requirements.'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "Line 2: 'to reproduce, prepare derivative works of, ... distribute this source code and such derivative works in source or object code form' - The license explicitly permits creating derivative works."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "7: 'IN NO EVENT SHALL MACROMEDIA OR ITS SUPPLIERS BE LIABLE' - This clause explicitly prohibits holding the software provider (Macromedia) or its suppliers legally responsible for any damages or consequences arising from the use of this source code."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "term": "Include License",
+                    "marker": "MUST",
+                    "explanation": "1: 'Please read this Source Code License Agreement carefully before using the source code.' This implies that the full license text must be included with the software distribution."
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "term": "Disclose Source",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "1-7: The provided license excerpts do not include any requirements or permissions related to disclosing the source code or making it publicly accessible."
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "x11-adobe.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, distribute, and sublicense this software and its documentation for any purpose and without fee is hereby granted...'\"\"\n}"
+            },
+            {
+                "term": "Modify",
+                "response": "{\n  \"term\": \"Modify\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"1: 'Permission to use, copy, modify, distribute, and sublicense this software and its documentation for any purpose'\"\"\n}"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "{\n  \"term\": \"Hold Liable\",\n  \"marker\": \"MUST NOT\",\n"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "CAN",
+                    "explanation": "1: 'and sublicense this software and its documentation for any purpose and without fee is hereby granted,'"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "3: 'No trademark license to use the Adobe trademarks is hereby granted.' - This statement explicitly prohibits the granting of a trademark license, implying that users cannot use Adobe's trademarks."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "1: 'provided that the above copyright notices appear in all copies' - this implies that users must include original copyright notices in redistributed copies of the software"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "term": "Include License",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "1: 'Permission to use, copy, modify, distribute, and sublicense this software and its documentation for any purpose and without fee is hereby granted' - The license does not explicitly require including the full license text in software distributions."
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-glyph.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n"
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "MUST NOT",
+                    "explanation": "1: 'No modification, editing or other alteration of this document is allowed;' and 2: 'The derived work is not represented as being a copy or version of this document.'"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "term": "Commercial Use",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "There is no explicit statement regarding commercial use in the provided license excerpts (Lines 1-2)."
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "3: 'Adobe shall not be liable to any party for any loss of revenue or profit or for indirect, incidental, special, consequential, or other similar damages...'"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "CAN",
+                    "explanation": "1: 'to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation', 2: 'to create their own derivative works from the content of this document to use, copy, publish, distribute, sublicense, and/or sell the derivative works'"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "2: 'and this permission notice shall be included in all copies of the documentation.'"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": {
+                    "term": "Include License",
+                    "marker": "MUST",
+                    "explanation": "1: 'and this permission notice shall be included in all copies of the documentation.' This requirement implies that the full license text must be included in all copies of the distributed software."
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-utopia.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "1: 'Permission to use, reproduce, display and distribute the listed typefaces is hereby granted...'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "1: The license does not explicitly address the use of trademarks or provide instructions on how users should handle them; it only mentions including a copyright notice and attribution for the Adobe typefaces."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "1: 'provided that the Adobe Copyright notice appears in all whole and partial copies of the software'"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adsl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "2: 'may copy, display, modify and redistribute the software code either by itself or as incorporated into your code;' This excerpt allows for distribution of the software."
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "2: 'modify and redistribute the software code' - this implies that users are allowed to alter or expand the source code."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"5-6: 'grants to any person obtaining a copy of the Original Work (\"You\") a world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable license (1) to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof'.\"\n}"
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "5: 'to use, copy, modify, merge, publish, distribute and/or sell copies of the Original Work and derivative works thereof,'"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN",
+                    "explanation": "5: 'to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof,'"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "16-18: 'SHALL NOT BE LIABLE... FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES... This LIMITATION OF LIABILITY shall not apply to liability for death or personal injury resulting from such party's negligence'"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "MUST NOT",
+                    "explanation": "5: 'a non-sublicenseable license' - This line explicitly prohibits sublicensing by the user."
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "9: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "Line 7: 'Redistributions of the Original Work must reproduce all copyright notices in the Original Work as furnished by the Licensor, both in the Original Work itself and in any documentation and/or other materials provided with the distribution of the Original Work in executable form.'"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST",
+                    "explanation": "21: 'Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.' AND 23: 'Licensor reserves the right to satisfy this obligation by ... publishing the address of that information repository in a notice immediately following the copyright notice that applies to the Original Work.'"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.2.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "4: 'to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof,'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "4: 'to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof,'"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN",
+                    "explanation": "4: 'to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof,'"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "16-18: 'shall not be liable to any person for any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work' - This indicates that users are prohibited from holding the licensor liable for any damages."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "MUST NOT",
+                    "explanation": "4: 'non-sublicenseable license' - The term sublicense is explicitly negated, indicating that users cannot grant sublicenses to third parties based on the original license."
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "9: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "2: 'Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the Source Code in an information repository and by publishing the address of that information repository in a notice' - This implies that users must include the copyright statement when redistributing the software."
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST",
+                    "explanation": "7: 'You must retain...all copyright...notices from the Source Code...'; 20-21: 'You must cause the Source Code for any Derivative Works...to carry a prominent Attribution Notice'."
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "{\n  \"term\": \"Give Credit\",\n  \"marker\": \"MUST\",\n"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "6: 'to distribute copies of the Original Work and Derivative Works to the public'; 10: 'If You distribute copies of the Original Work or a Derivative Work, You must...'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "7: 'to prepare derivative works (Derivative Works) based upon the Original Work'; 9: 'to make, use, sell and offer for sale the Original Work and Derivative Works'."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, to make, use, sell and offer for sale the Original Work and Derivative Works'\": The license explicitly permits making, using, selling, and offering for sale the original work and derivative works, implying commercial use is allowed.\"\n}"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "28-30: 'shall not be liable to any person for any direct, indirect, special, incidental, or consequential damages... This limitation of liability shall not apply to liability for death or personal injury resulting from Licensor's negligence.'"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "term": "Use Patent Claims",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "6: 'No patent license is granted to make, use, sell or offer to sell embodiments of any patent claims' - The license does not explicitly allow using patent claims; 15: 'Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor' - The licensor only guarantees ownership of the patents, but no permission or obligation regarding their use is specified."
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "CAN",
+                    "explanation": "5, 7: 'a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license' AND 'a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims'"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "Lines 13-14: 'Neither the names of Licensor, nor any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.' This explicitly prohibits using the original author's trademarks for endorsement or promotion."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "5: 'Licensor reserves the right to satisfy this obligation by ... placing a machine-readable copy of the Source Code in an information repository' - this implies that users must include original copyright statements and related information in redistributed copies."
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST",
+                    "explanation": "9: 'Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.' - This line requires the licensor to disclose the source code upon distribution."
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "term": "Give Credit",
+                    "marker": "MUST",
+                    "explanation": "20, 21: 'You must retain... Attribution Notice' and 'You must cause the Source Code for any Derivative Works... to carry a prominent Attribution Notice'"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "6-7: 'to distribute copies of the Original Work and Derivative Works to the public;' and 'If You distribute copies of the Original Work or a Derivative Work,...'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "7: 'to prepare derivative works (Derivative Works) based upon the Original Work'; 9: 'to make, use, sell and offer for sale the Original Work and Derivative Works'."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "{\n  \"term\": \"Commercial Use\",\n  \"marker\": \"CAN\",\n  \"explanation\": \"7: 'grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, to make, use, sell and offer for sale the Original Work and Derivative Works'\": The license explicitly permits using the software in a commercial context (selling and offering for sale) by granting this permission in relation to both the original work and derivative works. This indicates that commercial use is allowed under this permissive license.\"\n}"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "28-30: 'shall not be liable to any person for any direct, indirect, special, incidental, or consequential damages... This limitation of liability shall not apply to liability for death or personal injury resulting from Licensor's negligence'"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "term": "Use Patent Claims",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "6: 'No patent license is granted to make, use, sell or offer to sell embodiments of any patent claims' - The license does not explicitly allow using patented technology in the software. However, it also does not clearly forbid this action."
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "CAN",
+                    "explanation": "5: 'a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license'; 7: 'sublicenseable license'."
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "Lines 13-14: 'Neither the names of Licensor, nor any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.' This statement explicitly prohibits using the licensor's trademarks for endorsing or promoting derived products."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "{\n  \"term\": \"Include Copyright\",\n  \"marker\": \"MUST\",\n"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST",
+                    "explanation": "9: 'Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.', 20-21: 'You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent or trademark notices from the Source Code of the Original Work... You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice.'"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "term": "Give Credit",
+                    "marker": "MUST",
+                    "explanation": "20: 'You must retain...notices of licensing and any descriptive text identified therein as an \"Attribution Notice\".' AND 21: 'You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice'."
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": {
+                    "term": "Distribute",
+                    "marker": "CAN",
+                    "explanation": "7: 'to distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice that does not contradict the terms and conditions' and 33: 'If You distribute or communicate copies of the Original Work or a Derivative Work'"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "5: 'to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works'; 7b: 'to distribute or communicate copies of the Original Work and Derivative Works to the public'"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN",
+                    "explanation": "5: 'grants You a worldwide, royalty-free, non-exclusive, sublicensable license... to sell, offer for sale, have made, and import the Original Work and Derivative Works' - this allows commercial use of the software"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT",
+                    "explanation": "28-30: 'shall not be liable to anyone for any indirect, special, incidental, or consequential damages... This limitation of liability shall not apply to the extent applicable law prohibits such limitation.'"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": {
+                    "term": "Use Patent Claims",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "4: 'No patent license is granted to make, use, sell, offer for sale, have made, or import embodiments of any patent claims' - This statement suggests that there might be some restrictions on using patent claims, but it does not explicitly grant or deny permission. The term's implications remain unclear without additional context."
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": {
+                    "term": "Sublicense",
+                    "marker": "CAN",
+                    "explanation": "3: 'grants You a worldwide, royalty-free, non-exclusive, sublicensable license,'"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT",
+                    "explanation": "11, 20: 'Neither the names of Licensor... may be used to endorse or promote products' and 'No license is granted to the trademarks of Licensor'"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST",
+                    "explanation": "1: 'This Academic Free License (the \"License\") applies to any original work of authorship (the \"Original Work\") whose owner (the \"Licensor\") has placed the following licensing notice adjacent to the copyright notice for the Original Work:' - This requires users to include the copyright notice from the Licensor when redistributing the software."
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "{\n  \"term\": \"Disclose Source\",\n  \"marker\": \"MUST\",\n  \"explanation\": \"7: 'Licensor agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.', 20: 'You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent, or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an \\\"Attribution Notice.'\"\"\n}"
+            },
+            {
+                "term": "Give Credit",
+                "response": {
+                    "term": "Give Credit",
+                    "marker": "MUST",
+                    "explanation": "20, 21: 'You must retain... Attribution Notice' and 'You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice'"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afmparse.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "{\n  \"term\": \"Distribute\",\n  \"marker\": \"CAN\",\n"
+            },
+            {
+                "term": "Modify",
+                "response": {
+                    "term": "Modify",
+                    "marker": "CAN",
+                    "explanation": "1: 'This entire notice continues to be included in the file,' - This implies that users can include their modifications as long as they keep this notice intact."
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": {
+                    "term": "Hold Liable",
+                    "marker": "CANNOT",
+                    "explanation": "4: 'ADOBE SYSTEMS INCORPORATED ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES... EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES' - This indicates that users cannot hold Adobe Systems Incorporated liable for any issues arising from the use of this software."
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": {
+                    "term": "Use Trademark",
+                    "marker": "NOT SPECIFIED",
+                    "explanation": "2: 'PostScript, Display PostScript,and Adobe are registered trademarks of Adobe Systems Incorporated.' This excerpt only mentions the registration of trademarks but does not provide any information about their usage."
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "agpl-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "{\n  \"term\": \"Distribute\",\n  \"marker\": \"MUST\",\n }"
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "filename": "gpl-2.0-plus-linking.license",
+    "key": "gpl-2.0-plus-linking\nis_deprecated: yes",
+    "short_name": "GPL 2.0 or later with Linking exception",
+    "name": "GPL 2.0 or later with Linking exception",
+    "category": "Copyleft Limited",
+    "owner": "Free Software Foundation (FSF)",
+    "notes": "replaced by linking-exception-2.0-plus",
+    "is_exception": "yes",
+    "license_body": "\nThis library is free software; you can redistribute it and/or modify it under the\nterms of the GNU General Public License as published by the Free Software Foundation;\neither version 2, or (at your option) any later version.\n\nThis library is distributed in the hope that it will be useful, but WITHOUT ANY\nWARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A\nPARTICULAR PURPOSE.  See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this\nlibrary; see the file COPYING.  If not, write to the Free Software Foundation, 51\nFranklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\n\nAs a special exception, if you link this library with other files,\nsome of which are compiled with GCC, to produce an executable,\nthis library does not by itself cause the resulting executable to\nbe covered by the GNU General Public License.  This exception does\nnot however invalidate any other reasons why the executable file\nmight be covered by the GNU General Public License."
+}

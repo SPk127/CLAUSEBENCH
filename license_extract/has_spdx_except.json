@@ -1,0 +1,1635 @@
+[
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "389-exception.license",
+                "key": "389-exception",
+                "short_name": "389 Directory Server Exception to GPL 2.0",
+                "name": "389 Directory Server Exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "Fedora",
+                "homepage_url": "https://spdx.org/licenses/389-exception.html",
+                "is_exception": "yes",
+                "spdx_license_key": "389-exception",
+                "text_urls": "\n- http://www.directory.fedora.redhat.com/wiki/GPL_Exception_License_Text",
+                "other_urls": "\n- http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://web.archive.org/web/20080828121337/http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text",
+                "standard_notice": "|\nThis Program is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; version 2 of the License.\nThis Program is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this Program; if not, write to the Free Software Foundation, Inc., 59\nTemple Place, Suite 330, Boston, MA 02111-1307 USA.\nIn addition, as a special exception, Red Hat, Inc. gives You the additional\nright to link the code of this Program with code not covered under the GNU\nGeneral Public License (\"Non-GPL Code\") and to distribute linked\ncombinations including the two, subject to the limitations in this\nparagraph. Non-GPL Code permitted under this exception must only link to\nthe code of this Program through those well defined interfaces identified\nin the file named EXCEPTION found in the source code files (the \"Approved\nInterfaces\"). The files of Non-GPL Code may instantiate templates or use\nmacros or inline functions from the Approved Interfaces without causing the\nresulting work to be covered by the GNU General Public License. Only Red\nHat, Inc. may make changes or additions to the list of Approved Interfaces.\nYou must obey the GNU General Public License in all respects for all of the\nProgram code and other code used in conjunction with the Program except the\nNon-GPL Code covered by this exception. If you modify this file, you may\nextend this exception to your version of the file, but you are not\nobligated to do so. If you do not wish to provide this exception without\nmodification, you must delete this exception statement from your version\nand license this file solely under the GPL without exception."
+            },
+            "scanner_results": "389-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [N][Sc: 100%]; GPL-1.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "389 Directory Server Exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "Based on the provided metadata, license information, and scan tool outputs, the precise name of the license is \"389 Directory Server Exception to GPL 2.0\". This exception allows linking with non-GPL code under specific conditions, which aligns with a weak copyleft type as it permits some flexibility in combining the licensed work with other software without requiring that all components be subject to the same license terms."
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "asterisk-exception.license",
+                "key": "asterisk-exception",
+                "short_name": "Asterisk exception",
+                "name": "Asterisk exception",
+                "category": "Copyleft",
+                "owner": "Asterisk",
+                "is_exception": "yes",
+                "spdx_license_key": "Asterisk-exception",
+                "other_urls": "\n- https://github.com/asterisk/libpri/blob/7f91151e6bd10957c746c031c1f4a030e8146e9a/pri.c#L22\n- https://github.com/asterisk/libss7/blob/03e81bcd0d28ff25d4c77c78351ddadc82ff5c3f/ss7.c#L24"
+            },
+            "scanner_results": "UnclassifiedLicense [N]; Asterisk-exception [M: 100%]; No_license_found [Sc]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Asterisk exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "asterisk-linking-protocols-exception.license",
+                "key": "asterisk-linking-protocols-exception",
+                "short_name": "Asterisk linking protocols exception",
+                "name": "Asterisk linking protocols exception",
+                "owner": "Asterisk",
+                "category": "Copyleft Limited",
+                "is_exception": "yes",
+                "spdx_license_key": "Asterisk-linking-protocols-exception",
+                "other_urls": "\n- https://github.com/asterisk/asterisk/blob/115d7c01e32ccf4566a99e9d74e2b88830985a0b/LICENSE#L27"
+            },
+            "scanner_results": "GPL [N]; LicenseRef-scancode-unknown-license-reference [Sc: 50%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Asterisk linking protocols exception v1.0 (GPL-1.0-or-later as underlying license)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "autoconf-exception-2.0.license",
+                "key": "autoconf-exception-2.0",
+                "short_name": "Autoconf exception to GPL 2.0 or later",
+                "name": "Autoconf exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "spdx_license_key": "Autoconf-exception-2.0",
+                "text_urls": "\n- http://ac-archive.sourceforge.net/doc/copyright.html",
+                "other_urls": "\n- http://ac-archive.sourceforge.net/doc/copyright.html\n- http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\nAs a special exception to the GNU General Public License, if you distribute\nthis file as part of a program that contains a configuration script\ngenerated by Autoconf, you may include it under the same distribution terms\nthat you use for the rest of that program."
+            },
+            "scanner_results": "Autoconf-exception-2.0 [N][M: 100%][Sc: 50%]; GPL-2.0-or-later [N][Sc: 50%]; Autoconf-exception-generic [M: 100%]; Autoconf-exception-3.0 [Sc: 99%]; LicenseRef-scancode-autoconf-simple-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Autoconf exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "autoconf-exception-3.0.license",
+                "key": "autoconf-exception-3.0",
+                "short_name": "Autoconf exception to GPL 3.0",
+                "name": "Autoconf exception to GPL 3.0",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/licenses/autoconf-exception-3.0.html",
+                "is_exception": "yes",
+                "spdx_license_key": "Autoconf-exception-3.0",
+                "text_urls": "\n- http://www.gnu.org/licenses/autoconf-exception-3.0.html",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-3.0.txt",
+                "standard_notice": "|\nThis program is free software: you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation, either version 3 of the License, or (at your option)\nany later version.\nThis program is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this program. If not, see <http://www.gnu.org/licenses/>.\nAUTOCONF CONFIGURE SCRIPT EXCEPTION\nVersion 3.0, 18 August 2009\nCopyright © 2009 Free Software Foundation, Inc. <http://fsf.org/>\nEveryone is permitted to copy and distribute verbatim copies of this\nlicense document, but changing it is not allowed.\nThis Exception is an additional permission under section 7 of the GNU\nGeneral Public License, version 3 (\"GPLv3\"). It applies to a given file\nthat bears a notice placed by the copyright holder of the file stating that\nthe file is governed by GPLv3 along with this Exception.\nThe purpose of this Exception is to allow distribution of Autoconf's\ntypical output under terms of the recipient's choice (including\nproprietary).\n0. Definitions.\n\"Covered Code\" is the source or object code of a version of Autoconf that\nis a covered work under this License.\n\"Normally Copied Code\" for a version of Autoconf means all parts of its\nCovered Code which that version can copy from its code (i.e., not from its\ninput file) into its minimally verbose, non-debugging and non-tracing\noutput.\n\"Ineligible Code\" is Covered Code that is not Normally Copied Code.\n1. Grant of Additional Permission.\nYou have permission to propagate output of Autoconf, even if such\npropagation would otherwise violate the terms of GPLv3. However, if by\nmodifying Autoconf you cause any Ineligible Code of the version you\nreceived to become Normally Copied Code of your modified version, then you\nvoid this Exception for the resulting covered work. If you convey that\nresulting covered work, you must remove this Exception in accordance with\nthe second paragraph of Section 7 of GPLv3.\n2. No Weakening of Autoconf Copyleft.\nThe availability of this Exception does not imply any general presumption\nthat third-party software is unaffected by the copyleft requirements of the\nlicense of Autoconf.",
+                "ignorable_copyrights": "\n- Copyright (c) 2009 Free Software Foundation, Inc. http://fsf.org",
+                "ignorable_holders": "\n- Free Software Foundation, Inc.",
+                "ignorable_urls": "\n- http://fsf.org/"
+            },
+            "scanner_results": "Autoconf-exception-3.0 [N][M: 100%][Sc: 50%]; GPL-3.0-or-later [N][Sc: 100%]; GPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Autoconf-exception-3.0; GPL-3.0-or-later (Possible: GPL-3.0-only)",
+            "license_type": "Weak Copyleft; Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "autoconf-simple-exception-2.0.license",
+                "key": "autoconf-simple-exception-2.0",
+                "short_name": "Autoconf simple exception to GPL-2.0",
+                "name": "Autoconf simple exception to GPL-2.0",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob;f=config.guess;h=a7448442748cc6f98a066d2d1051fad3b043761a;hb=HEAD",
+                "notes": "this is a simpler version of the Autonconf exception to the GPL",
+                "is_exception": "yes",
+                "spdx_license_key": "Autoconf-exception-generic",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-autoconf-simple-exception-2.0",
+                "other_urls": "\n- https://launchpad.net/ubuntu/precise/+source/xmltooling/+copyright\n- https://tracker.debian.org/media/packages/s/sipwitch/copyright-1.9.15-3\n- https://opensource.apple.com/source/launchd/launchd-258.1/launchd/compile.auto.html"
+            },
+            "scanner_results": "Autoconf-exception [N]; GPL-2.0-only [N][Sc: 100%]; Autoconf-exception-generic [M: 100%]; GPL-1.0-or-later [Sc: 85%]; Autoconf-exception-3.0 [Sc: 99%]; LicenseRef-scancode-autoconf-simple-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Autoconf simple exception to GPL-2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "autoconf-simple-exception.license",
+                "key": "autoconf-simple-exception",
+                "short_name": "Autoconf simple exception",
+                "name": "Autoconf simple exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://src.fedoraproject.org/rpms/redhat-rpm-config/blob/rawhide/f/config.guess",
+                "notes": "|\nthis is a simpler version of the Autonconf exception to the GPL 3.0 used in\nGNU Config config.guess and config.sub",
+                "is_exception": "yes",
+                "spdx_license_key": "Autoconf-exception-generic-3.0",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-autoconf-simple-exception",
+                "other_urls": "\n- https://src.fedoraproject.org/rpms/redhat-rpm-config/blob/rawhide/f/config.guess"
+            },
+            "scanner_results": "Autoconf-exception [N]; GPL-3.0-only [N][Sc: 100%]; Autoconf-exception-generic-3.0 [M: 100%]; Autoconf-exception-3.0 [Sc: 99%]; LicenseRef-scancode-autoconf-simple-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Autoconf-exception-generic-3.0",
+            "license_type": "Copyleft Limited",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "autoconf-macro-exception.license",
+                "key": "autoconf-macro-exception",
+                "short_name": "Autoconf macro exception",
+                "name": "Autoconf macro exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://www.gnu.org/software/autoconf-archive/",
+                "notes": "|\nthis is a variant of the Autonconf exception to the\nGPL 3.0 used in GNU Config config.guess and config.sub",
+                "is_exception": "yes",
+                "spdx_license_key": "Autoconf-exception-macro",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-autoconf-macro-exception",
+                "other_urls": "\n- https://github.com/freedesktop/xorg-macros/blob/39f07f7db58ebbf3dcb64a2bf9098ed5cf3d1223/xorg-macros.m4.in\n- https://www.gnu.org/software/autoconf-archive/ax_pthread.html\n- https://launchpad.net/ubuntu/precise/+source/xmltooling/+copyright"
+            },
+            "scanner_results": "Autoconf-exception [N]; Autoconf-exception-macro [M: 99%]; Autoconf-exception-3.0 [Sc: 99%]; GPL-3.0-only [Sc: 100%]; LicenseRef-scancode-autoconf-macro-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Autoconf-exception-macro 3.0 (Possible: Autoconf-exception, Autoconf-exception-3.0)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bison-exception-2.0.license",
+                "key": "bison-exception-2.0",
+                "short_name": "Bison exception to GPL 2.0 or later",
+                "name": "Bison exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "spdx_license_key": "Bison-exception-1.24",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-bison-exception-2.0",
+                "faq_url": "http://www.gnu.org/software/bison/manual/bison.html#Conditions",
+                "other_urls": "\n- https://github.com/arineng/rwhoisd/blob/master/rwhoisd/mkdb/y.tab.c#L180",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\nAs a special exception, when this file is copied by Bison into a Bison\noutput file, you may use that output file without restriction. This special\nexception was added by the Free Software Foundation in version 1.24 of\nBison."
+            },
+            "scanner_results": "Bison-exception [N]; GPL-2.0-or-later [N][Sc: 50%]; LicenseRef-scancode-bison-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Bison exception to GPL 2.0 or later version 1.24",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bison-exception-2.2.license",
+                "key": "bison-exception-2.2",
+                "short_name": "Bison 2.2 exception to GPL 2.0 or later",
+                "name": "Bison 2.2 exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "spdx_license_key": "Bison-exception-2.2",
+                "faq_url": "http://www.gnu.org/software/bison/manual/bison.html#Conditions",
+                "other_urls": "\n- http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141",
+                "standard_notice": "|\nThis program is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nThis program is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this program; if not, write to the\nFree Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor,\nBoston, MA 02110-1301, USA.\nAs a special exception, you may create a larger work that contains part or\nall of the Bison parser skeleton and distribute that work under terms of\nyour choice, so long as that work isn't itself a parser generator using the\nskeleton or a modified version thereof as a parser skeleton. Alternatively,\nif you modify or redistribute the parser skeleton itself, you may (at your\noption) remove this special exception, which will cause the skeleton and\nthe resulting Bison output files to be licensed under the GNU General\nPublic License without this special exception.\nThis special exception was added by the Free Software Foundation in version\n2.2 of Bison."
+            },
+            "scanner_results": "Bison-exception-2.2 [N][Sc: 50%]; GPL-2.0-or-later [N][Sc: 50%]; GPL-2.0+-with-bison-exception [M: 93%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Bison exception 2.2 to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "bootloader-exception.license",
+                "key": "bootloader-exception",
+                "short_name": "Bootloader Distribution Exception to GPL 2.0",
+                "name": "Bootloader Distribution Exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "PyInstaller Project",
+                "homepage_url": "https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt",
+                "is_exception": "yes",
+                "spdx_license_key": "Bootloader-exception",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "standard_notice": "|\n================================\nThe PyInstaller licensing terms\n================================\nCopyright (c) 2010-2018, PyInstaller Development Team\nCopyright (c) 2005-2009, Giovanni Bajo\nBased on previous work under copyright (c) 2002 McMillan Enterprises, Inc.\nPyInstaller is licensed under the terms of the GNU General Public License\nas published by the Free Software Foundation; either version 2 of the\nLicense, or (at your option) any later version.\nBootloader Exception\n--------------------\nIn addition to the permissions in the GNU General Public License, the\nauthors give you unlimited permission to link or embed compiled bootloader\nand related files into combinations with other programs, and to distribute\nthose combinations without any restriction coming from the use of those\nfiles. (The General Public License restrictions do apply in other respects;\nfor example, they cover modification of the files, and distribution when\nnot linked into a combine executable.)\nBootloader and Related Files\n----------------------------\nBootloader and related files are files which are embedded within the\nfinal executable. This includes files in directories:\n./bootloader/\n./PyInstaller/loader\nAbout the PyInstaller Development Team\n--------------------------------------\nThe PyInstaller Development Team is the set of contributors\nto the PyInstaller project. A full list with details is kept\nin the documentation directory, in the file\n``doc/CREDITS.rst``.\nThe core team that coordinates development on GitHub can be found here:\nhttps://github.com/pyinstaller/pyinstaller. As of 2015, it consists of:\n* Hartmut Goebel\n* Martin Zibricky\n* David Vierra\n* David Cortesi\nOur Copyright Policy\n--------------------\nPyInstaller uses a shared copyright model. Each contributor maintains\ncopyright over their contributions to PyInstaller. But, it is important to\nnote that these contributions are typically only changes to the repositories.\nThus, the PyInstaller source code, in its entirety is not the copyright of\nany single person or institution. Instead, it is the collective copyright of\nthe entire PyInstaller Development Team. If individual contributors want to\nmaintain a record of what changes/contributions they have specific copyright\non, they should indicate their copyright in the commit message of the\nchange, when they commit the change to the PyInstaller repository.\nWith this in mind, the following banner should be used in any source code\nfile to indicate the copyright and license terms:\n#--------------------------------------------------------------------------\n# Copyright (c) 2005-20l5, PyInstaller Development Team.\n#\n# Distributed under the terms of the GNU General Public License with\n# exception for distributing bootloader.\n#\n# The full license is in the file COPYING.txt, distributed with this software.\n#--------------------------------------------------------------------------"
+            },
+            "scanner_results": "Bootloader-exception [N][M: 100%][Sc: 50%]; GPL-2.0-or-later [N][Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Bootloader Distribution Exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "classpath-exception-2.0.license",
+                "key": "classpath-exception-2.0",
+                "short_name": "Classpath exception to GPL 2.0 or later",
+                "name": "Classpath exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/software/classpath/",
+                "is_exception": "yes",
+                "spdx_license_key": "Classpath-exception-2.0",
+                "text_urls": "\n- http://www.gnu.org/software/classpath/license.html",
+                "other_urls": "\n- http://en.wikipedia.org/wiki/GPL_linking_exception\n- https://fedoraproject.org/wiki/Licensing/GPL_Classpath_Exception"
+            },
+            "scanner_results": "Classpath-exception-2.0 [N][M: 100%][Sc: 100%]; GPL-2.0-only [N]; GPL-1.0-or-later [Sc: 50%]; GPL-2.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Classpath exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "clisp-exception-2.0.license",
+                "key": "clisp-exception-2.0",
+                "short_name": "CLISP Exception to GPL 2.0",
+                "name": "CLISP Exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "Clisp",
+                "homepage_url": "https://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT",
+                "is_exception": "yes",
+                "spdx_license_key": "CLISP-exception-2.0",
+                "text_urls": "\n- http://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt"
+            },
+            "scanner_results": "CLISP-exception-2.0 [N][Sc: 50%]; GPL-2.0-only [N][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "CLISP Exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "openssl-exception-gpl-3.0-plus.license",
+                "key": "openssl-exception-gpl-3.0-plus",
+                "short_name": "OpenSSL exception to GPL 3.0 or later",
+                "name": "OpenSSL exception to GPL 3.0 or later",
+                "category": "Copyleft",
+                "owner": "Tildeslash",
+                "is_exception": "yes",
+                "spdx_license_key": "cryptsetup-OpenSSL-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-openssl-exception-gpl-3.0-plus",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-3.0.txt\n- https://gitlab.com/cryptsetup/cryptsetup/-/blob/main/COPYING\n- https://gitlab.nic.cz/datovka/datovka/-/blob/develop/COPYING\n- https://github.com/nbs-system/naxsi/blob/951123ad456bdf5ac94e8d8819342fe3d49bc002/naxsi_src/naxsi_raw.c\n- http://web.mit.edu/jgross/arch/amd64_deb60/bin/mosh",
+                "standard_notice": "|\nThis program is free software: you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation, either version 3 of the License, or (at your option)\nany later version.\nThis program is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this program. If not, see <http://www.gnu.org/licenses/>.\nIn addition, as a special exception, the copyright holders give permission\nto link the code of portions of this program with the\nOpenSSL library under certain conditions as described in each individual\nsource file, and distribute linked combinations\nincluding the two.\nYou must obey the GNU General Public License in all respects for all of the\ncode used other than OpenSSL. If you modify\nfile(s) with this exception, you may extend this exception to your version\nof the file(s), but you are not obligated to do so. If you\ndo not wish to do so, delete this exception statement from your version. If\nyou delete this exception statement from all source\nfiles in the program, then also delete it here."
+            },
+            "scanner_results": "GPL-3.0-or-later [N][Sc: 100%]; OpenSSL-exception [N]; cryptsetup-OpenSSL-exception [M: 100%]; GPL-3.0-only [Sc: 100%]; LicenseRef-scancode-openssl-exception-gpl-3.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OpenSSL exception to GPL 3.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "digirule-foss-exception.license",
+                "key": "digirule-foss-exception",
+                "short_name": "DigiRule FOSS Exception to GPL 2.0",
+                "name": "DigiRule FOSS License Exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "bradsprojects",
+                "homepage_url": "https://bradsprojects.com/the-digirule/",
+                "is_exception": "yes",
+                "spdx_license_key": "DigiRule-FOSS-exception",
+                "other_urls": "\n- http://www.digirulesolutions.com/drupal/foss\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://www.bradsprojects.com/wp-content/uploads/2015/10/Digirule_Files_04_July_2017.zip",
+                "minimum_coverage": "90",
+                "standard_notice": "|\nDigiRule Solutions's FOSS License Exception Terms and Conditions\n1. Definitions.\n\"Derivative Work\" means a derivative work, as defined under applicable\ncopyright law, formed entirely from the Program and one or more FOSS\nApplications.\n\"FOSS Application\" means a free and open source software application\ndistributed subject to a license listed in the section below titled \"FOSS\nLicense List.\"\n\"FOSS Notice\" means a notice placed by DigiRule Solutions in a copy of the\nClient Libraries stating that such copy of the Client Libraries may be\ndistributed under DigiRule Solutions's or FOSS License Exception.\n\"Independent Work\" means portions of the Derivative Work that are not\nderived from the Program and can reasonably be considered independent and\nseparate works.\n\"Program\" means a copy of DigiRule Solutions's Client Libraries that\ncontain a FOSS Notice.\n2. A FOSS application developer (\"you\" or \"your\") may distribute a\nDerivative Work provided that you and the Derivative Work meet all of the\nfollowing conditions:\n1. You obey the GPL in all respects for the Program and all portions\n(including modifications) of the Program included in the Derivative Work\n(provided that this condition does not apply to Independent Works);\n2. The Derivative Work does not include any work licensed under the GPL\nother than the Program;\n3. You distribute Independent Works subject to a license listed in the\nsection below titled \"FOSS License List\";\n4. You distribute Independent Works in object code or executable form with\nthe complete corresponding machine-readable source code on the same medium\nand under the same FOSS license applying to the object code or executable\nforms;\n5. All works that are aggregated with the Program or the Derivative Work on\na medium or volume of storage are not derivative works of the Program,\nDerivative Work or FOSS Application, and must reasonably be considered\nindependent and separate works.\n3. DigiRule Solutions reserves all rights not expressly granted in these\nterms and conditions. If all of the above conditions are not met, then this\nFOSS License Exception does not apply to you or your Derivative Work.\nFOSS License List\nLicense Name Version(s)/Copyright Date\nRelease Early Certified Software\nAcademic Free License 2.0\nApache Software License 1.0/1.1/2.0\nApple Public Source License 2.0\nArtistic license From Perl 5.8.0\nBSD license \"July 22 1999\"\nCommon Development and Distribution License (CDDL) 1.0\nCommon Public License 1.0\nEclipse Public License 1.0\nGNU Library or \"Lesser\" General Public License (LGPL) 2.0/2.1/3.0\nJabber Open Source License 1.0\nMIT License (As listed in file MIT-License.txt) -\nMozilla Public License (MPL) 1.0/1.1\nOpen Software License 2.0\nOpenSSL license (with original SSLeay license) \"2003\" (\"1998\")\nPHP License 3.0/3.01\nPython license (CNRI Python License) -\nPython Software Foundation License 2.1.1\nSleepycat License \"1999\"\nUniversity of Illinois/NCSA Open Source License -\nW3C License \"2001\"\nX11 License \"2001\"\nZlib/libpng License -\nZope Public License 2.0"
+            },
+            "scanner_results": "Artistic-1.0 [N]; CDDL-1.0 [N]; DigiRule-FOSS-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [N][Sc: 100%]; LGPL-2.0-only [N]; MIT [N]; MPL [N]; NCSA [N]; Python-2.0 [N]; W3C [N]; ZPL-2.0 [N]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "DigiRule-FOSS-exception; GPL-2.0-only; LGPL-2.0-only (Possible: Artistic-1.0, CDDL-1.0, MIT, MPL, NCSA, Python-2.0, W3C, ZPL-2.0)",
+            "license_type": "Copyleft; Weak Copyleft; Permissive (Possible: Copyleft; Permissive)",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ecos-exception-2.0.license",
+                "key": "ecos-exception-2.0",
+                "short_name": "eCos Exception to GPL 2.0 or later",
+                "name": "eCos Exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "eCos",
+                "homepage_url": "http://ecos.sourceware.org/ecos-license/",
+                "notes": "|\nPer SPDX.org, this is typically used with GPL-2.0. Similar to Macro and\nInlines Functions Exception",
+                "is_exception": "yes",
+                "spdx_license_key": "eCos-exception-2.0",
+                "text_urls": "\n- http://www.fsf.org/licensing/licenses/ecos-license.html\n- http://www.gnu.org/licenses/ecos-license.html",
+                "faq_url": "http://ecos.sourceware.org/license-overview.html"
+            },
+            "scanner_results": "eCos-exception-2.0 [N][M: 100%][Sc: 50%]; GPL-2.0-or-later [Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "eCos Exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "erlang-otp-linking-exception.license",
+                "key": "erlang-otp-linking-exception",
+                "short_name": "Erlang/OTP Linking Exception",
+                "name": "Erlang/OTP Linking Exception",
+                "category": "Copyleft Limited",
+                "owner": "Erlang",
+                "is_exception": "yes",
+                "spdx_license_key": "erlang-otp-linking-exception",
+                "other_urls": "\n- https://www.gnu.org/licenses/gpl-faq.en.html#GPLIncompatibleLibs\n- https://erlang.org/pipermail/erlang-questions/2012-May/066355.html\n- https://gitea.osmocom.org/erlang/osmo_ss7/src/commit/2286c1b8738d715950026650bf53f19a69d6ed0e/src/ss7_links.erl#L20",
+                "ignorable_urls": "\n- https://www.erlang.org/\n- https://www.erlang.org/EPLICENSE"
+            },
+            "scanner_results": "AGPL [N]; AGPL-3.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU Affero General Public License v3.0 only (AGPL-3.0-only)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "fawkes-runtime-exception.license",
+                "key": "fawkes-runtime-exception",
+                "short_name": "Fawkes Runtime Exception to GPL 2.0 or later",
+                "name": "Fawkes Runtime Exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Fawkes Development Team",
+                "homepage_url": "https://www.fawkesrobotics.org/about/license/",
+                "is_exception": "yes",
+                "spdx_license_key": "Fawkes-Runtime-exception",
+                "other_urls": "\n- http://www.fawkesrobotics.org/about/license/\n- http://www.gnu.org/licenses/gpl-2.0.txt"
+            },
+            "scanner_results": "Fawkes-Runtime-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [N][Sc: 100%]; GPL-2.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Fawkes Runtime Exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "fltk-exception-lgpl-2.0.license",
+                "key": "fltk-exception-lgpl-2.0",
+                "short_name": "FLTK exception to LGPL 2.0",
+                "name": "FLTK exception to LGPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "FLTK",
+                "homepage_url": "http://www.fltk.org/COPYING.php",
+                "is_exception": "yes",
+                "spdx_license_key": "FLTK-exception",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.0.txt",
+                "standard_notice": "|\nThe FLTK library and included programs are provided under the terms of the\nGNU Library General Public License (LGPL) with the following exceptions:\nModifications to the FLTK configure script, config header file, and\nmakefiles by themselves to support a specific platform do not constitute a\nmodified or derivative work.\nThe authors do request that such modifications be contributed to the FLTK\nproject - send all contributions to \"fltk-bugs@fltk.org\".\nWidgets that are subclassed from FLTK widgets do not constitute a\nderivative work.\nStatic linking of applications and widgets to the FLTK library does not\nconstitute a derivative work and does not require the author to provide\nsource code for the application or widget, use the shared FLTK libraries,\nor link their applications or widgets against a user-supplied version of\nFLTK.\nIf you link the application or widget to a modified version of FLTK, then\nthe changes to FLTK must be provided under the terms of the LGPL in\nsections 1, 2, and 4.\nYou do not have to provide a copy of the FLTK license with programs that\nare linked to the FLTK library, nor do you have to identify the FLTK\nlicense in your program or documentation as required by section 6 of the\nLGPL.\nHowever, programs must still identify their use of FLTK. The following\nexample statement can be included in user documentation to satisfy this\nrequirement:\n[program/widget] is based in part on the work of the FLTK project\n(http://www.fltk.org).",
+                "ignorable_urls": "\n- http://www.fltk.org/",
+                "ignorable_emails": "\n- fltk-bugs@fltk.org"
+            },
+            "scanner_results": "FLTK-exception [N][M: 100%][Sc: 50%]; LGPL-2.0-only [N][Sc: 80%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL 2.0 with FLTK exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "object-form-exception-to-mit.license",
+                "key": "object-form-exception-to-mit",
+                "short_name": "Object Form Exception to MIT",
+                "name": "Object Form Exception to MIT",
+                "category": "Permissive",
+                "owner": "Android Open Source Project",
+                "homepage_url": "https://android.googlesource.com/platform/external/fmtlib/+/refs/heads/master/LICENSE.rst",
+                "is_exception": "yes",
+                "spdx_license_key": "fmt-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-object-form-exception-to-mit",
+                "other_urls": "\n- https://github.com/fmtlib/fmt/blob/2eb363297b24cd71a68ccfb20ff755430f17e60f/LICENSE#L22C1-L27C62\n- https://github.com/fmtlib/fmt/blob/master/LICENSE"
+            },
+            "scanner_results": "See-URL [N]; No_license_found [Sc]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Object Form Exception to MIT",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "font-exception-gpl.license",
+                "key": "font-exception-gpl",
+                "short_name": "Font exception to GPL",
+                "name": "Font exception to GPL",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/licenses/gpl-faq.html#FontException",
+                "is_exception": "yes",
+                "spdx_license_key": "Font-exception-2.0",
+                "text_urls": "\n- http://www.gnu.org/licenses/gpl-faq.html#FontException",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\nAs a special exception, if you create a document which uses\nthis font, and embed this font or unaltered portions of this\nfont into the document, this font does not by itself cause\nthe resulting document to be covered by the GNU General Public\nLicense. This exception does not however invalidate any other\nreasons why the document might be covered by the GNU General\nPublic License. If you modify this font, you may extend this\nexception to your version of the font, but you are not\nobligated to do so. If you do not wish to do so, delete this\nexception statement from your version."
+            },
+            "scanner_results": "Font-exception-2.0 [N][M: 100%][Sc: 100%]; GPL [N]; GPL-1.0-or-later [Sc: 50%]; GPL-2.0-or-later [Sc: 95%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Font exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "freertos-exception-2.0.license",
+                "key": "freertos-exception-2.0",
+                "short_name": "FreeRTOS exception to GPL 2.0",
+                "name": "FreeRTOS exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "FreeRTOS",
+                "is_exception": "yes",
+                "spdx_license_key": "freertos-exception-2.0",
+                "faq_url": "https://aws.amazon.com/blogs/opensource/announcing-freertos-kernel-v10/",
+                "other_urls": "\n- http://www.freertos.org/\n- http://www.freertos.org/a00114.html\n- http://www.freertos.org/a00114.html#exception\n- https://web.archive.org/web/20060809182744/http://www.freertos.org/a00114.html",
+                "standard_notice": "|\nThe FreeRTOS source code is licensed by a modified GNU General Public\nLicense - the modification taking the form of an exception.\nThe exception permits the source code of applications that use FreeRTOS\nsolely through the API published on this website to remain closed source,\nthus permitting the use of FreeRTOS in commercial applications without\nnecessitating that the whole application be open sourced. The exception can\nonly be used if you wish to combine FreeRTOS with a proprietary product and\nyou comply with the terms stated in the exception itself.\nThe FreeRTOS download also includes demo application source code, some of\nwhich is provided by third parties AND IS LICENSED SEPARATELY FROM\nFREERTOS.\nFor the avoidance of any doubt refer to the comment included at the top of\neach source and header file for license and copyright information.\nThis is a list of files for which Real Time Engineers Ltd. is not the\ncopyright owner and are NOT COVERED BY THE GPL.\n1. Various header files provided by silicon manufacturers and tool vendors\nthat define processor specific memory addresses and utility macros.\nPermission has been granted by the various copyright holders for these\nfiles to be included in the FreeRTOS download. Users must ensure license\nconditions are adhered to for any use other than compilation of the\nFreeRTOS demo applications.\n2. The uIP TCP/IP stack the copyright of which is held by Adam Dunkels.\nUsers must ensure the open source license conditions stated at the top of\neach uIP source file is understood and adhered to.\n3. The lwIP TCP/IP stack the copyright of which is held by the Swedish\nInstitute of Computer Science. Users must ensure the open source license\nconditions stated at the top of each lwIP source file is understood and\nadhered to.\n4. Various peripheral driver source files and binaries provided by silicon\nmanufacturers and tool vendors. Permission has been granted by the various\ncopyright holders for these files to be included in the FreeRTOS download.\nUsers must ensure license conditions are adhered to for any use other than\ncompilation of the FreeRTOS demo applications.\n5. The files contained within FreeRTOS\\Demo\\WizNET_DEMO_TERN_186\\tern_code,\nwhich are slightly modified versions of code provided by and copyright to\nTern Inc.\nErrors and omissions should be reported to Richard Barry, contact details\nfor whom can be obtained from the Contact page.\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\nGNU General Public License Exception\nAny FreeRTOS source code, whether modified or in its original release form,\nor whether in whole or in part, can only be distributed by you under the\nterms of the GNU General Public License plus this exception. An independent\nmodule is a module which is not derived from or based on FreeRTOS.\nEXCEPTION TEXT:\nClause 1\nLinking FreeRTOS statically or dynamically with other modules is making a\ncombined work based on FreeRTOS. Thus, the terms and conditions of the GNU\nGeneral Public License cover the whole combination.\nAs a special exception, the copyright holder of FreeRTOS gives you\npermission to link FreeRTOS with independent modules that communicate with\nFreeRTOS solely through the FreeRTOS API interface, regardless of the\nlicense terms of these independent modules, and to copy and distribute the\nresulting combined work under terms of your choice, provided that\n1. Every copy of the combined work is accompanied by a written statement\nthat details to the recipient the version of FreeRTOS used and an offer by\nyourself to provide the FreeRTOS source code (including any modifications\nyou may have made) should the recipient request it.\n2. The combined work is not itself an RTOS, scheduler, kernel or related\nproduct.\n3. The independent modules add significant and primary functionality to\nFreeRTOS and do not merely extend the existing functionality already\npresent in FreeRTOS.\nClause 2\nFreeRTOS may not be used for any competitive or comparative purpose,\nincluding the publication of any form of run time or compile time metric,\nwithout the express permission of Real Time Engineers Ltd. (this is the\nnorm within the industry and is intended to ensure information accuracy)."
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; freertos-exception-2.0 [N][M: 98%][Sc: 50%]; GPL-2.0-only [Sc: 100%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU General Public License 2.0 or later with FreeRTOS Exception 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gcc-linking-exception-2.0.license",
+                "key": "gcc-linking-exception-2.0",
+                "short_name": "GCC Linking exception to GPL 2.0 or later",
+                "name": "GCC Runtime Library exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "spdx_license_key": "GCC-exception-2.0",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=gcc/libgcc1.c;h=762f5143fc6eed57b6797c82710f3538aa52b40b;hb=cb143a3ce4fb417c68f5fa2691a1b1b1053dfba9#l10",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\nGCC Linking Exception\nIn addition to the permissions in the GNU General Public License, the Free\nSoftware Foundation gives you unlimited permission to link the compiled\nversion of this file into combinations with other programs, and to\ndistribute those combinations without any restriction coming from the use\nof this file. (The General Public License restrictions do apply in other\nrespects; for example, they cover modification of the file, and\ndistribution when not linked into a combine executable."
+            },
+            "scanner_results": "GCC-exception-2.0 [N][M: 98%][Sc: 50%]; GPL-2.0-or-later [N][Sc: 50%]; GPL-2.0-with-GCC-exception [M: 87%]; GCC-exception-3.1 [Sc: 100%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GCC-exception-2.0 (Possible: GPL-2.0-with-GCC-exception, GCC-exception-3.1)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gcc-exception-2.0-note.license",
+                "key": "gcc-exception-2.0-note",
+                "short_name": "GCC Runtime Library exception 2.0 - note variant",
+                "name": "GCC Runtime Library exception 2.0 - note variant",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "notes": "This is unlimited-linking-exception-lgpl.LICENSE with a note.",
+                "is_exception": "yes",
+                "spdx_license_key": "GCC-exception-2.0-note",
+                "other_urls": "\n- https://sourceware.org/git/?p=glibc.git;a=blob;f=sysdeps/x86_64/start.S"
+            },
+            "scanner_results": "GCC-exception-2.0 [N][Sc: 50%]; linking-exception [N]; GCC-exception-2.0-note [M: 100%]; LGPL-2.0-or-later [Sc: 99%]; LicenseRef-scancode-unlimited-link-exception-lgpl [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GCC Runtime Library exception 2.0 - note variant",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gcc-exception-3.1.license",
+                "key": "gcc-exception-3.1",
+                "short_name": "GCC Runtime Library Exception v3.1",
+                "name": "GCC Runtime Library Exception v3.1",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://www.gnu.org/licenses/gcc-exception-3.1.html",
+                "is_exception": "yes",
+                "spdx_license_key": "GCC-exception-3.1",
+                "text_urls": "\n- http://www.gnu.org/licenses/gcc-exception-3.1.html",
+                "faq_url": "http://www.gnu.org/licenses/gcc-exception-3.1-faq.html",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-3.0.txt",
+                "standard_notice": "|\nThis program is free software: you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation, either version 3 of the License, or (at your option)\nany later version.\nThis program is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this program. If not, see <http://www.gnu.org/licenses/>.\nGCC RUNTIME LIBRARY EXCEPTION\nVersion 3.1, 31 March 2009\nCopyright © 2009 Free Software Foundation, Inc. <http://fsf.org/>\nEveryone is permitted to copy and distribute verbatim copies of this\nlicense document, but changing it is not allowed.\nThis GCC Runtime Library Exception (\"Exception\") is an additional\npermission under section 7 of the GNU General Public License, version 3\n(\"GPLv3\"). It applies to a given file (the \"Runtime Library\") that bears a\nnotice placed by the copyright holder of the file stating that the file is\ngoverned by GPLv3 along with this Exception.\nWhen you use GCC to compile a program, GCC may combine portions of certain\nGCC header files and runtime libraries with the compiled program. The\npurpose of this Exception is to allow compilation of non-GPL (including\nproprietary) programs to use, in this way, the header files and runtime\nlibraries covered by this Exception.\n0. Definitions.\nA file is an \"Independent Module\" if it either requires the Runtime Library\nfor execution after a Compilation Process, or makes use of an interface\nprovided by the Runtime Library, but is not otherwise based on the Runtime\nLibrary.\n\"GCC\" means a version of the GNU Compiler Collection, with or without\nmodifications, governed by version 3 (or a specified later version) of the\nGNU General Public License (GPL) with the option of using any subsequent\nversions published by the FSF.\n\"GPL-compatible Software\" is software whose conditions of propagation,\nmodification and use would permit combination with GCC in accord with the\nlicense of GCC.\n\"Target Code\" refers to output from any compiler for a real or virtual\ntarget processor architecture, in executable form or suitable for input to\nan assembler, loader, linker and/or execution phase. Notwithstanding that,\nTarget Code does not include data in any format that is used as a compiler\nintermediate representation, or used for producing a compiler intermediate\nrepresentation.\nThe \"Compilation Process\" transforms code entirely represented in non-\nintermediate languages designed for human-written code, and/or in Java\nVirtual Machine byte code, into Target Code. Thus, for example, use of\nsource code generators and preprocessors need not be considered part of the\nCompilation Process, since the Compilation Process can be understood as\nstarting with the output of the generators or preprocessors.\nA Compilation Process is \"Eligible\" if it is done using GCC, alone or with\nother GPL-compatible software, or if it is done without using any work\nbased on GCC. For example, using non-GPL-compatible Software to optimize\nany GCC intermediate representations would not qualify as an Eligible\nCompilation Process.\n1. Grant of Additional Permission.\nYou have permission to propagate a work of Target Code formed by combining\nthe Runtime Library with Independent Modules, even if such propagation\nwould otherwise violate the terms of GPLv3, provided that all Target Code\nwas generated by Eligible Compilation Processes. You may then convey such a\ncombination under terms of your choice, consistent with the licensing of\nthe Independent Modules.\n2. No Weakening of GCC Copyleft.\nThe availability of this Exception does not imply any general presumption\nthat third-party software is unaffected by the copyleft requirements of the\nlicense of GCC.",
+                "ignorable_copyrights": "\n- Copyright (c) 2009 Free Software Foundation, Inc. http://fsf.org",
+                "ignorable_holders": "\n- Free Software Foundation, Inc.",
+                "ignorable_urls": "\n- http://fsf.org/"
+            },
+            "scanner_results": "GCC-exception-3.1 [N][Sc: 50%]; GPL-3.0-or-later [N][Sc: 100%]; GPL-3.0-with-GCC-exception [M: 98%]; GPL-3.0-only [Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-3.0-with-GCC-exception (Possible: GPL-3.0-or-later, GPL-3.0-only)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gmsh-exception.license",
+                "key": "gmsh-exception",
+                "short_name": "Gmsh exception",
+                "name": "Gmsh exception",
+                "category": "Copyleft Limited",
+                "owner": "gmsh",
+                "is_exception": "yes",
+                "spdx_license_key": "Gmsh-exception",
+                "text_urls": "\n- https://gmsh.info/LICENSE.txt",
+                "other_urls": "\n- https://gitlab.onelab.info/gmsh/gmsh/-/raw/master/LICENSE.txt"
+            },
+            "scanner_results": "GPL [N]; LicenseRef-scancode-strongswan-exception [Sc: 52%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Gmsh exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ada-linking-exception.license",
+                "key": "ada-linking-exception",
+                "short_name": "Ada linking exception to GPL 2.0 or later",
+                "name": "Ada linking exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "Dmitriy Anisimkov",
+                "is_exception": "yes",
+                "spdx_license_key": "GNAT-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-ada-linking-exception",
+                "other_urls": "\n- http://zlib-ada.sourceforge.net/\n- http://ada-ru.org/\n- https://github.com/AdaCore/florist/blob/master/libsrc/posix-configurable_file_limits.adb",
+                "standard_notice": "|\n---------------------------------------------------------------------------"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 50%]; GNAT-exception [M: 100%]; LicenseRef-scancode-ada-linking-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNAT-exception (Ada linking exception to GPL 2.0 or later)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gnome-examples-exception.license",
+                "key": "gnome-examples-exception",
+                "short_name": "GNOME examples exception",
+                "name": "GNOME examples exception",
+                "category": "Permissive",
+                "owner": "GNOME Project",
+                "is_exception": "yes",
+                "spdx_license_key": "GNOME-examples-exception",
+                "other_urls": "\n- https://gitlab.gnome.org/Archive/gnome-devel-docs/-/blob/master/platform-demos/C/legal.xml?ref_type=heads\n- http://meldmerge.org/help/"
+            },
+            "scanner_results": "UnclassifiedLicense [N]; LicenseRef-scancode-generic-exception [Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNOME examples exception",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "iolib-exception-2.0.license",
+                "key": "iolib-exception-2.0",
+                "short_name": "GNU IO Library exception to GPL 2.0",
+                "name": "GNU IO Library exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "is_exception": "yes",
+                "spdx_license_key": "GNU-compiler-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-iolib-exception-2.0",
+                "text_urls": "\n- https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/unlink-if-ordinary.c;h=e49f2f2f67bfdb10d6b2bd579b0e01cad0fd708e;hb=HEAD#l19",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://sourceware.org/git?p=binutils-gdb.git;a=blob;f=libiberty/unlink-if-ordinary.c;h=e49f2f2f67bfdb10d6b2bd579b0e01cad0fd708e;hb=HEAD#l19",
+                "standard_notice": "|\nThis is part of libio/iostream, providing -*- C++ -*- input/output.\nCopyright (C) 2000 Free Software Foundation\nThis file is part of the GNU IO Library. This library is free software; you\ncan redistribute it and/or modify it under the terms of the GNU General\nPublic License as published by the Free Software Foundation; either version\n2, or (at your option) any later version.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.\nAs a special exception, if you link this library with files compiled with a\nGNU compiler to produce an executable, this does not cause the resulting\nexecutable to be covered by the GNU General Public License. This exception\ndoes not however invalidate any other reasons why the executable file might\nbe covered by the GNU General Public License."
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; linking-exception [N]; GNU-compiler-exception [M: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-iolib-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU IO Library exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gnu-javamail-exception.license",
+                "key": "gnu-javamail-exception",
+                "short_name": "GNU JavaMail exception to GPL 2.0 or later",
+                "name": "GNU JavaMail exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "GNU Project",
+                "homepage_url": "https://www.gnu.org/software/classpathx/javamail/javamail.html",
+                "is_exception": "yes",
+                "spdx_license_key": "gnu-javamail-exception",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- http://www.gnu.org/software/classpathx/javamail/javamail.html",
+                "standard_notice": "|\nAs a special exception, if you link this library with other files to\nproduce an executable, this library does not by itself cause the resulting\nexecutable to be covered by the GNU General Public License. This exception\ndoes not however invalidate any other reasons why the executable file might\nbe covered by the GNU General Public License."
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; gnu-javamail-exception [N][M: 98%][Sc: 50%]; SWI-exception [M: 88%]; GPL-2.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU JavaMail exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-interface-exception.license",
+                "key": "gpl-3.0-interface-exception",
+                "short_name": "GPL-3.0 Interface Exception",
+                "name": "GPL-3.0 Interface Exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://www.gnu.org/licenses/gpl-faq.en.html#LinkingOverControlledInterface",
+                "is_exception": "yes",
+                "spdx_license_key": "GPL-3.0-interface-exception",
+                "other_urls": "\n- https://www.gnu.org/licenses/gpl-faq.en.html#LinkingOverControlledInterface"
+            },
+            "scanner_results": "GPL-3.0-only [N][Sc: 100%]; LGPL [N]; GPL-3.0-interface-exception [M: 100%]; LicenseRef-scancode-strongswan-exception [Sc: 77%]; LicenseRef-scancode-generic-exception [Sc: 99%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-3.0 Interface Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-linking-exception.license",
+                "key": "gpl-3.0-linking-exception",
+                "short_name": "GPL-3.0 Linking Exception",
+                "name": "GPL-3.0 Linking Exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://www.gnu.org/licenses/gpl-faq.en.html#GPLIncompatibleLibs",
+                "is_exception": "yes",
+                "spdx_license_key": "GPL-3.0-linking-exception"
+            },
+            "scanner_results": "GPL-3.0-only [N]; GPL-3.0-linking-exception [M: 100%][Sc: 100%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-3.0-linking-exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gpl-3.0-linking-source-exception.license",
+                "key": "gpl-3.0-linking-source-exception",
+                "short_name": "GPL-3.0 Linking Source Exception",
+                "name": "GPL-3.0 Linking Exception (with Corresponding Source)",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://www.gnu.org/licenses/gpl-faq.en.html#GPLIncompatibleLibs",
+                "is_exception": "yes",
+                "spdx_license_key": "GPL-3.0-linking-source-exception",
+                "other_urls": "\n- https://github.com/mirror/wget/blob/master/src/http.c#L20"
+            },
+            "scanner_results": "GPL-3.0-only [N][Sc: 100%]; GPL-3.0-linking-source-exception [M: 96%][Sc: 100%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL-3.0 Linking Source Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gplcc-1.0.license",
+                "key": "gplcc-1.0",
+                "short_name": "GPL Cooperation Commitment 1.0",
+                "name": "GPL Cooperation Commitment 1.0",
+                "category": "Copyleft Limited",
+                "owner": "Red Hat",
+                "homepage_url": "https://github.com/gplcc/gplcc/blob/eee52346dd48bdf985657f082bb847f12f40c464/Project/COMMITMENT",
+                "is_exception": "yes",
+                "spdx_license_key": "GPL-CC-1.0",
+                "faq_url": "https://github.com/gplcc/gplcc/blob/master/README.md",
+                "other_urls": "\n- http://git.gluster.org/cgit/glusterfs.git/tree/COMMITMENT\n- https://github.com/gplcc/gplcc/blob/master/Project/COMMITMENT\n- https://github.com/wildfly/wildfly-core/blob/master/COMMITMENT\n- https://github.com/wildfly/wildfly/blob/master/COMMITMENT\n- https://gplcc.github.io/gplcc/Project/README-PROJECT.html\n- https://raw.githubusercontent.com/wildfly/wildfly/master/COMMITMENT\n- https://www.fsf.org/blogs/licensing/red-hat-leads-coalition-supporting-key-part-of-principles-of-community-oriented-gpl-enforcement\n- https://www.kernel.org/doc/html/latest/process/kernel-enforcement-statement.html\n- https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing\n- https://www.redhat.com/en/blog/gpl-cooperation-commitment-and-red-hat-projects?source=author&term=26851",
+                "ignorable_urls": "\n- https://creativecommons.org/licenses/by-sa/4.0"
+            },
+            "scanner_results": "CC-BY-SA-4.0 [N][Sc: 100%]; GPL-2.0-only [N]; LGPL-2.1-only [N]; GPL-CC-1.0 [M: 100%][Sc: 100%]; GPL-1.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GPL Cooperation Commitment 1.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gstreamer-exception-2005.license",
+                "key": "gstreamer-exception-2005",
+                "short_name": "GStreamer Exception (2005)",
+                "name": "GStreamer Exception (2005)",
+                "category": "Permissive",
+                "owner": "GStreamer Project",
+                "is_exception": "yes",
+                "spdx_license_key": "GStreamer-exception-2005",
+                "other_urls": "\n- https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/licensing.html?gi-language=c#licensing-of-applications-using-gstreamer"
+            },
+            "scanner_results": "GPL-possibility [N]; GStreamer-exception-2005 [M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GStreamer Exception 2005",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "gstreamer-exception-2008.license",
+                "key": "gstreamer-exception-2008",
+                "short_name": "GStreamer Exception (2008)",
+                "name": "GStreamer Exception (2008)",
+                "category": "Permissive",
+                "owner": "GStreamer Project",
+                "is_exception": "yes",
+                "spdx_license_key": "GStreamer-exception-2008",
+                "other_urls": "\n- https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/licensing.html?gi-language=c#licensing-of-applications-using-gstreamer"
+            },
+            "scanner_results": "GPL-possibility [N]; GStreamer-exception-2008 [M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GStreamer Exception (2008)",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "i2p-gpl-java-exception.license",
+                "key": "i2p-gpl-java-exception",
+                "short_name": "i2p GPL plus Java Exception",
+                "name": "i2p GPL plus Java Exception",
+                "category": "Copyleft Limited",
+                "owner": "I2P Network",
+                "homepage_url": "https://geti2p.net/en/get-involved/develop/licenses#java_exception",
+                "is_exception": "yes",
+                "spdx_license_key": "i2p-gpl-java-exception",
+                "other_urls": "\n- http://geti2p.net/en/get-involved/develop/licenses#java_exception\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "standard_notice": "|\nGPL + java exception\nWhile it may be redundant, just for clarity the GPL'ed code included within\nI2PTunnel and other apps must be released under the GPL with an additional\n\"exception\" explicitly authorizing the use of Java's standard libraries:\nIn addition, as a special exception, XXXX gives permission to link the code\nof this program with the proprietary Java implementation provided by Sun\n(or other vendors as well), and distribute linked combinations including\nthe two. You must obey the GNU General Public License in all respects for\nall of the code used other than the proprietary Java implementation. If you\nmodify this file, you may extend this exception to your version of the\nfile, but you are not obligated to do so. If you do not wish to do so,\ndelete this exception statement from your version.\nAll source code under each component will by default be licensed under the\nprimary license, unless marked otherwise in the code. All of the above is\nsummary of the license terms - please see the specific license for the\ncomponent or source code in question for authoritative terms. Component\nsource locations and resource packaging may be changed if the repository is\nreorganized."
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; i2p-gpl-java-exception [N][M: 97%][Sc: 50%]; GPL-1.0-or-later [Sc: 50%]; LicenseRef-scancode-unknown-license-reference [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "i2p GPL plus Java Exception",
+            "license_type": "Copyleft Limited",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "kicad-libraries-exception.license",
+                "key": "kicad-libraries-exception",
+                "short_name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+                "name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+                "category": "Copyleft Limited",
+                "owner": "KiCad",
+                "notes": "this is always an execption to the CC-BY-SA-4.0 license. and the homepage introduces\nthis expection this way \"The KiCad libraries are licensed under the Creative Commons CC-BY-SA\n4.0 License, with the following exception.\" We used to track this as cc-by-sa-4.0 WITH generic-exception",
+                "is_exception": "yes",
+                "spdx_license_key": "KiCad-libraries-exception",
+                "other_urls": "\n- https://www.kicad.org/libraries/license/"
+            },
+            "scanner_results": "CCPL [N]; KiCad-libraries-exception [M: 100%][Sc: 100%]; CC-BY-SA-4.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lgpl-3.0-linking-exception.license",
+                "key": "lgpl-3.0-linking-exception",
+                "short_name": "LGPL-3.0 Linking Exception",
+                "name": "LGPL-3.0 Linking Exception",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://spdx.org/licenses/LGPL-3.0-linking-exception.html",
+                "is_exception": "yes",
+                "spdx_license_key": "LGPL-3.0-linking-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-lgpl-3-plus-linking\n- LicenseRef-scancode-linking-exception-lgpl-3.0",
+                "other_urls": "\n- https://raw.githubusercontent.com/go-xmlpath/xmlpath/v2/LICENSE\n- https://github.com/goamz/goamz/blob/master/LICENSE\n- https://github.com/juju/errors/blob/master/LICENSE"
+            },
+            "scanner_results": "LGPL-3.0-only [N][Sc: 100%]; LGPL-3.0-linking-exception [M: 100%][Sc: 100%]; LGPL-3.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LGPL-3.0 Linking Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "libpri-openh323-exception.license",
+                "key": "libpri-openh323-exception",
+                "short_name": "libpri OpenH323 exception",
+                "name": "libpri OpenH323 exception",
+                "category": "Copyleft",
+                "owner": "Asterisk",
+                "is_exception": "yes",
+                "spdx_license_key": "libpri-OpenH323-exception",
+                "other_urls": "\n- https://github.com/asterisk/libpri/blob/1.6.0/README#L19-L22"
+            },
+            "scanner_results": "GPL [N]; MPL [N]; libpri-OpenH323-exception [M: 100%]; GPL-1.0-or-later [Sc: 85%]; LicenseRef-scancode-generic-exception [Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "libpri-OpenH323-exception",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "libtool-exception-2.0.license",
+                "key": "libtool-exception-2.0",
+                "short_name": "GNU Libtool exception to GPL 2.0",
+                "name": "GNU Libtool exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "http://git.savannah.gnu.org/cgit/libtool.git/tree/m4/libtool.m4",
+                "is_exception": "yes",
+                "spdx_license_key": "Libtool-exception",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nAs a special exception to the GNU General Public License,\nif you distribute this file as part of a program or library that\nis built using GNU Libtool, you may include this file under the\nsame distribution terms that you use for the rest of that program.\nGNU Libtool is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\nYou should have received a copy of the GNU General Public License\nalong with GNU Libtool; see the file COPYING. If not, a copy\ncan be downloaded from http://www.gnu.org/licenses/gpl.html, or\nobtained by writing to the Free Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; Libtool-exception [N][M: 100%][Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "GNU Libtool exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "linux-syscall-exception-gpl.license",
+                "key": "linux-syscall-exception-gpl",
+                "short_name": "Linux Syscall Exception to GPL",
+                "name": "Linux Syscall Exception to GPL",
+                "category": "Copyleft Limited",
+                "owner": "Linux Foundation",
+                "is_exception": "yes",
+                "spdx_license_key": "Linux-syscall-note",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/COPYING",
+                "standard_notice": "|\nNOTE! This copyright does *not* cover user programs that use kernel\nservices by normal system calls - this is merely considered normal use\nof the kernel, and does *not* fall under the heading of \"derived work\".\nAlso note that the GPL below is copyrighted by the Free Software\nFoundation, but the instance of code that it refers to (the Linux\nkernel) is copyrighted by me and others who actually wrote it.\nAlso note that the only valid version of the GPL as far as the kernel\nis concerned is _this_ particular version of the license (ie v2, not\nv2.2 or v3.x or whatever), unless explicitly otherwise stated.\nLinus Torvalds\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License version 2 as published by\nthe Free Software Foundation.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.",
+                "ignorable_copyrights": "\n- copyrighted by the Free Software Foundation",
+                "ignorable_holders": "\n- the Free Software Foundation"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; Linux-syscall-note [N][M: 100%][Sc: 50%]; GPL-1.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Linux Syscall Exception to GPL v2",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "llgpl.license",
+                "key": "llgpl",
+                "short_name": "LLGPL",
+                "name": "Lisp Lesser General Public License (LLPGL)",
+                "category": "Copyleft Limited",
+                "owner": "Franz Inc",
+                "homepage_url": "http://opensource.franz.com/preamble.html",
+                "is_exception": "yes",
+                "spdx_license_key": "LLGPL",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-llgpl",
+                "faq_url": "http://opensource.franz.com/",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.txt\n- https://github.com/franzinc"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; LLGPL [M: 96%]; LicenseRef-scancode-llgpl [Sc: 90%]; LGPL-2.1-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Lisp Lesser General Public License (LLGPL); GNU Lesser General Public License version 2.1 (LGPL-2.1-only)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "llvm-exception.license",
+                "key": "llvm-exception",
+                "short_name": "LLVM Exception to Apache 2.0",
+                "name": "LLVM Exception to Apache 2.0",
+                "category": "Permissive",
+                "owner": "llvm Project",
+                "homepage_url": "http://llvm.org/foundation/relicensing/LICENSE.txt",
+                "is_exception": "yes",
+                "spdx_license_key": "LLVM-exception",
+                "other_urls": "\n- http://www.apache.org/licenses/LICENSE-2.0.txt\n- https://github.com/apple/cups/blob/v2.3.3/NOTICE",
+                "standard_notice": "|\n--- LLVM Exceptions to the Apache 2.0 License ----\nAs an exception, if, as a result of your compiling your source code,\nportions\nof this Software are embedded into an Object form of such source code, you\nmay redistribute such embedded portions in such Object form without\ncomplying\nwith the conditions of Sections 4(a), 4(b) and 4(d) of the License.\nIn addition, if you combine or link compiled forms of this Software with\nsoftware that is licensed under the GPLv2 (\"Combined Software\") and if a\ncourt of competent jurisdiction determines that the patent provision\n(Section\n3), the indemnity provision (Section 9) or other Section of the License\nconflicts with the conditions of the GPLv2, you may retroactively and\nprospectively choose to deem waived or otherwise exclude such Section(s) of\nthe License, but only in their entirety and only with respect to the\nCombined\nSoftware."
+            },
+            "scanner_results": "Apache-2.0 [N][Sc: 100%]; GPL-2.0-only [N]; LLVM-exception [N][M: 99%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LLVM Exception to Apache 2.0",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "lzma-cpl-exception.license",
+                "key": "lzma-cpl-exception",
+                "short_name": "LZMA exception to CPL 1.0",
+                "name": "LZMA exception to CPL 1.0",
+                "category": "Copyleft Limited",
+                "owner": "NSIS contributors",
+                "homepage_url": "http://nsis.sourceforge.net/Docs/AppendixI.html#I.6",
+                "is_exception": "yes",
+                "spdx_license_key": "LZMA-exception"
+            },
+            "scanner_results": "CPL-1.0 [N][Sc: 50%]; LZMA-exception [N][M: 98%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LZMA exception to CPL 1.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "mif-exception.license",
+                "key": "mif-exception",
+                "short_name": "Macros and Inline Functions Exception to GPL 2.0",
+                "name": "Macros and Inline Functions Exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://spdx.org/licenses/mif-exception.html",
+                "is_exception": "yes",
+                "spdx_license_key": "mif-exception",
+                "other_urls": "\n- http://dev.bertos.org/doxygen/\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- http://www.scs.stanford.edu/histar/src/lib/cppsup/exception\n- https://www.threadingbuildingblocks.org/licensing",
+                "standard_notice": "|\nAs a special exception, you may use this file as part of a free software\nlibrary without restriction. Specifically, if other files instantiate\ntemplates or use macros or inline functions from this file, or you compile\nthis file and link it with other files to produce an executable, this file\ndoes not by itself cause the resulting executable to be covered by the GNU\nGeneral Public License. This exception does not however invalidate any\nother reasons why the executable file might be covered by the GNU General\nPublic License."
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; mif-exception [N][M: 100%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Macros and Inline Functions Exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ocaml-lgpl-linking-exception.license",
+                "key": "ocaml-lgpl-linking-exception",
+                "short_name": "OCaml LGPL Linking Exception",
+                "name": "OCaml LGPL Linking Exception",
+                "category": "Copyleft Limited",
+                "owner": "OCaml",
+                "homepage_url": "https://caml.inria.fr/ocaml/license.en.html",
+                "is_exception": "yes",
+                "spdx_license_key": "OCaml-LGPL-linking-exception",
+                "other_urls": "\n- https://caml.inria.fr/ocaml/license.en.html"
+            },
+            "scanner_results": "LGPL [N]; OCaml-LGPL-linking-exception [M: 95%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OCaml LGPL Linking Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "occt-exception-1.0.license",
+                "key": "occt-exception-1.0",
+                "short_name": "Open CASCADE Exception to LGPL 2.1",
+                "name": "Open CASCADE Exception to LGPL 2.1",
+                "category": "Copyleft Limited",
+                "owner": "Open Cascade",
+                "homepage_url": "https://www.opencascade.com/content/licensing",
+                "is_exception": "yes",
+                "spdx_license_key": "OCCT-exception-1.0",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.txt\n- http://www.opencascade.com/content/licensing",
+                "standard_notice": "|\nOpen CASCADE Exception (version 1.0) to GNU LGPL version 2.1.\nThe object code (i.e. not a source) form of a \"work that uses the Library\"\ncan incorporate material from a header file that is part of the Library. As\na special exception to the GNU Lesser General Public License version 2.1,\nyou may distribute such object code incorporating material from header\nfiles provided with the Open CASCADE Technology libraries (including code\nof CDL generic classes) under terms of your choice, provided that you give\nprominent notice in supporting documentation to this code that it makes use\nof or is based on facilities provided by the Open CASCADE Technology\nsoftware."
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; OCCT-exception-1.0 [N][M: 100%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Open CASCADE Exception to LGPL 2.1 version 1.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "openjdk-assembly-exception-1.0.license",
+                "key": "openjdk-assembly-exception-1.0",
+                "short_name": "OpenJDK Assembly exception to GPL 2.0",
+                "name": "OpenJDK Assembly exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "Oracle Corporation",
+                "homepage_url": "http://openjdk.java.net/legal/assembly-exception.html",
+                "is_exception": "yes",
+                "spdx_license_key": "OpenJDK-assembly-exception-1.0",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "standard_notice": "|\nOpenJDK Assembly Exception\nThe OpenJDK source code made available by Oracle America, Inc. (Oracle) at\nopenjdk.java.net (\"OpenJDK Code\") is distributed under the terms of the GNU\nGeneral Public License <http://www.gnu.org/copyleft/gpl.html> version 2\nonly (\"GPL2\"), with the following clarification and special exception.\nLinking this OpenJDK Code statically or dynamically with other code\nis making a combined work based on this library. Thus, the terms\nand conditions of GPL2 cover the whole combination.\nAs a special exception, Oracle gives you permission to link this\nOpenJDK Code with certain code licensed by Oracle as indicated at\nhttp://openjdk.java.net/legal/exception-modules-2007-05-08.html\n(\"Designated Exception Modules\") to produce an executable,\nregardless of the license terms of the Designated Exception Modules,\nand to copy and distribute the resulting executable under GPL2,\nprovided that the Designated Exception Modules continue to be\ngoverned by the licenses under which they were offered by Oracle.\nAs such, it allows licensees and sublicensees of Oracle's GPL2 OpenJDK Code\nto build an executable that includes those portions of necessary code that\nOracle could not provide under GPL2 (or that Oracle has provided under GPL2\nwith the Classpath exception). If you modify or add to the OpenJDK code,\nthat new GPL2 code may still be combined with Designated Exception Modules\nif the new code is made subject to this exception by its copyright holder.",
+                "ignorable_urls": "\n- http://openjdk.java.net/legal/exception-modules-2007-05-08.html\n- http://www.gnu.org/copyleft/gpl.html"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; OpenJDK-assembly-exception-1.0 [N][M: 100%][Sc: 50%]; LicenseRef-scancode-openjdk-exception [Sc: 100%]; GPL-1.0-or-later [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OpenJDK Assembly exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "openvpn-openssl-exception.license",
+                "key": "openvpn-openssl-exception",
+                "short_name": "OpenVPN OpenSSL Exception to GPL",
+                "name": "OpenVPN OpenSSL Exception to GPL",
+                "category": "Copyleft Limited",
+                "owner": "OpenVPN",
+                "homepage_url": "https://spdx.org/licenses/openvpn-openssl-exception.html",
+                "is_exception": "yes",
+                "spdx_license_key": "openvpn-openssl-exception",
+                "other_urls": "\n- http://openvpn.net/index.php/license.html\n- http://www.gnu.org/licenses/gpl-2.0.txt"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; openvpn-openssl-exception [N][M: 100%][Sc: 50%]; GPL-1.0-or-later [Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OpenVPN OpenSSL Exception to GPL",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "pcre2-exception.license",
+                "key": "pcre2-exception",
+                "short_name": "PCRE2 exception",
+                "name": "PCRE2 exception",
+                "owner": "University of Cambridge",
+                "category": "Unstated License",
+                "is_exception": "yes",
+                "spdx_license_key": "PCRE2-exception",
+                "other_urls": "\n- https://www.pcre.org/licence.txt",
+                "notes": "Added in SPDX license list 3.24"
+            },
+            "scanner_results": "BSD-possibility [N]; BSD-3-Clause [Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "BSD-3-Clause",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ps-or-pdf-font-exception-20170817.license",
+                "key": "ps-or-pdf-font-exception-20170817",
+                "short_name": "PS-or-PDF-font-exception-20170817",
+                "name": "PS/PDF font exception (2017-08-17)",
+                "category": "Copyleft Limited",
+                "owner": "Artifex Software",
+                "homepage_url": "https://github.com/ArtifexSoftware/urw-base35-fonts/blob/master/LICENSE",
+                "is_exception": "yes",
+                "spdx_license_key": "PS-or-PDF-font-exception-20170817",
+                "text_urls": "\n- https://github.com/ArtifexSoftware/urw-base35-fonts/blob/65962e27febc3883a17e651cdb23e783668c996f/LICENSE"
+            },
+            "scanner_results": "AGPL-3.0-only [N]; Font-exception-2.0 [N]; PS-or-PDF-font-exception-20170817 [M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "PS/PDF font exception 2017-08-17",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "inria-linking-exception.license",
+                "key": "inria-linking-exception",
+                "short_name": "INRIA Linking Exception to QPL 1.0",
+                "name": "INRIA Linking Exception to QPL 1.0",
+                "category": "Copyleft Limited",
+                "owner": "INRIA",
+                "homepage_url": "http://para.inria.fr/~maranget/hevea/distri/LICENSE",
+                "is_exception": "yes",
+                "spdx_license_key": "QPL-1.0-INRIA-2004-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-inria-linking-exception",
+                "other_urls": "\n- http://para.inria.fr/~maranget/hevea/distri/hevea-2.32.tar.gz\n- https://git.frama-c.com/pub/frama-c/-/blob/master/licenses/Q_MODIFIED_LICENSE\n- https://github.com/maranget/hevea/blob/master/LICENSE"
+            },
+            "scanner_results": "See-URL [N]; QPL-1.0-INRIA-2004-exception [M: 100%]; QPL-1.0 [Sc: 50%]; LicenseRef-scancode-inria-linking-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "INRIA Linking Exception to QPL 1.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "qt-gpl-exception-1.0.license",
+                "key": "qt-gpl-exception-1.0",
+                "short_name": "Qt GPL exception 1.0",
+                "name": "Qt GPL exception 1.0",
+                "category": "Copyleft Limited",
+                "owner": "Qt Company",
+                "homepage_url": "http://code.qt.io/cgit/qt/qtbase.git/tree/LICENSE.GPL3-EXCEPT",
+                "is_exception": "yes",
+                "spdx_license_key": "Qt-GPL-exception-1.0"
+            },
+            "scanner_results": "GPL-3.0-only [N][Sc: 100%]; Qt-GPL-exception-1.0 [N][M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Qt GPL exception 1.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "qt-lgpl-exception-1.1.license",
+                "key": "qt-lgpl-exception-1.1",
+                "short_name": "Qt LGPL exception 1.1",
+                "name": "Qt LGPL exception 1.1",
+                "category": "Copyleft Limited",
+                "owner": "Qt Company",
+                "homepage_url": "http://code.qt.io/cgit/qt/qtbase.git/tree/LGPL_EXCEPTION.txt",
+                "is_exception": "yes",
+                "spdx_license_key": "Qt-LGPL-exception-1.1",
+                "other_spdx_license_keys": "\n- Nokia-Qt-exception-1.1"
+            },
+            "scanner_results": "LGPL-2.1-only [N]; Qt-LGPL-exception-1.1 [N][M: 100%][Sc: 100%]; LGPL-2.0-or-later [Sc: 75%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Qt LGPL exception 1.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "qwt-exception-1.0.license",
+                "key": "qwt-exception-1.0",
+                "short_name": "Qwt exception to LGPL 2.1",
+                "name": "Qwt exception to LGPL 2.1",
+                "category": "Copyleft Limited",
+                "owner": "Qwt Project",
+                "homepage_url": "http://qwt.sourceforge.net/qwtlicense.html",
+                "is_exception": "yes",
+                "spdx_license_key": "Qwt-exception-1.0",
+                "other_urls": "\n- http://www.gnu.org/licenses/lgpl-2.1.txt",
+                "standard_notice": "|\nQwt License\nVersion 1.0, January 1, 2003\nThe Qwt library and included programs are provided under the terms\nof the GNU LESSER GENERAL PUBLIC LICENSE (LGPL) with the following\nexceptions:\n1. Widgets that are subclassed from Qwt widgets do not\nconstitute a derivative work.\n2. Static linking of applications and widgets to the\nQwt library does not constitute a derivative work\nand does not require the author to provide source\ncode for the application or widget, use the shared\nQwt libraries, or link their applications or\nwidgets against a user-supplied version of Qwt.\nIf you link the application or widget to a modified\nversion of Qwt, then the changes to Qwt must be\nprovided under the terms of the LGPL in sections\n1, 2, and 4.\n3. You do not have to provide a copy of the Qwt license\nwith programs that are linked to the Qwt library, nor\ndo you have to identify the Qwt license in your\nprogram or documentation as required by section 6\nof the LGPL.\nHowever, programs must still identify their use of Qwt.\nThe following example statement can be included in user\ndocumentation to satisfy this requirement:\n[program/widget] is based in part on the work of\nthe Qwt project (http://qwt.sf.net).",
+                "ignorable_urls": "\n- http://qwt.sf.net/"
+            },
+            "scanner_results": "LGPL-2.1-only [N][Sc: 100%]; Qwt-exception-1.0 [N][M: 99%][Sc: 50%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Qwt exception to LGPL 2.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "linking-exception-agpl-3.0.license",
+                "key": "linking-exception-agpl-3.0",
+                "short_name": "Linking exception to AGPL 3.0",
+                "name": "Linking exception to AGPL 3.0",
+                "category": "Copyleft Limited",
+                "owner": "Unspecified",
+                "homepage_url": "http://mo.morsi.org/blog/2009/08/13/lesser_affero_gplv3/",
+                "is_exception": "yes",
+                "spdx_license_key": "romic-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-linking-exception-agpl-3.0",
+                "other_urls": "\n- https://github.com/zenbones/SmallMind/blob/3c62b5995fe7f27c453f140ff9b60560a0893f2a/COPYRIGHT#L25-L30\n- https://github.com/savearray2/py.js/blob/b781273c08c8afa89f4954de4ecf42ec01429bae/README.md#license\n- https://github.com/CubeArtisan/cubeartisan/blob/2c6ab53455237b88a3ea07be02a838a135c4ab79/LICENSE.LESSER#L10-L15\n- https://web.archive.org/web/20210124015834/http://mo.morsi.org/blog/2009/08/13/lesser_affero_gplv3/\n- https://sourceforge.net/p/romic/code/ci/3ab2856180cf0d8b007609af53154cf092efc58f/tree/COPYING\n- https://github.com/moll/node-mitm/blob/bbf24b8bd7596dc6e091e625363161ce91984fc7/LICENSE#L8-L11"
+            },
+            "scanner_results": "AGPL [N]; AGPL-3.0-or-later [Sc: 90%]; AGPL-3.0-only [Sc: 100%]; GPL-3.0-only [Sc: 100%]; LicenseRef-scancode-linking-exception-agpl-3.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "LicenseRef-scancode-linking-exception-agpl-3.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "rrdtool-floss-exception-2.0.license",
+                "key": "rrdtool-floss-exception-2.0",
+                "short_name": "RRDtool FLOSS Exception to GPL 2.0",
+                "name": "RRDtool FLOSS Exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "RRDtool Project",
+                "homepage_url": "https://raw.github.com/oetiker/rrdtool-1.x/master/COPYRIGHT",
+                "is_exception": "yes",
+                "spdx_license_key": "RRDtool-FLOSS-exception-2.0",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-rrdtool-floss-exception-2.0",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://github.com/oetiker/rrdtool-1.x/blob/master/COPYRIGHT#L25-L90\n- https://oss.oetiker.ch/rrdtool/license.en.html",
+                "ignorable_urls": "\n- http://www.mysql.com/company/legal/licensing/foss-exception.html"
+            },
+            "scanner_results": "CPL-1.0 [N]; GPL-2.0-only [N][Sc: 100%]; LGPL-1.0-only [N]; MIT [N]; MPL [N]; MySQL-style [N]; PHP [N]; LicenseRef-scancode-rrdtool-floss-exception-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "RRDtool FLOSS Exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "sane-exception-2.0-plus.license",
+                "key": "sane-exception-2.0-plus",
+                "short_name": "SANE exception to GPL 2.0 or later",
+                "name": "SANE exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "SANE Project",
+                "homepage_url": "https://github.com/alexpevzner/sane-airscan/blob/master/LICENSE",
+                "is_exception": "yes",
+                "spdx_license_key": "SANE-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-sane-exception-2.0-plus",
+                "text_urls": "\n- https://alioth.debian.org/frs/download.php/file/4224/sane-backends-1.0.27.tar.gz",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- https://gitlab.com/sane-project/frontends/-/blob/master/sanei/sanei_codec_ascii.c?ref_type=heads\n- https://github.com/alexpevzner/sane-airscan/blob/master/LICENSE\n- https://gitlab.com/sane-project/backends/-/blob/master/sanei/sanei_pp.c?ref_type=heads",
+                "standard_notice": "|\nThis program is free software; you can redistribute it and/or\nmodify it under the terms of the GNU General Public License as\npublished by the Free Software Foundation; either version 2 of the\nLicense, or (at your option) any later version.\nThis program is distributed in the hope that it will be useful, but\nWITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU\nGeneral Public License for more details.\nYou should have received a copy of the GNU General Public License\nalong with this program; if not, write to the Free Software\nFoundation, Inc., 59 Temple Place - Suite 330, Boston,\nMA 02111-1307, USA.\nAs a special exception, the authors of SANE give permission for\nadditional uses of the libraries contained in this release of SANE.\nThe exception is that, if you link a SANE library with other files\nto produce an executable, this does not by itself cause the\nresulting executable to be covered by the GNU General Public\nLicense. Your use of that executable is in no way restricted on\naccount of linking the SANE library code into it.\nThis exception does not, however, invalidate any other reasons why\nthe executable file might be covered by the GNU General Public\nLicense.\nIf you submit changes to SANE to the maintainers to be included in\na subsequent release, you agree by submitting the changes that\nthose changes may be distributed with this exception intact.\nIf you write modifications of your own for SANE, it is your choice\nwhether to permit this exception to apply to your modifications.\nIf you do not wish that, delete this exception notice."
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 50%]; linking-exception [N]; SANE-exception [M: 92%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-sane-exception-2.0-plus [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "SANE exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "shl-2.0.license",
+                "key": "shl-2.0",
+                "short_name": "Solderpad Hardware License v2.0",
+                "name": "Solderpad Hardware License v2.0",
+                "category": "Permissive",
+                "owner": "SolderPad",
+                "homepage_url": "https://solderpad.org/licenses/SHL-2.0/",
+                "is_exception": "yes",
+                "spdx_license_key": "SHL-2.0",
+                "ignorable_urls": "\n- http://apache.org/licenses/LICENSE-2.0"
+            },
+            "scanner_results": "Apache-2.0 [N][Sc: 100%]; SHL-2.0 [M: 96%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Solderpad Hardware License v2.0",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "shl-2.1.license",
+                "key": "shl-2.1",
+                "short_name": "Solderpad Hardware License v2.1",
+                "name": "Solderpad Hardware License v2.1",
+                "category": "Permissive",
+                "owner": "SolderPad",
+                "homepage_url": "https://solderpad.org/licenses/SHL-2.1/",
+                "is_exception": "yes",
+                "spdx_license_key": "SHL-2.1",
+                "ignorable_urls": "\n- http://apache.org/licenses/LICENSE-2.0\n- https://solderpad.org/licenses/SHL-2.1/"
+            },
+            "scanner_results": "Apache-2.0 [N][O][Sc: 100%]; SHL-2.1 [M: 89%][O][Sc: 100%]; Dual-license [O]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Solderpad Hardware License v2.1",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "stunnel-exception.license",
+                "key": "stunnel-exception",
+                "short_name": "stunnel Exception",
+                "name": "stunnel Exception",
+                "category": "Copyleft Limited",
+                "owner": "Stunnel",
+                "notes": "similar to the strongswan-exception LICENSE",
+                "is_exception": "yes",
+                "spdx_license_key": "stunnel-exception",
+                "other_urls": "\n- https://github.com/mtrojnar/stunnel/blob/master/COPYING.md"
+            },
+            "scanner_results": "GPL [N]; LGPL [N]; stunnel-exception [M: 100%]; LicenseRef-scancode-strongswan-exception [Sc: 77%]; OpenSSL [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "stunnel Exception",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "swi-exception.license",
+                "key": "swi-exception",
+                "short_name": "SWI exception to GPL 2.0 or later",
+                "name": "SWI exception to GPL 2.0 or later",
+                "category": "Copyleft Limited",
+                "owner": "SWI",
+                "homepage_url": "https://github.com/SWI-Prolog/packages-clpqr/blob/bfa80b9270274f0800120d5b8e6fef42ac2dc6a5/clpqr/class.pl",
+                "notes": "this very similar to the \"gnu-javamail-exception\" license",
+                "is_exception": "yes",
+                "spdx_license_key": "SWI-exception"
+            },
+            "scanner_results": "GPL-2.0-only [N]; linking-exception [N]; SWI-exception [M: 100%]; gnu-javamail-exception [Sc: 50%]; GPL-2.0-or-later [Sc: 50%]; LicenseRef-scancode-generic-exception [Sc: 99%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "SWI exception to GPL 2.0 or later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "apple-runtime-library-exception.license",
+                "key": "apple-runtime-library-exception",
+                "short_name": "Runtime Library Exception to Apache 2.0",
+                "name": "Runtime Library Exception to the Apache 2.0 License",
+                "category": "Permissive",
+                "owner": "Apple",
+                "homepage_url": "https://github.com/apple/swift/blob/master/LICENSE.txt#L205",
+                "is_exception": "yes",
+                "spdx_license_key": "Swift-exception",
+                "text_urls": "\n- https://github.com/apple/swift-package-manager/blob/7ab2275f447a5eb37497ed63a9340f8a6d1e488b/LICENSE.txt#L205\n- https://swift.org/LICENSE.txt",
+                "other_urls": "\n- https://swift.org/",
+                "standard_notice": "|\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\nhttp://www.apache.org/licenses/LICENSE-2.0\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n## Runtime Library Exception to the Apache 2.0 License: ##\nAs an exception, if you use this Software to compile your source code and\nportions of this Software are embedded into the binary product as a result,\nyou may redistribute such product without providing attribution as would\notherwise be required by Sections 4(a), 4(b) and 4(d) of the License."
+            },
+            "scanner_results": "Apache-2.0 [N][Sc: 100%]; Swift-exception [M: 100%][Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Apache License 2.0 with Runtime Library Exception",
+            "license_type": "Permissive",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "tex-exception.license",
+                "key": "tex-exception",
+                "short_name": "TeX exception to GPL 3.0",
+                "name": "TeX exception to GPL 3.0",
+                "category": "Copyleft Limited",
+                "owner": "Free Software Foundation (FSF)",
+                "homepage_url": "https://git.savannah.gnu.org/cgit/automake.git/tree/lib/texinfo.tex?h=v1.16.5#n23",
+                "is_exception": "yes",
+                "spdx_license_key": "Texinfo-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-tex-exception",
+                "other_urls": "\n- https://git.savannah.gnu.org/cgit/automake.git/tree/lib/texinfo.tex?h=v1.16.5#n23"
+            },
+            "scanner_results": "GPL-3.0-only [N][Sc: 100%]; TeX-exception [N]; Texinfo-exception [M: 100%]; LicenseRef-scancode-tex-exception [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "TeX exception to GPL 3.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "u-boot-exception-2.0.license",
+                "key": "u-boot-exception-2.0",
+                "short_name": "U-Boot exception to GPL 2.0",
+                "name": "U-Boot exception to GPL 2.0",
+                "category": "Copyleft Limited",
+                "owner": "U-Boot",
+                "is_exception": "yes",
+                "spdx_license_key": "u-boot-exception-2.0",
+                "other_urls": "\n- http://git.denx.de/?p=u-boot.git;a=blob;f=Licenses/Exceptions\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "standard_notice": "|\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU General Public License as published by the Free\nSoftware Foundation; either version 2, or (at your option) any later\nversion.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\nmore details.\nYou should have received a copy of the GNU General Public License along\nwith this library; see the file COPYING. If not, write to the Free Software\nFoundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\nThe U-Boot Exception:\nNOTE! This copyright does *not* cover the so-called \"standalone\"\napplications that use U-Boot services by means of the jump table provided\nby U-Boot exactly for this purpose - this is merely considered normal use\nof U-Boot, and does *not* fall under the heading of \"derived work\".\nThe header files \"include/image.h\" and \"include/asm-*/u-boot.h\" define\ninterfaces to U-Boot. Including these (unmodified) header files in another\nfile is considered normal use of U-Boot, and does *not* fall under the\nheading of \"derived work\".\nAlso note that the GPL below is copyrighted by the Free Software\nFoundation, but the instance of code that it refers to (the U-Boot source\ncode) is copyrighted by me and others who actually wrote it.\n-- Wolfgang Denk",
+                "ignorable_copyrights": "\n- copyrighted by the Free Software Foundation",
+                "ignorable_holders": "\n- the Free Software Foundation"
+            },
+            "scanner_results": "GPL-2.0-or-later [N][Sc: 100%]; u-boot-exception-2.0 [Sc: 50%]; GPL-2.0-only [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "U-Boot exception to GPL 2.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "ubdl.license",
+                "key": "ubdl",
+                "short_name": "Unmodified Binary Distribution Licence",
+                "name": "Unmodified Binary Distribution Licence Exception",
+                "category": "Copyleft Limited",
+                "owner": "iPXE",
+                "homepage_url": "https://github.com/ipxe/ipxe/blob/master/COPYING.UBDL",
+                "notes": "this is a rare license that extends extra persmission on top of the GPL",
+                "is_exception": "yes",
+                "spdx_license_key": "UBDL-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-ubdl",
+                "text_urls": "\n- https://git.ipxe.org/ipxe.git/blob_plain/HEAD:/COPYING.UBDL",
+                "other_urls": "\n- https://github.com/ipxe/ipxe/blob/master/COPYING.UBDL"
+            },
+            "scanner_results": "GPL-2.0-or-later [N]; UBDL-exception [M: 100%]; GPL-1.0-or-later [Sc: 90%]; LicenseRef-scancode-ubdl [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Unmodified Binary Distribution Licence Exception for GPL-2.0-or-later",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "universal-foss-exception-1.0.license",
+                "key": "universal-foss-exception-1.0",
+                "short_name": "Universal FOSS Exception v1.0",
+                "name": "Universal FOSS Exception v1.0",
+                "category": "Copyleft Limited",
+                "owner": "Oracle Corporation",
+                "homepage_url": "https://oss.oracle.com/licenses/universal-foss-exception/",
+                "is_exception": "yes",
+                "spdx_license_key": "Universal-FOSS-exception-1.0",
+                "other_urls": "\n- https://oss.oracle.com/licenses/universal-foss-exception/"
+            },
+            "scanner_results": "universal-foss-exception-1.0 [N][Sc: 66%]; Universal-FOSS-exception-1.0 [M: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "Universal FOSS Exception 1.0",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "vsftpd-openssl-exception.license",
+                "key": "vsftpd-openssl-exception",
+                "short_name": "vsftpd OpenSSL exception",
+                "name": "vsftpd OpenSSL exception",
+                "category": "Copyleft Limited",
+                "owner": "Richard Cochran",
+                "homepage_url": "https://github.com/richardcochran/vsftpd/blob/master/COPYING",
+                "is_exception": "yes",
+                "spdx_license_key": "vsftpd-openssl-exception",
+                "other_urls": "\n- https://git.stg.centos.org/source-git/vsftpd/blob/f727873674d9c9cd7afcae6677aa782eb54c8362/f/LICENSE\n- https://launchpad.net/debian/squeeze/+source/vsftpd/+copyright\n- https://github.com/richardcochran/vsftpd/blob/master/COPYING"
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 97%]; vsftpd-openssl-exception [M: 100%]; LicenseRef-scancode-generic-exception [Sc: 97%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "vsftpd OpenSSL exception (under GNU GPL version 2)",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "wxwindows-exception-3.1.license",
+                "key": "wxwindows-exception-3.1",
+                "short_name": "WxWindows Library Exception to GNU Licenses",
+                "name": "WxWindows Library Exception to GNU Licenses",
+                "category": "Copyleft Limited",
+                "owner": "wxWidgets",
+                "homepage_url": "http://www.wxwidgets.org/about/newlicen.htm",
+                "notes": "formerly was SPDX id wxWindows",
+                "is_exception": "yes",
+                "spdx_license_key": "WxWindows-exception-3.1",
+                "osi_url": "https://opensource.org/licenses/WXwindows",
+                "other_urls": "\n- http://www.gnu.org/licenses/gpl-2.0.txt\n- http://www.opensource.org/licenses/WXwindows",
+                "standard_notice": "|\nThe wxWindows Library Licence\nCopyright (c) 1998 Julian Smart, Robert Roebling [, ...]\nEveryone is permitted to copy and distribute verbatim copies of this\nlicence document, but changing it is not allowed.\nWXWINDOWS LIBRARY LICENCE\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\nThis library is free software; you can redistribute it and/or modify it\nunder the terms of the GNU Library General Public Licence as published by\nthe Free Software Foundation; either version 2 of the Licence, or (at your\noption) any later version.\nThis library is distributed in the hope that it will be useful, but WITHOUT\nANY WARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE. See the GNU Library General Public\nLicence for more details.\nYou should have received a copy of the GNU Library General Public Licence\nalong with this software, usually in a file named COPYING.LIB. If not,\nwrite to the Free Software Foundation, Inc., 59 Temple Place, Suite 330,\nBoston, MA 02111-1307 USA.\nEXCEPTION NOTICE\n1. As a special exception, the copyright holders of this library give\npermission for additional uses of the text contained in this release of the\nlibrary as licenced under the wxWindows Library Licence, applying either\nversion 3.1 of the Licence, or (at your option) any later version of the\nLicence as published by the copyright holders of version 3.1 of the Licence\ndocument.\n2. The exception is that you may use, copy, link, modify and distribute\nunder your own terms, binary object code versions of works based on\nthe Library.\n3. If you copy code from files distributed under the terms of the GNU\nGeneral Public Licence or the GNU Library General Public Licence into a\ncopy of this library, as this licence permits, the exception does not apply\nto the code that you add in this way. To avoid misleading anyone as to the\nstatus of such modified files, you must delete this exception notice from\nsuch code and/or adjust the licensing conditions notice accordingly.\n4. If you write modifications of your own for this library, it is your\nchoice whether to permit this exception to apply to your modifications. If\nyou do not wish that, you must delete the exception notice from such code\nand/or adjust the licensing conditions notice accordingly."
+            },
+            "scanner_results": "GPL-2.0-only [N][Sc: 100%]; LGPL-2.0-or-later [N][Sc: 82%]; WxWindows-exception-3.1 [N][M: 100%][Sc: 50%]; GPL-2.0-or-later [Sc: 63%]; LicenseRef-scancode-free-unknown [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "WxWindows Library Exception to GNU Licenses 3.1",
+            "license_type": "Weak Copyleft",
+            "explanation": "No explanation provided"
+        }
+    },
+    {
+        "license_summary": {
+            "license_information": {
+                "filename": "openssl-exception-gpl-2.0.license",
+                "key": "openssl-exception-gpl-2.0",
+                "short_name": "OpenSSL exception to GPL 2.0",
+                "name": "OpenSSL exception to GPL 2.0",
+                "category": "Copyleft",
+                "owner": "OpenSSL",
+                "homepage_url": "http://www.openssl.org/source/license.html",
+                "notes": "this is typically used with GPL 2.0 but sometimes seen with GPL 3.0",
+                "is_exception": "yes",
+                "spdx_license_key": "x11vnc-openssl-exception",
+                "other_spdx_license_keys": "\n- LicenseRef-scancode-openssl-exception-gpl-2.0",
+                "text_urls": "\n- http://www.openssl.org/source/license.html\n- http://www.gnu.org/licenses/gpl-2.0.txt",
+                "faq_url": "http://people.gnome.org/~markmc/openssl-and-the-gpl.html",
+                "other_urls": "\n- https://github.com/LibVNC/x11vnc/blob/master/src/8to24.c#L22",
+                "standard_notice": "|\nThe OpenSSL License is not compatible with the GPL, since it contains the\nfollowing two clauses:\n* 3. All advertising materials mentioning features or use of this\n* software must display the following acknowledgment:\n* \"This product includes software developed by the OpenSSL Project\n* for use in the OpenSSL Toolkit. (http://www.openssl.org/)\"\n* 6. Redistributions of any form whatsoever must retain the following\n* acknowledgment:\n* \"This product includes software developed by the OpenSSL Project\n* for use in the OpenSSL Toolkit (http://www.openssl.org/)\"\nThe OpenSSL Exception:\n* In addition, as a special exception, the copyright holders give\n* permission to link the code of portions of this program with the\n* OpenSSL library under certain conditions as described in each\n* individual source file, and distribute linked combinations\n* including the two.\n* You must obey the GNU General Public License in all respects\n* for all of the code used other than OpenSSL. If you modify\n* file(s) with this exception, you may extend this exception to your\n* version of the file(s), but you are not obligated to do so. If you\n* do not wish to do so, delete this exception statement from your\n* version. If you delete this exception statement from all source\n* files in the program, then also delete it here.\nThe OpenSSL Exception Discussion:\nhttp://people.gnome.org/~markmc/openssl-and-the-gpl.html"
+            },
+            "scanner_results": "GPL-3.0-only [N][Sc: 100%]; OpenSSL [N][Sc: 100%]; OpenSSL-exception [N]; X11 [N]; cryptsetup-OpenSSL-exception [M: 100%]; GPL-2.0-only [Sc: 100%]; LicenseRef-scancode-openssl-exception-gpl-2.0 [Sc: 100%]"
+        },
+        "mistral_large_model_response": {
+            "license_name": "OpenSSL exception to GPL 2.0 (Possible: LicenseRef-scancode-openssl-exception-gpl-2.0)",
+            "license_type": "Copyleft",
+            "explanation": "No explanation provided"
+        }
+    }
+]

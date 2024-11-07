@@ -1,0 +1,15 @@
+{
+    "filename": "public-domain.license",
+    "key": "public-domain",
+    "short_name": "Public Domain",
+    "name": "Public Domain",
+    "category": "Public Domain",
+    "owner": "Unspecified",
+    "homepage_url": "http://www.linfo.org/publicdomain.html",
+    "is_generic": "yes",
+    "spdx_license_key": "LicenseRef-scancode-public-domain",
+    "other_spdx_license_keys": "\n- LicenseRef-PublicDomain\n- LicenseRef-Fedora-Public-Domain",
+    "faq_url": "http://www.linfo.org/publicdomain.html",
+    "other_urls": "\n- http://creativecommons.org/licenses/publicdomain/\n- http://en.wikipedia.org/wiki/Public_domain\n- http://www.linfo.org/publicdomain.html",
+    "license_body": ""
+}

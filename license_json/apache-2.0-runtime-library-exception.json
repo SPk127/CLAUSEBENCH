@@ -1,0 +1,12 @@
+{
+    "filename": "apache-2.0-runtime-library-exception.license",
+    "key": "apache-2.0-runtime-library-exception",
+    "short_name": "Apache 2.0 with Runtime Library Exception",
+    "name": "Apache 2.0 with Runtime Library Exception",
+    "category": "Permissive",
+    "owner": "Apple",
+    "homepage_url": "https://github.com/apple/swift/blob/master/LICENSE.txt#L205",
+    "is_exception": "yes",
+    "other_urls": "\n- https://swift.org/\nis_deprecated: yes",
+    "license_body": "\n## Runtime Library Exception to the Apache 2.0 License: ##\n\nAs an exception, if you use this Software to compile your source code and\nportions of this Software are embedded into the binary product as a result,\nyou may redistribute such product without providing attribution as would\notherwise be required by Sections 4(a), 4(b) and 4(d) of the License."
+}

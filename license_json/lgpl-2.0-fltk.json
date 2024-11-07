@@ -1,0 +1,12 @@
+{
+    "filename": "lgpl-2.0-fltk.license",
+    "key": "lgpl-2.0-fltk\nis_deprecated: yes",
+    "short_name": "LGPL 2.0 with FLTK exception",
+    "name": "LGPL 2.0 with FLTK exception",
+    "category": "Copyleft Limited",
+    "owner": "FLTK",
+    "homepage_url": "http://www.fltk.org/COPYING.php",
+    "is_exception": "yes",
+    "notes": "replaced by fltk-exception-lgpl-2.0",
+    "license_body": "\nFLTK License\nDecember 11, 2001\n\nThe FLTK library and included programs are provided under the terms\nof the GNU Library General Public License (LGPL) with the following\nexceptions:\n\n1. Modifications to the FLTK configure script, config\nheader file, and makefiles by themselves to support\na specific platform do not constitute a modified or\nderivative work.\n\nThe authors do request that such modifications be\ncontributed to the FLTK project - send all\ncontributions to \"fltk-bugs@fltk.org\".\n\n2. Widgets that are subclassed from FLTK widgets do not\nconstitute a derivative work.\n\n3. Static linking of applications and widgets to the\nFLTK library does not constitute a derivative work\nand does not require the author to provide source\ncode for the application or widget, use the shared\nFLTK libraries, or link their applications or\nwidgets against a user-supplied version of FLTK.\n\nIf you link the application or widget to a modified\nversion of FLTK, then the changes to FLTK must be\nprovided under the terms of the LGPL in sections\n1, 2, and 4.\n\n4. You do not have to provide a copy of the FLTK license\nwith programs that are linked to the FLTK library, nor\ndo you have to identify the FLTK license in your\nprogram or documentation as required by section 6\nof the LGPL.\n\nHowever, programs must still identify their use of FLTK.\nThe following example statement can be included in user\ndocumentation to satisfy this requirement:\n\n[program/widget] is based in part on the work of\nthe FLTK project (http://www.fltk.org)."
+}

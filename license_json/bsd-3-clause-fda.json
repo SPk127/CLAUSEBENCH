@@ -1,0 +1,12 @@
+{
+    "filename": "bsd-3-clause-fda.license",
+    "key": "bsd-3-clause-fda",
+    "short_name": "BSD 3-Clause FDA",
+    "name": "BSD 3-Clause FDA",
+    "category": "Permissive",
+    "owner": "U.S. Food and Drug Administration",
+    "notes": "This is based on the bsd-3-clause and a different disclaimer",
+    "spdx_license_key": "LicenseRef-scancode-bsd-3-clause-fda",
+    "minimum_coverage": "90",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above notice, this list of\nconditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above notice, this list of\nconditions and the following disclaimer in the documentation and/or other\nmaterials provided with the distribution.\n\n* Neither the name of the United States Government, nor the\nU.S. Food and Drug Administration (FDA), nor the names of its\ncontributors may be used to endorse or promote products derived from\nthis software without specific prior written permission.\n\nThis program is distributed in the hope that it will be useful. Responsibility\nfor the use of the system and interpretation of documentation and results lies\nsolely with the user. In no event shall FDA be liable for direct, indirect,\nspecial, incidental, or consequential damages resulting from the use, misuse,\nor inability to use the system and accompanying documentation. Third parties'\nuse of or acknowledgment of the system does not in any way represent that\nFDA endorses such third parties or expresses any opinion with respect to their\nstatements.\n\nThis program is free software: you can redistribute it and/or modify it\nunder the terms of the included License."
+}

@@ -1,0 +1,4173 @@
+[
+    {
+        "license_name": "3dslicer-1.0.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "23: 'to make, have made, use, sell and otherwise transfer your Contribution, alone or in combination with any other code.' This explicitly allows commercial use by permitting the sale of the software."
+            }
+        }
+    },
+    {
+        "license_name": "3dslicer-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "51: 'None of the names, logos or trademarks... may be used to endorse or promote products without specific prior written permission.'"
+            }
+        }
+    },
+    {
+        "license_name": "attribution.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "4: 'The provided excerpt does not mention any requirement or suggestion to disclose source code when distributing the software.'"
+            }
+        }
+    },
+    {
+        "license_name": "x11-adobe.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'provided that the above copyright notices appear in all copies and that both those copyright notices and this permission notice appear in supporting documentation.'"
+            }
+        }
+    },
+    {
+        "license_name": "adobe-utopia.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "1: 'provided that the Adobe Copyright notice appears in all whole and partial copies of the software and that the following trademark symbol and attribution appear in all unmodified copies of the software.'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "9: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-1.2.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "9: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-2.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "6: 'Grant of Patent License' and 'practice patent claims of contributors to the code' are explicitly mentioned, indicating permission to use patent claims."
+            }
+        }
+    },
+    {
+        "license_name": "afl-2.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "13: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-2.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "6: 'Grant of Patent License' and 'practice patent claims of contributors to the code' are explicitly mentioned, indicating permission to use patent claims."
+            }
+        }
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "1: 'has placed the following licensing notice adjacent to the copyright notice for the Original Work.'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "term_info": {
+            "term": "Sublicense",
+            "mistral_large_response": {
+                "term": "Sublicense",
+                "marker": "CAN",
+                "explanation": "23: 'are sublicensed to You under the terms of this License with the permission of the contributor(s)'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 11-12: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "4: 'make, use, sell, offer for sale, have made, or import embodiments of any patent claims other than the licensed claims defined in Section 2.'"
+            }
+        }
+    },
+    {
+        "license_name": "afmparse.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license mentions trademarks but does not specify any conditions or permissions regarding the use of contributors' names, trademarks, or logos."
+            }
+        }
+    },
+    {
+        "license_name": "agpl-1.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "12: 'distribute copies of free software (and charge for this service if you wish)', 30: 'You may copy and distribute verbatim copies of the Program's source code', 37: 'You may modify your copy or copies of the Program or any portion of it, thus forming a work based on the Program, and copy and distribute such modifications'"
+            }
+        }
+    },
+    {
+        "license_name": "agpl-1.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "22: 'We wish to avoid the danger that redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary.'"
+            }
+        }
+    },
+    {
+        "license_name": "agpl-1.0-plus.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "1: 'you can redistribute copies of free software' and 21: 'You may copy and distribute verbatim copies of the Program's source code' and 27: 'You may modify your copy or copies of the Program or any portion of it, thus forming a work based on the Program, and copy and distribute such modifications or work under the terms of Section 1 above, provided that you also meet all of these conditions.'"
+            }
+        }
+    },
+    {
+        "license_name": "agpl-1.0-plus.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "25: 'We wish to avoid the danger that redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary.'"
+            }
+        }
+    },
+    {
+        "license_name": "agpl-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "109: 'e) Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks;'"
+            }
+        }
+    },
+    {
+        "license_name": "agpl-3.0-plus.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "116: 'Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks.'"
+            }
+        }
+    },
+    {
+        "license_name": "agpl-3.0-plus.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "152: 'Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims, to make, use, sell, offer for sale, import and otherwise run, modify and propagate the contents of its contributor version.'"
+            }
+        }
+    },
+    {
+        "license_name": "amdplpa.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "3: 'Neither the names nor trademarks of Advanced Micro Devices, Inc.'"
+            }
+        }
+    },
+    {
+        "license_name": "amdplpa.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "NOT SPECIFIED",
+                "explanation": "16: 'Government constitutes acknowledgment of the proprietary rights of Advanced Micro Devices, Inc.' - This line mentions acknowledgment but does not explicitly require giving credit to the author with the software."
+            }
+        }
+    },
+    {
+        "license_name": "aml.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "5: 'Neither the name, trademarks, service marks or logos of Apple Computer, Inc.'"
+            }
+        }
+    },
+    {
+        "license_name": "nvidia-2002.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "NOT SPECIFIED",
+                "explanation": "5: 'Except as expressly stated in this notice, no other rights or licenses express or implied, are granted by NVIDIA herein, including but not limited to any patent rights that may be infringed by your derivative works or by other works in which the NVIDIA Software may be incorporated.' This section does not explicitly grant or restrict the use of patent claims of contributors to the code."
+            }
+        }
+    },
+    {
+        "license_name": "apache-1.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license only mentions 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer,' but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "adapt-1.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "The license allows Subsequent Contributors to create 'Subsequent Work' which includes modifications."
+            }
+        }
+    },
+    {
+        "license_name": "adapt-1.0.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "180: 'a copyright notice including the name of the Initial Contributor' indicates that the copyright notice must be included."
+            }
+        }
+    },
+    {
+        "license_name": "adapt-1.0.license",
+        "term_info": {
+            "term": "Sublicense",
+            "mistral_large_response": {
+                "term": "Sublicense",
+                "marker": "CAN",
+                "explanation": "83: 'distribute and sublicense the Initial Work', 217: 'Subject to the terms of this License, each Subsequent Contributor hereby grants each Recipient a world-wide, royalty-free, non-exclusive copyright license to...distribute and sublicense'"
+            }
+        }
+    },
+    {
+        "license_name": "apsl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 86-87: 'This License does not grant any rights to use the trademarks or trade names... and no Apple Marks may be used to endorse or promote products derived from the Original Code other than as permitted by and in strict compliance at all times with Apple's third party trademark usage guidelines.'"
+            }
+        }
+    },
+    {
+        "license_name": "apsl-1.2.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "11: 'claims of patents that are now or hereafter acquired, owned by or assigned to Apple and (ii) that cover subject matter contained in the Original Code, but only to the extent necessary to use, reproduce and/or distribute the Original Code without infringement.'"
+            }
+        }
+    },
+    {
+        "license_name": "apsl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "93: 'This License does not grant any rights to use... any trademark, service mark, logo or trade name belonging to any Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "artistic-1.0.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "20: 'rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "artistic-1.0-cl8.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "20: 'rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "aswf-digital-assets-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "13: 'you may NOT use any trade names, trademarks, service marks, or product names of the copyright holder for any purpose.'"
+            }
+        }
+    },
+    {
+        "license_name": "bahyph.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "10: 'If you change this software', indicating that modification is allowed."
+            }
+        }
+    },
+    {
+        "license_name": "barr-tex.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "5: 'If changed, it must be renamed.'"
+            }
+        }
+    },
+    {
+        "license_name": "x11-bitstream.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST",
+                "explanation": "10: 'that Bitstream's trademark is acknowledged as shown below on all unmodified copies of the 4 Charter Type 1 fonts.'"
+            }
+        }
+    },
+    {
+        "license_name": "bitstream.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not mention the use of contributors' names, trademarks, or logos directly."
+            }
+        }
+    },
+    {
+        "license_name": "bittorrent-1.0.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "220: 'Contributors to any Modifications may add their own copyright notices to identify their own contributions.' This implies that retaining the copyright notice is mandatory for contributors."
+            }
+        }
+    },
+    {
+        "license_name": "bittorrent-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "58: 'Nothing in this License shall be deemed to grant any rights to trademarks', 60: 'No right is granted to the trademarks of Licensor or any Contributor even if such marks are included in the Licensed Product.', 127: 'In so naming your license, you may not use any trademark of Licensor or any Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "bittorrent-1.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "61: 'No patent license is granted separate from the Licensed Product, for code that you delete from the Licensed Product, or for combinations of the Licensed Product with other software or hardware.'"
+            }
+        }
+    },
+    {
+        "license_name": "brian-gladman.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not mention the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-1-clause.license",
+        "term_info": {
+            "term": "Hold Liable",
+            "mistral_large_response": {
+                "term": "Hold Liable",
+                "marker": "MUST NOT",
+                "explanation": "4: 'IN NO EVENT SHALL THE AUTHOR AND CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL... DAMAGES ... ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.'"
+            }
+        }
+    },
+    {
+        "license_name": "bsd-simplified.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "1: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "bsd-simplified-darwin.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "Relevant Lines: [3]. The license content only mentions retaining the copyright notice and conditions in the source code, but does not explicitly require the disclosure of the source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-2-clause-views.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "1: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "intel-bsd.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license only mentions retaining the copyright notice and conditions, without specifying the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-ack.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpt does not explicitly mention or address the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "clear-bsd.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "1: 'Redistribution and use in source and binary forms... are permitted ... provided that ... Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "flex-2.5.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "4: The license mentions 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer,' but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "lbnl-bsd.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The relevant lines of the lbnl-bsd.license do not explicitly mention or address including the full text of the license in modified software."
+            }
+        }
+    },
+    {
+        "license_name": "lbnl-bsd.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license does not explicitly mention or require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-3-clause-no-military.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license only mentions 'Redistribution of source code must retain the above copyright notice, this list of conditions and the following disclaimer,' but does not explicitly require the disclosure of source code beyond retaining the copyright notice and disclaimer."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-3-clause-sun.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpt does not explicitly mention any requirement or condition related to 'disclosing your source code' when redistributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-advertising-acknowledgement.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license content does not mention the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-protection.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content provided does not mention the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsd-top.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license does not mention the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "bsl-1.1.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "7: 'If your use of the Licensed Work does not comply with the requirements currently in effect as described in this License, you must purchase a commercial license from the Licensor, its affiliated entities, or authorized resellers, or you must refrain from using the Licensed Work.'"
+            }
+        }
+    },
+    {
+        "license_name": "bsl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "3: 'This License does not grant you any right in any trademark or logo of Licensor', 16-17: 'In consideration of the right to use this License\u2019s text and the \"Business Source License\" name and trademark, Licensor covenants...'"
+            }
+        }
+    },
+    {
+        "license_name": "cal-1.0-combined-work-exception.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "38: 'Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 4.'"
+            }
+        }
+    },
+    {
+        "license_name": "caldera-no-preamble.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided license content does not explicitly mention or require disclosing source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "catharon-osl.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "10: 'We specifically permit and encourage the inclusion of this software, with or without modifications, in commercial products.' This suggests that giving credit is encouraged but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "65: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-1.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "52: 'Licensor reserves the right to release the Work under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 83-84: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-2.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "70: 'Licensor reserves the right to release the Work under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-2.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "85: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-2.5.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "72: 'Licensor reserves the right to release the Work under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-2.5-au.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "125: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "115: 'does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-3.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "93: 'Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-3.0-au.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "135: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-3.0-igo.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 126-130: 'Creative Commons does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-3.0-us.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "94: 'Licensor reserves the right to release the Work under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-4.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "[162]: 'Creative Commons does not authorize the use of the trademark \"Creative Commons\" or any other trademark or logo of Creative Commons without its prior written consent'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "67: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-1.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "54: 'Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "84: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-2.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 86-87: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "118-120: 'Creative Commons does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-3.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "mistral_large_response": {
+                "term": "Relicense",
+                "marker": "MUST NOT",
+                "explanation": "96: 'this License will continue in full force and effect unless terminated as stated above.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-nd-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "63: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-nd-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "80: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-nd-2.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "82: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-nd-3.0-igo.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "126: 'does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-nd-3.0-igo.license",
+        "term_info": {
+            "term": "Relicense",
+            "mistral_large_response": {
+                "term": "Relicense",
+                "marker": "MUST NOT",
+                "explanation": "85: 'the Licensor reserves the right to release the Work under different license terms ... provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated below.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-nd-4.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "The license explicitly states that 'Creative Commons does not authorize the use of the trademark \"Creative Commons\" or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses.' This clearly indicates a restriction on using trademarks without permission."
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "71: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-1.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "mistral_large_response": {
+                "term": "Relicense",
+                "marker": "MUST NOT",
+                "explanation": "58: 'provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "93: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-2.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "mistral_large_response": {
+                "term": "Relicense",
+                "marker": "MUST NOT",
+                "explanation": "80: 'any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-2.0-uk.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "97: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-2.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "95: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "130-132: 'Creative Commons does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-3.0-igo.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 138-140: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-3.0-igo.license",
+        "term_info": {
+            "term": "Relicense",
+            "mistral_large_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "96: 'the Licensor reserves the right to release the Work under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nc-sa-4.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "[101]: 'Patent and trademark rights are not licensed under this Public License.', [182]: 'Creative Commons does not authorize the use of the trademark \"Creative Commons\" or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nd-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "61: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nd-2.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "81: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nd-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "103: 'does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nd-3.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "83: 'Licensor reserves the right to release the Work under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-nd-4.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "[87: 'Patent and trademark rights are not licensed under this Public License.', 159: 'use of the trademark \"Creative Commons\" or any other trademark or logo of Creative Commons without its prior written consent']"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "70: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-1.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "56: 'Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "52: 'You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this License Agreement.' This implies that the full text of the license must be included to ensure consistency with the terms of the License Agreement."
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "92: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "79: 'Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.0-uk.license",
+        "term_info": {
+            "term": "Sublicense",
+            "mistral_large_response": {
+                "term": "Sublicense",
+                "marker": "MUST NOT",
+                "explanation": "34: 'You must not sublicense the Work;'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.0-uk.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "95: 'neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.5.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "The CC BY-SA 2.5 license requires that any derivative works must be distributed under the same terms, which inherently includes the full text of the license."
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "94: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-2.5.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "81: 'Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "128: 'Creative Commons does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-3.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "106: 'Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-3.0-de.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "59: 'Bez\u00fcglich lizenzgerechter Nutzung des Schutzgegenstandes durch Sie, die nicht unter die beiden vorherigen Abschnitte (i) und (ii) f\u00e4llt, verzichtet der Lizenzgeber auf jegliche Verg\u00fctung, unabh\u00e4ngig davon, ob eine Einziehung der Verg\u00fctung durch ihn selbst oder nur durch eine Verwertungsgesellschaft m\u00f6glich w\u00e4re.' This indicates that the license allows for other types of use, including commercial use, without requiring additional compensation."
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-3.0-igo.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 139-140: 'Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark \"Creative Commons\" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc-by-sa-4.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "179: 'use of the trademark \"Creative Commons\" or any other trademark or logo of Creative Commons without its prior written consent.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc0-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "34: 'No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.'"
+            }
+        }
+    },
+    {
+        "license_name": "cc0-1.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "34: 'No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.'"
+            }
+        }
+    },
+    {
+        "license_name": "cddl-1.1.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "CAN",
+                "explanation": "123: 'You may create and use a modified version of this License if You: (a) rename the license and remove any references to the name of the license steward...'"
+            }
+        }
+    },
+    {
+        "license_name": "acdl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "58: 'This License does not grant any rights to use any names, trademarks, service marks or logos of the Copyright Holder (collectively \"Marks\") and no such Marks may be used to endorse or promote works or products derived from the Document without the prior written permission of the Copyright Holder.'"
+            }
+        }
+    },
+    {
+        "license_name": "cdla-permissive-1.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "OPTIONAL",
+                "explanation": "2: 'You may provide additional or different license terms and conditions for use, reproduction, or distribution of that Enhanced Data...'"
+            }
+        }
+    },
+    {
+        "license_name": "cdla-sharing-1.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "78: 'THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER'"
+            }
+        }
+    },
+    {
+        "license_name": "cecill-1.1.license",
+        "term_info": {
+            "term": "Statically Link",
+            "deepseek_response": {
+                "term": "Statically Link",
+                "marker": "CAN",
+                "explanation": "26: 'Static Module: means any or all module, created by the Contributor and connected to the Software by a static link that makes their object codes interdependent.'"
+            }
+        }
+    },
+    {
+        "license_name": "cecill-2.0.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "UNCLEAR",
+                "explanation": "The provided excerpts of the CeCILL FREE SOFTWARE LICENSE AGREEMENT do not explicitly mention whether the full text of the license must be included in modified software. The relevant sections discuss compliance with Free Software principles and rights to modify and redistribute but do not specifically address the inclusion of the full license text."
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-1.1.license",
+        "term_info": {
+            "term": "Hold Liable",
+            "deepseek_response": {
+                "term": "Hold Liable",
+                "marker": "MUST NOT",
+                "explanation": "60: 'the Licensee shall hold the Licensor(s) free and harmless from any liability, costs, damages, fees and expenses, including claims by third parties, in relation to such use.'"
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "CAN",
+                "explanation": "30: 'The Licensee shall keep intact all copyright and trademarks notices...'"
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-1.2.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "CAN",
+                "explanation": "35: 'The Licensee shall keep intact all copyright and trademarks notices...'"
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-p-2.0.license",
+        "term_info": {
+            "term": "Hold Liable",
+            "deepseek_response": {
+                "term": "Hold Liable",
+                "marker": "MUST NOT",
+                "explanation": "54: 'You shall hold the Licensor(s) free and harmless from any liability...'"
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-p-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "18: The license mentions 'trademark notices' but does not specify whether the use of trademarks is permitted or restricted."
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-s-2.0.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "mistral_large_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "76: 'use, offer to sell, sell...'"
+            }
+        }
+    },
+    {
+        "license_name": "cern-ohl-w-2.0.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "mistral_large_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "83: 'use, offer to sell, sell, import, and otherwise transfer'"
+            }
+        }
+    },
+    {
+        "license_name": "cnri-jython.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "11: 'that CNRI's License Agreement and CNRI's notice of copyright, i.e., 'Copyright (c) 1995-1999 Corporation for National Research Initiatives; All Rights Reserved' are retained in the Software alone or in any derivative version prepared by Licensee.'"
+            }
+        }
+    },
+    {
+        "license_name": "cnri-jython.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "21: 'Licensee may not use CNRI trademarks or trade name, including JPython or CNRI, in a trademark sense to endorse or promote products or services of Licensee, or any third party.'"
+            }
+        }
+    },
+    {
+        "license_name": "cnri-python-1.6.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "44: 'This License Agreement does not grant permission to use CNRI trademarks or trade name in a trademark sense to endorse or promote products or services of Licensee, or any third party.'"
+            }
+        }
+    },
+    {
+        "license_name": "csl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "115: 'Except as specifically set forth in this License, no other express or implied patent, trademark, copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.'"
+            }
+        }
+    },
+    {
+        "license_name": "csl-1.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "54-55: 'For distribution in source code, by including this License in the root directory of the source code with the Implementation.'"
+            }
+        }
+    },
+    {
+        "license_name": "csl-1.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "23: 'Patent License' implies patent claims are addressed, but no explicit permission to practice them is mentioned."
+            }
+        }
+    },
+    {
+        "license_name": "condor-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "20: 'The trademark may not be used to endorse or promote software, or products derived therefrom', and 'it may not be affixed to modified redistributions of this Software without the prior written approval'."
+            }
+        }
+    },
+    {
+        "license_name": "copyleft-next-0.3.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "9: The content mentions 'Legal Notices' which includes copyright notices, license notices, license texts, and author attributions, but it does not explicitly mention the requirement to include the full text of the license in modified software."
+            }
+        }
+    },
+    {
+        "license_name": "copyleft-next-0.3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "6: 'This License does not grant any rights in My name, trademarks, service marks, or logos.'"
+            }
+        }
+    },
+    {
+        "license_name": "copyleft-next-0.3.1.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "9: The content mentions 'Legal Notices' which includes copyright notices, license notices, license texts, and author attributions, but it does not explicitly mention the requirement to include the full text of the license in modified software."
+            }
+        }
+    },
+    {
+        "license_name": "cpal-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "229: 'You acknowledge that all trademarks... may only be used with the permission of their owners.'"
+            }
+        }
+    },
+    {
+        "license_name": "cpl-1.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "26: 'states that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.'"
+            }
+        }
+    },
+    {
+        "license_name": "cpol-1.02.license",
+        "term_info": {
+            "term": "Contact Author",
+            "deepseek_response": {
+                "term": "Contact Author",
+                "marker": "MUST",
+                "explanation": "51: 'without the prior written consent of the Author.' This indicates that contacting the author for permission is required before certain actions, such as reposting or republishing the Articles."
+            }
+        }
+    },
+    {
+        "license_name": "crystal-stacker.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "OPTIONAL",
+                "explanation": "7: 'you may do with it whatsoever you please provided that you include this file in its unmodified form with any new distribution.' This suggests that including the source is optional but recommended."
+            }
+        }
+    },
+    {
+        "license_name": "cua-opl-1.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "67: 'You may distribute Covered Code in Executable form only if the requirements of Section 3.'"
+            }
+        }
+    },
+    {
+        "license_name": "cua-opl-1.0.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "16: 'modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications.'"
+            }
+        }
+    },
+    {
+        "license_name": "cua-opl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 65 and 73: The license explicitly states that the grants are 'under intellectual property rights (other than patent or trademark)' implying that use of contributors' names, trademarks, or logos is not permitted."
+            }
+        }
+    },
+    {
+        "license_name": "cua-opl-1.0.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "165: 'You must (a) rename Your license so that the phrases \"CUA Office\", \"CUA\", \"CUAPL\", or any confusingly similar phrase do not appear in your license.'"
+            }
+        }
+    },
+    {
+        "license_name": "dec-3-clause.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The term 'Disclose Source' is not mentioned in the provided license content. The content only specifies that the copyright notice and list of conditions must be retained in the source file, but it does not require the source code to be disclosed when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "ace-tao.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "OPTIONAL",
+                "explanation": "Line 6: 'You are under no obligation to redistribute any of your source code that is built using DOC software.'"
+            }
+        }
+    },
+    {
+        "license_name": "docbook.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.'"
+            }
+        }
+    },
+    {
+        "license_name": "docbook.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "MUST",
+                "explanation": "2: 'names of individuals credited with contribution to this software shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the individuals in question.' This implies that giving credit to the individuals is required, but their names cannot be used for promotional purposes without authorization."
+            }
+        }
+    },
+    {
+        "license_name": "dsdp.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "16: 'REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCT, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR OTHERWISE, DOES NOT NECESSARILY CONSTITUTE OR IMPLY ITS ENDORSEMENT, RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT OR ANY AGENCY THEREOF.'"
+            }
+        }
+    },
+    {
+        "license_name": "dvipdfm.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "2: 'Changed files must be distributed together with a complete and unchanged distribution of these files.' This implies that modifications are allowed, but must be distributed under specific conditions."
+            }
+        }
+    },
+    {
+        "license_name": "ecl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "10: 'The name and trademarks of copyright holder(s) may NOT be used in advertising or publicity pertaining to the Original or Derivative Works without specific, written prior permission.'"
+            }
+        }
+    },
+    {
+        "license_name": "ecl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "46: 'This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.'"
+            }
+        }
+    },
+    {
+        "license_name": "ecl-2.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "32: 'then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.' This implies that patent licenses are granted initially, allowing the use of patent claims."
+            }
+        }
+    },
+    {
+        "license_name": "egenix-1.1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "40: 'com trademarks or trade names in a trademark sense to endorse or promote products or services of Licensee, or any third party.'"
+            }
+        }
+    },
+    {
+        "license_name": "elastic-license-v2.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "mistral_large_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "10: 'use, sell, offer for sale'"
+            }
+        }
+    },
+    {
+        "license_name": "elastic-license-v2.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "12: 'If you or your company make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately.'"
+            }
+        }
+    },
+    {
+        "license_name": "entessa-1.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "6: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "epl-1.0.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpts do not mention any requirement or option to include the full text of the license in modified software."
+            }
+        }
+    },
+    {
+        "license_name": "epl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "39: 'Contributors may not remove or alter any ... trademark, attribution notices, disclaimers of warranty, or limitations of liability.'"
+            }
+        }
+    },
+    {
+        "license_name": "eu-datagrid.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "20: The license does not explicitly mention the requirement to include the full text of the license in modified software."
+            }
+        }
+    },
+    {
+        "license_name": "eu-datagrid.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "20: 'then you are deemed to have granted... a worldwide, non-exclusive, royalty-free, perpetual license to... modify, redistribute and sub-license your modifications, enhancements or derivative works, whether in binary or source code form...'"
+            }
+        }
+    },
+    {
+        "license_name": "eupl-1.1.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "mistral_large_response": {
+                "term": "Include Copyright",
+                "marker": "OPTIONAL",
+                "explanation": "41: 'except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the copyright notice.'"
+            }
+        }
+    },
+    {
+        "license_name": "eupl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "41: 'This Licence does not grant permission to use the trade names, trademarks, service marks, or names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the copyright notice.'"
+            }
+        }
+    },
+    {
+        "license_name": "eupl-1.2.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "41: 'This Licence does not grant permission to use the trade names, trademarks, service marks, or names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the copyright notice.'"
+            }
+        }
+    },
+    {
+        "license_name": "fbm.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "1: 'Permission is granted to use this file in whole or in part for any purpose...'"
+            }
+        }
+    },
+    {
+        "license_name": "fraunhofer-fdk-aac-codec.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "25: 'NO PATENT LICENSE' and 27: 'You may use this FDK AAC Codec software or modifications thereto only for purposes that are authorized by appropriate patent licenses.'"
+            }
+        }
+    },
+    {
+        "license_name": "ferguson-twofish.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "OPTIONAL",
+                "explanation": "3: 'You can change it and distribute it under the GPL, include it in your commercial product without releasing the source code, put it on the web, etc.'"
+            }
+        }
+    },
+    {
+        "license_name": "frameworx-1.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not explicitly mention the practice of patent claims of contributors to the code."
+            }
+        }
+    },
+    {
+        "license_name": "freeimage-1.0.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "137: 'you must (a) rename Your license so that the phrases \"FreeImage\", \"FreeImage Public License\", \"FIPL\", or any confusingly similar phrase do not appear anywhere in your license and (b) otherwise make it clear that your version of the license contains terms which differ from the FreeImage Public License.'"
+            }
+        }
+    },
+    {
+        "license_name": "gfdl-1.2-invariants-or-later.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "9: 'this License preserves for the author and publisher a way to get credit for their work,' which suggests that giving credit is encouraged but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "gfdl-1.3-no-invariants-only.license",
+        "term_info": {
+            "term": "Give Credit",
+            "mistral_large_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "10: 'preserves for the author and publisher a way to get credit for their work.'"
+            }
+        }
+    },
+    {
+        "license_name": "glide.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "30: 'do not make any use of the GLIDE trademark without the prior written permission of 3dfx', 39: 'You do not make any use of the GLIDE trademark without the prior written permission of 3dfx.', 47: 'THERE IS NO RIGHT TO USE THE GLIDE TRADEMARK WITHOUT PRIOR WRITTEN PERMISSION OF 3DFX INTERACTIVE, INC.', 71: 'You may not make any use of the GLIDE trademark without the prior written permission of 3dfx.'"
+            }
+        }
+    },
+    {
+        "license_name": "gpl-2.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "19: 'We wish to avoid the danger that redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary.'"
+            }
+        }
+    },
+    {
+        "license_name": "gpl-2.0-plus.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "24: 'We wish to avoid the danger that redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary.'"
+            }
+        }
+    },
+    {
+        "license_name": "gpl-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "117: 'Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks.'"
+            }
+        }
+    },
+    {
+        "license_name": "gpl-3.0-plus.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "124: 'Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks.'"
+            }
+        }
+    },
+    {
+        "license_name": "graphics-gems.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "mistral_large_response": {
+                "term": "Commercial Use",
+                "marker": "MUST NOT",
+                "explanation": "3: 'you cannot claim the text of the code as your own and resell it.'"
+            }
+        }
+    },
+    {
+        "license_name": "gsoap-1.3b.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not mention the use of contributors' names, trademarks, or logos directly."
+            }
+        }
+    },
+    {
+        "license_name": "gsoap-1.3b.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "175: 'You must (a) rename Your license so that the phrase 'gSOAP' or any confusingly similar phrase do not appear in your license.'"
+            }
+        }
+    },
+    {
+        "license_name": "hippocratic-2.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "10: The relevant line does not explicitly mention 'use contributors' names, trademarks or logos.' It only refers to receiving the License and copyright notice."
+            }
+        }
+    },
+    {
+        "license_name": "osf-1990.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The term 'disclose your source code' is not mentioned or implied in the provided license excerpts."
+            }
+        }
+    },
+    {
+        "license_name": "mit-with-modification-obligations.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "3: 'permission to use, copy, modify, and distribute this software'."
+            }
+        }
+    },
+    {
+        "license_name": "mit-with-modification-obligations.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "3: 'permission to use, copy, modify, and distribute this software'"
+            }
+        }
+    },
+    {
+        "license_name": "hpnd-pbmplus.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.'"
+            }
+        }
+    },
+    {
+        "license_name": "tidy.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "3: 'or that the use of the software or documentation will not infringe any third party patents, copyrights, trademarks or other rights.'"
+            }
+        }
+    },
+    {
+        "license_name": "ijg.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not mention the use of contributors' names, trademarks, or logos directly. The only reference to a trademark is for GIF(sm), which is not related to contributors' names or logos."
+            }
+        }
+    },
+    {
+        "license_name": "ijg.license",
+        "term_info": {
+            "term": "Contact Author",
+            "mistral_large_response": {
+                "term": "Contact Author",
+                "marker": "MUST",
+                "explanation": "3: 'please let us know!' indicates that contacting the author is suggested but not required."
+            }
+        }
+    },
+    {
+        "license_name": "imagemagick.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "11: 'Work shall mean the work of authorship... as indicated by a copyright notice that is included in or attached to the work.'"
+            }
+        }
+    },
+    {
+        "license_name": "imagemagick.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "38: 'This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.'"
+            }
+        }
+    },
+    {
+        "license_name": "imlib2.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'The above copyright notice and this permission notice shall be included in all copies of the Software and its Copyright notices.'"
+            }
+        }
+    },
+    {
+        "license_name": "imlib2.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "OPTIONAL",
+                "explanation": "2: 'In addition publicly documented acknowledgment must be given that this software has been used if no source code of this software is made available publicly.'"
+            }
+        }
+    },
+    {
+        "license_name": "info-zip.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "12: The license only mentions retaining the copyright notice and conditions, but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "mit-veillard-variant.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'provided that...this permission notice appear in all copies.'"
+            }
+        }
+    },
+    {
+        "license_name": "latex2e-translated-notice.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not mention the requirement to include the full text of the license in modified software. The relevant lines only discuss preserving the copyright notice and permission notice."
+            }
+        }
+    },
+    {
+        "license_name": "lgpl-2.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpt does not mention the term 'Use Patent Claims' or any related actions directly."
+            }
+        }
+    },
+    {
+        "license_name": "lgpl-2.0-plus.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpt does not mention the term 'Use Patent Claims' or its related actions directly."
+            }
+        }
+    },
+    {
+        "license_name": "lgpl-2.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "NOT SPECIFIED",
+                "explanation": "24: 'any patent license obtained for a version of the library must be consistent with the full freedom of use specified in this license.'"
+            }
+        }
+    },
+    {
+        "license_name": "lgpl-2.1-plus.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "NOT SPECIFIED",
+                "explanation": "29: 'Therefore, we insist that any patent license obtained for a version of the library must be consistent with the full freedom of use specified in this license.' The phrase does not explicitly address the practice of patent claims of contributors, making the meaning unclear."
+            }
+        }
+    },
+    {
+        "license_name": "lgpl-3.0.license",
+        "term_info": {
+            "term": "Include Install Instructions",
+            "mistral_large_response": {
+                "term": "Include Install Instructions",
+                "marker": "MUST",
+                "explanation": "34: 'Provide Installation Information... only to the extent that such information is necessary to install and execute a modified version of the Combined Work.'"
+            }
+        }
+    },
+    {
+        "license_name": "lgpl-3.0-plus.license",
+        "term_info": {
+            "term": "Include Install Instructions",
+            "mistral_large_response": {
+                "term": "Include Install Instructions",
+                "marker": "MUST",
+                "explanation": "39: 'Provide Installation Information ... to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "lgpllr.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "8: 'You may copy and distribute verbatim copies of the Linguistic Resource as you receive it, in any medium.'"
+            }
+        }
+    },
+    {
+        "license_name": "lgpllr.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "64: 'refrain entirely from distribution of the Linguistic Resource' implies that using patent claims in a way that would not permit royalty-free redistribution is restricted."
+            }
+        }
+    },
+    {
+        "license_name": "libutil-david-nugent.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license content only mentions retaining the copyright notice and conditions, but does not specify the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.1.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "34: 'Modification' of a file means any procedure that produces a derivative file under any applicable law -- that is, a file containing the original file or a significant portion of it, either verbatim or with modifications and/or translated into another language.'"
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.1.license",
+        "term_info": {
+            "term": "Private Use",
+            "mistral_large_response": {
+                "term": "Private Use",
+                "marker": "CAN",
+                "explanation": "43: 'It is wise never to modify a file of The Program, even for your own personal use, without also meeting the above eight conditions for distributing the modified file.'"
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.2.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "24: 'You may distribute a complete, unmodified copy of The Program.' and 34: 'You may distribute a modified file of The Program if, and only if, the following eight conditions are met.'"
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.2.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "34: 'Modification' of a file means any procedure that produces a derivative file under any applicable law -- that is, a file containing the original file or a significant portion of it, either verbatim or with modifications and/or translated into another language.'"
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.2.license",
+        "term_info": {
+            "term": "Private Use",
+            "deepseek_response": {
+                "term": "Private Use",
+                "marker": "CAN",
+                "explanation": "43: 'even for your own personal use, without also meeting the above eight conditions for distributing the modified file.' This implies that private use is allowed, but with the caveat of meeting distribution conditions if modifications are made."
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.3a.license",
+        "term_info": {
+            "term": "Private Use",
+            "deepseek_response": {
+                "term": "Private Use",
+                "marker": "CAN",
+                "explanation": "110: 'It is wise never to modify a component of the Work, even for your own personal use, without also meeting the above conditions for distributing the modified component.'"
+            }
+        }
+    },
+    {
+        "license_name": "lppl-1.3c.license",
+        "term_info": {
+            "term": "Private Use",
+            "deepseek_response": {
+                "term": "Private Use",
+                "marker": "CAN",
+                "explanation": "110: 'It is wise never to modify a component of the Work, even for your own personal use, without also meeting the above conditions for distributing the modified component.'"
+            }
+        }
+    },
+    {
+        "license_name": "bigelow-holmes.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "MUST NOT",
+                "explanation": "8: 'the code and output is not changed except as authorized herein'"
+            }
+        }
+    },
+    {
+        "license_name": "bigelow-holmes.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "7: 'Users and possessors of this source code are hereby granted a nonexclusive, royalty-free copyright and design patent license to use this code in individual and commercial software.'"
+            }
+        }
+    },
+    {
+        "license_name": "paul-mackerras-new.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license mentions 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer,' but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "paul-mackerras.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license mentions retaining the copyright notice and disclaimer but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "minpack.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "3: The license content only mentions retaining the copyright notice and conditions, but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "enna.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "OPTIONAL",
+                "explanation": "2: 'In addition publicly documented acknowledgment must be given that this software has been used if no source code of this software is made available publicly.'"
+            }
+        }
+    },
+    {
+        "license_name": "motosoto-0.9.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 61, 63, 139: 'No right is granted to the trademarks of Licensor or any Contributor even if such marks are included in the Licensed Product.', 'In so naming your license, you may not use any trademark of Licensor or any Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "motosoto-0.9.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "62: 'No patent license is granted separate from the Licensed Product, for code that you delete from the Licensed Product, or for combinations of the Licensed Product with other software or hardware.'"
+            }
+        }
+    },
+    {
+        "license_name": "motosoto-0.9.1.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "138: 'you must rename your license so that it is not confusingly similar to this License, and must make it clear that your license contains terms that differ from this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "mpich.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not explicitly mention the requirement to retain the copyright notice in all copies or substantial uses of the work."
+            }
+        }
+    },
+    {
+        "license_name": "mpl-1.1.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "16: 'to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications.'"
+            }
+        }
+    },
+    {
+        "license_name": "mpl-1.1.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "165: 'You must (a) rename Your license so that the phrases...' indicates a mandatory requirement to rename the license when creating a modified version."
+            }
+        }
+    },
+    {
+        "license_name": "mpl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "65: 'This License does not grant any rights in the trademarks, service marks, or logos of any Contributor (except as may be necessary to comply with the notice requirements in Section 3).'"
+            }
+        }
+    },
+    {
+        "license_name": "mpl-2.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "64: 'no patent license is granted by a Contributor...'"
+            }
+        }
+    },
+    {
+        "license_name": "ms-lpl.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "15: 'This license does not grant you rights to use any contributors\u2019 name, logo, or trademarks.'"
+            }
+        }
+    },
+    {
+        "license_name": "ms-lpl.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "16: 'If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.'"
+            }
+        }
+    },
+    {
+        "license_name": "ms-pl.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "16: 'If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.'"
+            }
+        }
+    },
+    {
+        "license_name": "ms-rl.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "19: 'each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to... distribute its contribution or any derivative works that you create.'"
+            }
+        }
+    },
+    {
+        "license_name": "ms-rl.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "mistral_large_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "13: 'each contributor grants you... to make, have made, use, sell, offer for sale.'"
+            }
+        }
+    },
+    {
+        "license_name": "mtll.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "9: 'Alternatively, this acknowledgement may appear in the software itself, and wherever such third-party acknowledgments normally appear.'"
+            }
+        }
+    },
+    {
+        "license_name": "mulanpsl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "32: 'No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "mulanpsl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "34: 'No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor'"
+            }
+        }
+    },
+    {
+        "license_name": "mup.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "Relevant Lines: [2]. The content excerpt only mentions 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following DISCLAIMER.' There is no mention of disclosing the source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "naumen.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "10: 'does not give you the right to use Servicemarks (sm) or Trademarks (tm) of NAUMEN.'"
+            }
+        }
+    },
+    {
+        "license_name": "nlod-1.0.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "NOT SPECIFIED",
+                "explanation": "12: The term 'Commercial Use' is not mentioned in the provided excerpt, which only defines 'Distribute' without specifying any restrictions or permissions related to commercial purposes."
+            }
+        }
+    },
+    {
+        "license_name": "nlod-1.0.license",
+        "term_info": {
+            "term": "Sublicense",
+            "mistral_large_response": {
+                "term": "Sublicense",
+                "marker": "MUST NOT",
+                "explanation": "18: 'The Licensee shall not sub-license or transfer this licence.'"
+            }
+        }
+    },
+    {
+        "license_name": "nlod-2.0.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "NOT SPECIFIED",
+                "explanation": "13: The term 'Commercial Use' is not mentioned in the provided excerpt, which only defines 'Distribute' without specifying any restrictions or permissions related to commercial purposes."
+            }
+        }
+    },
+    {
+        "license_name": "nokos-1.0a.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "160: 'Nothing in this License shall grant You any rights to use any of the trademarks of Nokia or any of its Affiliates, even if any of such trademarks are included in any part of Covered Software and/or documentation to it.'"
+            }
+        }
+    },
+    {
+        "license_name": "nosl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "66: 'under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use...'; 74: 'under intellectual property rights (other than patent or trademark) Licensable by Contributor, to use...' The license explicitly excludes the right to use trademarks."
+            }
+        }
+    },
+    {
+        "license_name": "nosl-1.0.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "166: 'You must (a) rename Your license so that the phrases 'Netizen', 'NOSL' or any confusingly similar phrase do not appear in your license.'"
+            }
+        }
+    },
+    {
+        "license_name": "noweb.license",
+        "term_info": {
+            "term": "Contact Author",
+            "deepseek_response": {
+                "term": "Contact Author",
+                "marker": "MUST",
+                "explanation": "5: 'the result may not be called noweb without my written consent.'"
+            }
+        }
+    },
+    {
+        "license_name": "npl-1.1.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "20: 'including Modifications incorporated therein.'"
+            }
+        }
+    },
+    {
+        "license_name": "npl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "14: 'This License does not grant any rights to use the trademarks \"Netscape\", the \"Netscape N and horizon\" logo or the \"Netscape lighthouse\" logo, \"Netcenter\", \"Gecko\", \"Java\" or \"JavaScript\", \"Smart Browsing\" even if such marks are included in the Original Code or Modifications.'"
+            }
+        }
+    },
+    {
+        "license_name": "npl-1.1.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpts do not directly mention or address the requirement to disclose source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "nrl.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "14: The license only mentions retaining the copyright notice and conditions, but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "occt-pl.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "23: 'You may not use, reproduce, modify, distribute, sublicense or circulate the Software, or any portion thereof, except as expressly provided under this License.'"
+            }
+        }
+    },
+    {
+        "license_name": "occt-pl.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "43: 'This License does not grant any rights to use the trademarks, trade names and domain names \"MATRA\", \"EADS Matra Datavision\", \"CAS.org\" or any other trademarks, trade names or domain names used or owned by the Initial Developer.'"
+            }
+        }
+    },
+    {
+        "license_name": "oclc-2.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "18: The license content mentions including details of third-party rights and restrictions but does not explicitly require including the full text of the license in modified software."
+            }
+        }
+    },
+    {
+        "license_name": "oclc-2.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "83: 'you could not satisfy both the patent license and this License, and you would be required to refrain entirely from distribution of the Program.'"
+            }
+        }
+    },
+    {
+        "license_name": "odbl-1.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "237: 'maintain this same freedom for others.'"
+            }
+        }
+    },
+    {
+        "license_name": "odbl-1.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "237: 'Licensor reserves the right to release the Database under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "odc-by-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "60: 'This License does not cover any trademarks associated with the Database.' This line indicates that the license does not address the use of trademarks associated with the Database, implying that it is not specified within the scope of this license."
+            }
+        }
+    },
+    {
+        "license_name": "odc-by-1.0.license",
+        "term_info": {
+            "term": "Relicense",
+            "deepseek_response": {
+                "term": "Relicense",
+                "marker": "CAN",
+                "explanation": "172: 'Licensor reserves the right to release the Database under different license terms.'"
+            }
+        }
+    },
+    {
+        "license_name": "ofl-1.0.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "10: 'to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software.'"
+            }
+        }
+    },
+    {
+        "license_name": "ofl-1.0-no-rfn.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "16: 'to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software.'"
+            }
+        }
+    },
+    {
+        "license_name": "ofl-1.0-rfn.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "17: 'to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software.'"
+            }
+        }
+    },
+    {
+        "license_name": "ofl-1.1-no-rfn.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "18: 'to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software.'"
+            }
+        }
+    },
+    {
+        "license_name": "ogc-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "17: 'The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission.'"
+            }
+        }
+    },
+    {
+        "license_name": "ogl-uk-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "10: 'departmental or public sector organisation logos, crests and the Royal Arms except where they form an integral part of a document or dataset;'"
+            }
+        }
+    },
+    {
+        "license_name": "opengroup.license",
+        "term_info": {
+            "term": "Contact Author",
+            "mistral_large_response": {
+                "term": "Contact Author",
+                "marker": "OPTIONAL",
+                "explanation": "9: 'please let us know so we can feed this back into the original, and also raise any specification issues with the appropriate bodies (for example the POSIX committees).'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-1.1.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "25: 'rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-1.2.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "25: 'rename any non-standard executables so the names do not conflict with standard executables... and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-1.3.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "25: 'rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-1.4.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "25: 'rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.0.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "16: 'OpenLDAP is a trademark of the OpenLDAP Foundation.' - The license mentions the trademark but does not specify any terms regarding the use of contributors' names, trademarks, or logos."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.0.1.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "18: 'Due credit should be given to the OpenLDAP Project' indicates that giving credit is suggested but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.1.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "17: 'Due credit should be given to the OpenLDAP Project' indicates that giving credit is suggested but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.2.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The license content does not mention the use of contributors' names, trademarks, or logos."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.2.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "12: 'Due credit should be given to the OpenLDAP Project' indicates that giving credit is suggested but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.2.1.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "13: 'Due credit should be given to the OpenLDAP Project' indicates that giving credit is suggested but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.2.2.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "23: The license mentions 'OpenLDAP is a trademark of the OpenLDAP Foundation' but does not specify any terms regarding the use of contributors' names, trademarks, or logos."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.2.2.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "14: 'Due credit should be given to the OpenLDAP Project' indicates that giving credit is suggested but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.3.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "22: 'OpenLDAP is a trademark of the OpenLDAP Foundation.' This line only states that OpenLDAP is a trademark but does not specify any permissions or restrictions regarding the use of this trademark."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.3.license",
+        "term_info": {
+            "term": "Give Credit",
+            "mistral_large_response": {
+                "term": "Give Credit",
+                "marker": "MUST",
+                "explanation": "13: 'Due credit should be given to the OpenLDAP Project'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.4.license",
+        "term_info": {
+            "term": "Give Credit",
+            "mistral_large_response": {
+                "term": "Give Credit",
+                "marker": "MUST",
+                "explanation": "11: 'Due credit should be given to the OpenLDAP Project.'"
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.5.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "OPTIONAL",
+                "explanation": "11: 'Due credit should be given to the authors of the Software.' This phrase suggests that giving credit is recommended but not mandated."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.7.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "13: 'OpenLDAP is a registered trademark of the OpenLDAP Foundation.' This line only states that OpenLDAP is a registered trademark but does not specify any permissions or restrictions regarding the use of trademarks."
+            }
+        }
+    },
+    {
+        "license_name": "openldap-2.8.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "13: 'OpenLDAP is a registered trademark of the OpenLDAP Foundation.' The content mentions the trademark but does not specify any conditions or permissions regarding the use of contributors' names, trademarks, or logos."
+            }
+        }
+    },
+    {
+        "license_name": "olfl-1.3.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "28: 'This License does not grant permission to use the trade names, trademarks, service marks or product names of the Licensor(s) or of a Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "openssl-ssleay.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "41: 'Copyright notices in the code are not to be removed.'"
+            }
+        }
+    },
+    {
+        "license_name": "openssl.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "2: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "openvision.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "OPTIONAL",
+                "explanation": "3: 'You may freely use and distribute the Source Code and Object Code compiled from it, with or without modification'"
+            }
+        }
+    },
+    {
+        "license_name": "open-public.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "31: 'modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications.'"
+            }
+        }
+    },
+    {
+        "license_name": "open-public.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "147: 'you must (a) rename Your license so that the phrases \"Open\", \"OpenPL\", \"OPL\" or any confusingly similar phrase do not appear anywhere in your license and (b) otherwise make it clear that your version of the license contains terms which differ from the Open Public License.'"
+            }
+        }
+    },
+    {
+        "license_name": "opl-uk-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "9: 'information subject to other intellectual property rights, including ... trademarks,' and the general non-endorsment clause."
+            }
+        }
+    },
+    {
+        "license_name": "oset-pl-2.1.license",
+        "term_info": {
+            "term": "Commercial Use",
+            "deepseek_response": {
+                "term": "Commercial Use",
+                "marker": "CAN",
+                "explanation": "54: 'all end user license agreements (excluding distributors and resellers), which have been validly granted by You or Your distributors under this License prior to termination shall survive termination.' This implies that commercial use is permitted under validly granted end user license agreements."
+            }
+        }
+    },
+    {
+        "license_name": "oset-pl-2.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "66: 'This License does not grant any rights in the trademarks, service marks, or logos of any Contributor (except as may be necessary to comply with the notice requirements in Section 3.'"
+            }
+        }
+    },
+    {
+        "license_name": "oset-pl-2.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "62: 'no patent license is granted by a Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-1.0.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "mistral_large_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "13: 'Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the Source Code in an information repository... immediately following the copyright notice that applies to the Original Work.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-1.1.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "Line 12: 'to distribute copies of the Original Work and Derivative Works to the public'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "14: 'Nothing in this License shall be deemed to grant any rights to trademarks'; 16: 'No right is granted to the trademarks of Licensor even if such marks are included in the Original Work.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-2.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "10: 'to distribute copies of the Original Work and Derivative Works to the public'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Lines 13-14: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-2.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "13: 'Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-2.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "6: 'No patent license is granted to make, use, sell or offer to sell embodiments of any patent claims other than the licensed claims defined in Section 2.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-3.0.license",
+        "term_info": {
+            "term": "Sublicense",
+            "mistral_large_response": {
+                "term": "Sublicense",
+                "marker": "MUST NOT",
+                "explanation": "25: 'Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License with the permission of the contributor(s) of those copyrights and patent rights.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-3.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "13: 'Neither the names of Licensor... may be used to endorse or promote products derived from this Original Work without express prior permission of the Licensor.'"
+            }
+        }
+    },
+    {
+        "license_name": "osl-3.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "6: 'No patent license is granted to make, use, sell, offer for sale, have made, or import embodiments of any patent claims other than the licensed claims defined in Section 2.'"
+            }
+        }
+    },
+    {
+        "license_name": "parity-6.0.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "15: 'publish all its source code...through a freely accessible distribution system.'"
+            }
+        }
+    },
+    {
+        "license_name": "parity-7.0.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "MUST",
+                "explanation": "14: 'Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.'"
+            }
+        }
+    },
+    {
+        "license_name": "php-3.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "5: The license only mentions 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer,' but does not explicitly require the source code to be disclosed or made available when distributing the software."
+            }
+    
+        }
+    },
+    {
+        "license_name": "php-3.01.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "5: The license mentions 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer,' but does not explicitly require the disclosure of source code when distributing the software."
+            }
+    
+        }
+    },
+    {
+        "license_name": "pixar.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "35-36: 'This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor and its affiliates, except as required to comply with Section 4(c) of the License and to reproduce the content of the NOTICE file.'"
+            }
+        }
+    },
+    {
+        "license_name": "dom4j.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "12: The license mentions 'DOM4J is a registered trademark of MetaStuff, Ltd.' but does not specify any terms or conditions regarding the use of this trademark."
+            }
+        }
+    },
+    {
+        "license_name": "psf-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "19: 'This License Agreement does not grant permission to use PSF trademarks or trade name in a trademark sense to endorse or promote products or services of Licensee, or any third party.'"
+            }
+        }
+    },
+    {
+        "license_name": "psutils.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "56: 'even if the programs are modified and/or renamed as part of the product.'"
+            }
+        }
+    },
+    {
+        "license_name": "python-ldap.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "NOT SPECIFIED",
+                "explanation": "1: 'The python-ldap package is distributed under Python-style license.'"
+            }
+        }
+    },
+    {
+        "license_name": "qpl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "13: 'You may copy and distribute the Software in unmodified form provided that the entire package, including - but not restricted to - copyright, trademark notices and disclaimers, as released by the initial developer of the Software, is distributed.' This implies that trademarks must not be used without including the entire package, including notices and disclaimers."
+            }
+        }
+    },
+    {
+        "license_name": "qpl-1.0-inria-2004.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST",
+                "explanation": "13: 'provided that the entire package, including - but not restricted to - copyright, trademark notices and disclaimers, as released by the initial developer of the Software, is distributed.'"
+            }
+        }
+    },
+    {
+        "license_name": "ecosrh-1.1.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "OPTIONAL",
+                "explanation": "5: 'Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License'"
+            }
+        }
+    },
+    {
+        "license_name": "ecosrh-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "201: 'This License does not grant any rights to use the trademark Red Hat, the Red Hat logo, eCos logo, even if such marks are included in the Original Code.'"
+            }
+        }
+    },
+    {
+        "license_name": "rpl-1.1.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST NOT",
+                "explanation": "21: 'You may not modify or delete any pre-existing copyright notices, change notices or License text in the Licensed Software.'"
+            }
+        }
+    },
+    {
+        "license_name": "rpl-1.1.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "125: 'You must make available, under the terms of this License, the Source Code of the Licensed Software and any Extensions that You Deploy.'"
+            }
+        }
+    },
+    {
+        "license_name": "rpl-1.5.license",
+        "term_info": {
+            "term": "Distribute",
+            "deepseek_response": {
+                "term": "Distribute",
+                "marker": "MUST",
+                "explanation": "11: 'You must include a copy of this License or directions on how to obtain a copy with every copy of the Extensions You distribute.' and 17: 'You must make available, under the terms of this License, the Source Code of any Extensions that You Deploy, via an Electronic Distribution Mechanism.'"
+            }
+        }
+    },
+    {
+        "license_name": "rpl-1.5.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "4: 'You may not modify or delete any pre-existing copyright notices, change notices or License text in the Licensed Software without written permission of the respective Licensor or Contributor.' This indicates that the License text must be included without modification."
+            }
+        }
+    },
+    {
+        "license_name": "rpsl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "94: 'No right is granted to the trademarks of Licensor or any Contributor even if such marks are included in the Covered Code.' and 101: 'This License does not grant any rights to use the trademarks or trade names owned by Licensor or to any trademark or trade name belonging to any Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "rpsl-1.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "OPTIONAL",
+                "explanation": "67: 'You agree not use any information derived from Your use and review of the Covered Code, including but not limited to any algorithms or inventions that may be contained in the Covered Code, for the purpose of asserting any of Your patent rights, or assisting a third party to assert any of its patent rights, against Licensor or any Contributor.'"
+            }
+        }
+    },
+    {
+        "license_name": "sax-pd.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "6: 'any other party who may modify and/or redistribute SAX.'"
+            }
+        }
+    },
+    {
+        "license_name": "scea-1.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "28: 'You may redistribute copies of the Software, modifications or derivatives thereof in Source Code Form, provided that You:'"
+            }
+        }
+    },
+    {
+        "license_name": "sgi-fslb-1.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "61: 'Recipient may distribute the source code and/or executable version(s) of Covered Code under (1) this License; (2) a license identical to this License but for only such changes as are necessary in order to clarify Recipient's role as licensor of Modifications, without derogation of any of SGI's rights; and/or (3) a license of Recipient's choosing, containing terms different from this License, provided that the license terms include this Section 3 and Sections 4, 6, 7, 10, 12, and 13, which terms may not be modified or superseded by any other terms of such license.'"
+            }
+        }
+    },
+    {
+        "license_name": "sgi-fslb-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "73: 'any trade name, trademark or service mark whatsoever, including without limitation any related right for purposes of endorsement or promotion of products derived from the Covered Code, without prior written permission of SGI.'"
+            }
+        }
+    },
+    {
+        "license_name": "sgi-freeb-1.1.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The provided excerpts do not clearly specify whether including the full text of the license in modified software is required, optional, or prohibited."
+            }
+        }
+    },
+    {
+        "license_name": "sgi-freeb-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "52: '(ii) any trade name, trademark or service mark whatsoever, including without limitation any related right for purposes of endorsement or promotion of products derived from the Covered Code, without prior written permission of SGI'"
+            }
+        }
+    },
+    {
+        "license_name": "sgi-freeb-1.1.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "36: 'distribute the source code and/or executable version(s) of Covered Code under (1) this License; (2) a license identical to this License but for only such changes as are necessary in order to clarify Recipient.'"
+            }
+        }
+    },
+    {
+        "license_name": "sgi-freeb-1.1.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "deepseek_response": {
+                "term": "Use Patent Claims",
+                "marker": "CAN",
+                "explanation": "9: 'The patent license shall apply to the Covered Code if, at the time any related Modification is added, such addition of the Modification causes such combination to be covered by the Licensed Patents.'"
+            }
+        }
+    },
+    {
+        "license_name": "sgi-freeb-2.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'either this permission notice or a reference to http://oss.'"
+            }
+        }
+    },
+    {
+        "license_name": "x11-opengl.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "NOT SPECIFIED",
+                "explanation": "16: 'OpenGL(TM) is a trademark of Silicon Graphics, Inc.' - The license mentions the trademark but does not specify any permissions or restrictions regarding its use."
+            }
+        }
+    },
+    {
+        "license_name": "sgp4.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The provided content only mentions including citations and links in documentation, but does not explicitly address disclosing source code."
+            }
+        }
+    },
+    {
+        "license_name": "shl-0.5.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "47: 'This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.'"
+            }
+        }
+    },
+    {
+        "license_name": "shl-0.51.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "40: 'This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.'"
+            }
+        }
+    },
+    {
+        "license_name": "simpl-2.0.license",
+        "term_info": {
+            "term": "Hold Liable",
+            "mistral_large_response": {
+                "term": "Hold Liable",
+                "marker": "MUST NOT",
+                "explanation": "17: '(The state or country where you live may not allow you to limit your liability in this way, so this may not apply to you);'"
+            }
+        }
+    },
+    {
+        "license_name": "simpl-2.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "9: 'other than trademarks' indicates that the use of trademarks is not included in the rights granted by the license."
+            }
+        }
+    },
+    {
+        "license_name": "sun-sissl-1.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "40: 'CollabNet is a trademark of CollabNet, Inc.', 156: 'are trademarks or registered trademarks of Sun Microsystems, Inc.' These statements imply restrictions on using the contributors' names, trademarks, or logos without explicit permission."
+            }
+        }
+    },
+    {
+        "license_name": "sun-sissl-1.2.license",
+        "term_info": {
+            "term": "Hold Liable",
+            "deepseek_response": {
+                "term": "Hold Liable",
+                "marker": "CAN",
+                "explanation": "61: 'You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Your version of the Code.'"
+            }
+        }
+    },
+    {
+        "license_name": "sun-sissl-1.2.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "129: 'If any of your Modifications do not meet the requirements of the Standard, then you must change the product name so that Grid Engine, gridengine, gridengine.'"
+            }
+        }
+    },
+    {
+        "license_name": "sun-sissl-1.2.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "57: 'You must include a copy of this License with every copy of the Source Code You distribute.'"
+            }
+        }
+    },
+    {
+        "license_name": "snia.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "Line 45: 'under intellectual property rights (other than patent or trademark) Licensable by Initial Developer' and Line 52: 'under intellectual property rights (other than patent or trademark) Licensable by Contributor'. Both lines explicitly exclude trademarks from the granted licenses, indicating that using contributors' names, trademarks, or logos is not permitted."
+            }
+        }
+    },
+    {
+        "license_name": "snia.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "49: 'no patent license is granted' and 57: 'no patent license is granted'"
+            }
+        }
+    },
+    {
+        "license_name": "snprintf.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "1: 'as long as this notice remains intact on all source code distributions.'"
+            }
+        }
+    },
+    {
+        "license_name": "spl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "The relevant lines (69 and 77) explicitly exclude trademark rights from the granted licenses, indicating that use of contributors' names, trademarks, or logos is not permitted. For example: '(a) under intellectual property rights (other than patent or trademark)'."
+            }
+        }
+    },
+    {
+        "license_name": "ssleay-windows.license",
+        "term_info": {
+            "term": "Include Copyright",
+            "deepseek_response": {
+                "term": "Include Copyright",
+                "marker": "MUST",
+                "explanation": "9: 'Copyright notices in the code are not to be removed.'"
+            }
+        }
+    },
+    {
+        "license_name": "ssleay-windows.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "13: The license only mentions 'Redistributions of source code must retain the copyright notice', but does not explicitly require the source code to be disclosed or made available when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "mongodb-sspl-1.0.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "CAN",
+                "explanation": "14: 'distribution (with or without modification)', and 63-64: 'You may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey the machine-readable Corresponding Source...'"
+            }
+        }
+    },
+    {
+        "license_name": "mongodb-sspl-1.0.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "deepseek_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "92: 'Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks.'"
+            }
+        }
+    },
+    {
+        "license_name": "sugarcrm-1.1.3.license",
+        "term_info": {
+            "term": "Modify",
+            "deepseek_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "60: 'to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications.'"
+            }
+        }
+    },
+    {
+        "license_name": "sugarcrm-1.1.3.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "174: 'You must (a) rename Your license so that the phrases ''SugarCRM'', ''SPL'' or any confusingly similar phrase do not appear in your license.'"
+            }
+        }
+    },
+    {
+        "license_name": "tapr-ohl-1.0.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "13: 'those who benefit from an OHL design may not bring lawsuits claiming that design infringes their patents or other intellectual property.'"
+            }
+        }
+    },
+    {
+        "license_name": "thor-pl.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "74: 'under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original Code.' This line indicates that trademarks are explicitly excluded from the granted license."
+            }
+        }
+    },
+    {
+        "license_name": "thor-pl.license",
+        "term_info": {
+            "term": "Use Patent Claims",
+            "mistral_large_response": {
+                "term": "Use Patent Claims",
+                "marker": "MUST NOT",
+                "explanation": "Lines 78 and 87: 'no patent license is granted' indicates explicit restriction on using patent claims."
+            }
+        }
+    },
+    {
+        "license_name": "thor-pl.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "MUST",
+                "explanation": "174: 'You must (a) rename Your license so that the phrases \"TPL\", \"THOR Software\", \"Thomas Richter\" or any confusingly similar phrase do not appear in your license.'"
+            }
+        }
+    },
+    {
+        "license_name": "unicode-v3.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "1: 'this copyright and permission notice appear with all copies of the Data Files or Software, or (b) this copyright and permission notice appear in associated Documentation.'"
+            }
+        }
+    },
+    {
+        "license_name": "unicode-tou.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "MUST NOT",
+                "explanation": "25: 'Modification is not permitted with respect to this document.'"
+            }
+        }
+    },
+    {
+        "license_name": "unicode-tou.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "54: 'you agree to abide by the provisions of the Trademark Policy, which may be changed from time to time in the sole discretion of Unicode, Inc.'"
+            }
+        }
+    },
+    {
+        "license_name": "vsl-1.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "8: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "w3c.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "9: 'The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission.'"
+            }
+        }
+    },
+    {
+        "license_name": "w3c-software-doc-20150513.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "11: 'The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the work without specific, written prior permission.'"
+            }
+        }
+    },
+    {
+        "license_name": "xdebug-1.03.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "6: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "mit-export-control.license",
+        "term_info": {
+            "term": "Distribute",
+            "mistral_large_response": {
+                "term": "Distribute",
+                "marker": "MUST",
+                "explanation": "3: 'Any distribution of this software or derivative works must comply with all applicable United States export control laws.'"
+            }
+        }
+    },
+    {
+        "license_name": "xfree86-1.1.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "deepseek_response": {
+                "term": "Disclose Source",
+                "marker": "NOT SPECIFIED",
+                "explanation": "2: The license mentions retaining the copyright notice and conditions but does not explicitly require the disclosure of source code when distributing the software."
+            }
+        }
+    },
+    {
+        "license_name": "xskat.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "CAN",
+                "explanation": "6: 'Only changes required for packaging or porting are made.'"
+            }
+        }
+    },
+    {
+        "license_name": "xskat.license",
+        "term_info": {
+            "term": "Rename",
+            "deepseek_response": {
+                "term": "Rename",
+                "marker": "OPTIONAL",
+                "explanation": "9: 'The program is renamed or the version number is of the form x.' This indicates that renaming is allowed but not required, making it optional."
+            }
+        }
+    },
+    {
+        "license_name": "ypl-1.0.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "20: 'You must make absolutely clear that any license terms applying to such Software or Modification that differ from this Agreement are offered by You alone and not by Yahoo!'"
+            }
+        }
+    },
+    {
+        "license_name": "ypl-1.0.license",
+        "term_info": {
+            "term": "Contact Author",
+            "deepseek_response": {
+                "term": "Contact Author",
+                "marker": "NOT SPECIFIED",
+                "explanation": "The term 'Contact Author' or any related actions such as 'get permission from author or contact the author about the module you are using' are not mentioned in the provided license content (Relevant Lines: [68])."
+            }
+        }
+    },
+    {
+        "license_name": "ypl-1.1.license",
+        "term_info": {
+            "term": "Include License",
+            "mistral_large_response": {
+                "term": "Include License",
+                "marker": "NOT SPECIFIED",
+                "explanation": "20: 'The provided excerpts do not mention including the full text of the license in modified software.'"
+            }
+        }
+    },
+    {
+        "license_name": "zed.license",
+        "term_info": {
+            "term": "Modify",
+            "mistral_large_response": {
+                "term": "Modify",
+                "marker": "MUST NOT",
+                "explanation": "7: 'If you make any changes to this file, please do not distribute the results under the name `zed-csp.' The restriction on distribution suggests a prohibition on modifying and redistributing under certain conditions."
+            }
+        }
+    },
+    {
+        "license_name": "zend-2.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "5: 'Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.'"
+            }
+        }
+    },
+    {
+        "license_name": "zimbra-1.3.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "20: 'You must make absolutely clear that any license terms applying to such Software or Modification that differ from this Agreement are offered by You alone and not by VMware, and that such license does not restrict recipients from exercising rights in the source code to the Software granted by VMware under this Agreement or rights in the source code to any Modification granted by You as described in Section 1.'"
+            }
+        }
+    },
+    {
+        "license_name": "zimbra-1.4.license",
+        "term_info": {
+            "term": "Include License",
+            "deepseek_response": {
+                "term": "Include License",
+                "marker": "MUST",
+                "explanation": "20: 'You must make absolutely clear that any license terms applying to such Software or Modification that differ from this Agreement are offered by You alone and not by Zimbra, and that such license does not restrict recipients from exercising rights in the source code to the Software granted by Zimbra under this Agreement or rights in the source code to any Modification granted by You as described in Section 1.'"
+            }
+        }
+    },
+    {
+        "license_name": "zpl-2.0.license",
+        "term_info": {
+            "term": "Disclose Source",
+            "mistral_large_response": {
+                "term": "Disclose Source",
+                "marker": "MUST",
+                "explanation": "4: 'Redistributions in source code must retain...'"
+            }
+        }
+    },
+    {
+        "license_name": "zpl-2.0.license",
+        "term_info": {
+            "term": "Give Credit",
+            "deepseek_response": {
+                "term": "Give Credit",
+                "marker": "MUST",
+                "explanation": "19: 'Specific attributions are listed in the accompanying credits file.'"
+            }
+        }
+    },
+    {
+        "license_name": "zpl-2.1.license",
+        "term_info": {
+            "term": "Use Trademark",
+            "mistral_large_response": {
+                "term": "Use Trademark",
+                "marker": "MUST NOT",
+                "explanation": "10: 'does not give you the right to use Servicemarks (sm) or Trademarks (tm) of the copyright holders.'"
+            }
+        }
+    }
+]

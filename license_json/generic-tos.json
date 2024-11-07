@@ -1,0 +1,12 @@
+{
+    "filename": "generic-tos.license",
+    "key": "generic-tos",
+    "short_name": "Generic ToS",
+    "name": "Generic Terms of Service",
+    "category": "Unstated License",
+    "owner": "Unspecified",
+    "notes": "This is a generic license for Terms of Service such as privacy terms and and other ToS-like\nagreements found in software that are not directly licenses.",
+    "is_generic": "yes",
+    "spdx_license_key": "LicenseRef-scancode-generic-tos",
+    "license_body": ""
+}

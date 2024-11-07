@@ -1,0 +1,17 @@
+{
+    "filename": "cockroachdb-use-grant-for-bsl-1.1.license",
+    "key": "cockroachdb-use-grant-for-bsl-1.1",
+    "short_name": "CockroachDB Use Grant for BSL 1.1",
+    "name": "CockroachDB Additional Use Grant for BSL 1.1",
+    "category": "Source-available",
+    "owner": "Cockroachlabs",
+    "homepage_url": "https://github.com/cockroachdb/cockroach/blob/8acfe8ffd0028ce1d81a9b1148f7e9ba2673bf95/licenses/BSL.txt",
+    "is_exception": "yes",
+    "spdx_license_key": "LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1",
+    "other_spdx_license_keys": "\n- LicenseRef-scancode-cockroachdb-use-grant-for-bsl-1.1",
+    "faq_url": "https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/",
+    "ignorable_copyrights": "\n- (c) 2019 Cockroach Labs, Inc.",
+    "ignorable_holders": "\n- Cockroach Labs, Inc.",
+    "ignorable_urls": "\n- https://cockroachlabs.com/",
+    "license_body": "\nParameters\nLicensor:             Cockroach Labs, Inc.\nLicensed Work:        CockroachDB 19.2\nThe Licensed Work is (c) 2019 Cockroach Labs, Inc.\n\nAdditional Use Grant: You may make use of the Licensed Work, provided that\nyou may not use the Licensed Work for a Database\nService.\n\nA “Database Service” is a commercial offering that\nallows third parties (other than your employees and\ncontractors) to access the functionality of the\nLicensed Work by creating tables whose schemas are\ncontrolled by such third parties.\n\nChange Date:          2022-10-01\n\nChange License:       Apache License, Version 2.0\n\nFor information about alternative licensing arrangements for the Software,\nplease visit: https://cockroachlabs.com/\n\nNotice\n\nThe Business Source License (this document, or the “License”) is not an Open\nSource license. However, the Licensed Work will eventually be made available\nunder an Open Source License, as stated in this License."
+}

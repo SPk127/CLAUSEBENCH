@@ -1,0 +1,10 @@
+{
+    "filename": "lcs-telegraphics.license",
+    "key": "lcs-telegraphics",
+    "short_name": "LCS-Telegraphics License",
+    "name": "LCS-Telegraphics License",
+    "category": "Permissive",
+    "owner": "LCS-Telegraphics",
+    "spdx_license_key": "LicenseRef-scancode-lcs-telegraphics",
+    "license_body": "\nThe text and information contained in this file may be freely used,\ncopied, or distributed without compensation or licensing restrictions."
+}

@@ -1,0 +1,14 @@
+{
+    "filename": "swig.license",
+    "key": "swig",
+    "short_name": "SWIG Library License",
+    "name": "SWIG Library License",
+    "category": "Permissive",
+    "owner": "SWIG",
+    "homepage_url": "http://www.swig.org/",
+    "notes": "|\nSWIG is itself GPL-licensed. The SWIG library and examples, under the Lib\nand Examples top level directories are distributed under the these terms.",
+    "spdx_license_key": "LicenseRef-scancode-swig",
+    "text_urls": "\n- http://www.swig.org/Release/LICENSE",
+    "other_urls": "\n- http://www.swig.org/Release/COPYRIGHT",
+    "license_body": "\nYou may copy, modify, distribute, and make derivative works based on this\nsoftware, in source code or object code form, without restriction. If you\ndistribute the software to others, you may do so according to the terms of your\nchoice. This software is offered as is, without warranty of any kind."
+}

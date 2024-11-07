@@ -1,0 +1,11 @@
+{
+    "filename": "broadcom-raspberry-pi.license",
+    "key": "broadcom-raspberry-pi",
+    "short_name": "Broadcom Raspberry Pi Firmware License",
+    "name": "Broadcom Raspberry Pi Firmware License",
+    "category": "Proprietary Free",
+    "owner": "Broadcom",
+    "homepage_url": "https://github.com/raspberrypi/firmware/blob/master/boot/LICENCE.broadcom",
+    "spdx_license_key": "LicenseRef-scancode-broadcom-raspberry-pi",
+    "license_body": "\nRedistribution.  Redistribution and use in binary form, without\nmodification, are permitted provided that the following conditions are\nmet:\n\n* This software may only be used for the purposes of developing for,\nrunning or using a Raspberry Pi device, or authorised derivative\ndevice manufactured via the element14 Raspberry Pi Customization Service\n* Redistributions must reproduce the above copyright notice and the\nfollowing disclaimer in the documentation and/or other materials\nprovided with the distribution.\n* Neither the name of Broadcom Corporation nor the names of its suppliers\nmay be used to endorse or promote products derived from this software\nwithout specific prior written permission.\n\nDISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND\nCONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,\nBUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND\nFITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,\nINCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,\nBUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS\nOF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND\nON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR\nTORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE\nUSE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH\nDAMAGE."
+}

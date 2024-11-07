@@ -1,0 +1,15 @@
+{
+    "filename": "cmigemo.license",
+    "key": "cmigemo",
+    "short_name": "C/Migemo License",
+    "name": "C/Migemo License",
+    "category": "Proprietary Free",
+    "owner": "Fedora",
+    "homepage_url": "http://fedoraproject.org/wiki/Licensing/CMigemo",
+    "spdx_license_key": "LicenseRef-scancode-cmigemo",
+    "text_urls": "\n- http://fedoraproject.org/wiki/Licensing/CMigemo",
+    "other_urls": "\n- http://fedoraproject.org/wiki/Licensing/CMigemo",
+    "ignorable_authors": "\n- MURAOKA Taro\n- Translator Mamoru Tasaka <mtasaka@ioa.s.u-tokyo.ac.jp>",
+    "ignorable_emails": "\n- koron@tka.att.ne.jp\n- mtasaka@ioa.s.u-tokyo.ac.jp",
+    "license_body": "\nTHE PERMISSION CONDITION ABOUT USING C/Migemo AND Migemo DLL\n\nSince: 16-Dec-2001\nVersion 1.0\nAuthor: MURAOKA Taro (KoRoN)\nLast Change: 16-Dec-2003\n\nTranslated into English by:\nTranslator: Mamoru Tasaka <mtasaka@ioa.s.u-tokyo.ac.jp>\nVersion 1.0-1\nDate: Apr, 10 2007\n\nTHE DEFINITION OF TERMS\nThe meaning of each term is defined as below:\n\nThis software:    C/Migemo and Migemo DLL\n(including binary form and source codes, but\nexcluding dictionary data).\nMalfunction:      The behavior which differs from which is\ndocumented or which is not documented.\nManager:          Those who own this software (who are\nthe developers or the copyright owners of this\nsoftware). At the time this copyright is\nwritten, it is Taro Muraoka.\n<koron@tka.att.ne.jp>\nUser:             Those who use or used this software.\nothers:           Those who are not managers or users. Especially,\nthe developers and the copyright owner of\nthe dictionaries for this software are included\ninto \"others\".\n\nTHE MAIN RULE\nThose who agreed with the following conditions may use this\nsoftware. Those who won't agree with them should stop using\nthis software and should remove the files related to this software\nfrom the memory media they are using.\n\nTHE CONDITIONS IMPOSED ON MANAGERS\nThe managers own the following rights related to this software.\n- the right to modify this software\n- the right to distribute this software\n- the right to let this software used\n- the right to devolve the part or the whole of the rights\nrelated to this software\n\nThe managers have a duty to resolve malfunctions of this software.\n\nThe managers have no responsibility for any damages the users\nmay cause and may sustain.\n\nTHE CONDITIONS IMPOSED ON USERS\nA user has the following duties on using this software\n- The duty to pay a fee to the developers based on the\nconsideration regulation described below.\n- To protect the rights of the managers\n- To protect the rights of others.\n\nA user has a right to use this software for any purpose\nprovided the usage won't violate any other conditions.\n\nTHE CONSIDERATION REGULATION\nThe consideration regulation of this software is defined as\nbelow.\n- zero yen\n\nTHE MAIN RULE ENDS HERE\nIf you cannot agree with the conditions above, please\nstop using this software."
+}

@@ -1,0 +1,13 @@
+{
+    "filename": "regexp.license",
+    "key": "regexp",
+    "short_name": "Regexp License",
+    "name": "Regexp License",
+    "category": "Permissive",
+    "owner": "Henry Spencer",
+    "homepage_url": "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License",
+    "spdx_license_key": "Spencer-86",
+    "other_spdx_license_keys": "\n- LicenseRef-scancode-regexp",
+    "minimum_coverage": "80",
+    "license_body": "\nPermission is granted to anyone to use this software for any\npurpose on any computer system, and to redistribute it freely,\nsubject to the following restrictions:\n\n1. The author is not responsible for the consequences of use of\nthis software, no matter how awful, even if they arise\nfrom defects in it.\n\n2. The origin of this software must not be misrepresented, either\nby explicit claim or by omission.\n\n3. Altered versions must be plainly marked as such, and must not\nbe misrepresented as being the original software."
+}

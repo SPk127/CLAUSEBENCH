@@ -1,0 +1,12 @@
+{
+    "filename": "dante-treglia.license",
+    "key": "dante-treglia",
+    "short_name": "Dante Treglia License",
+    "name": "Dante Treglia License",
+    "category": "Permissive",
+    "owner": "Dante Treglia",
+    "spdx_license_key": "LicenseRef-scancode-dante-treglia",
+    "ignorable_copyrights": "\n- Portions copyright (c) Dante Treglia II, 2000",
+    "ignorable_holders": "\n- Dante Treglia II",
+    "license_body": "\nThis is provided as is without express or implied warranties. You may freely\ncopy and compile this source into applications you distribute provided that the\ncopyright text below is included in the resulting source code, for example:\n\n\"Portions copyright (c) Dante Treglia II, 2000\""
+}

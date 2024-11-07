@@ -1,0 +1,12 @@
+{
+    "filename": "adacore-doc.license",
+    "key": "adacore-doc",
+    "short_name": "AdaCore Doc License",
+    "name": "AdaCore Doc License",
+    "category": "Permissive",
+    "owner": "AdaCore",
+    "homepage_url": "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
+    "spdx_license_key": "AdaCore-doc",
+    "other_urls": "\n- https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst\n- https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst",
+    "license_body": "\nThis document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy."
+}

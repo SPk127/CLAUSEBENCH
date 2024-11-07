@@ -1,0 +1,13 @@
+{
+    "filename": "crossword.license",
+    "key": "crossword",
+    "short_name": "Crossword License",
+    "name": "Crossword License",
+    "category": "Permissive",
+    "owner": "Gerd Neugebauer",
+    "homepage_url": "https://fedoraproject.org/wiki/Licensing/Crossword",
+    "spdx_license_key": "Crossword",
+    "ignorable_copyrights": "\n- Copyright (c) 1995-2009 Gerd Neugebauer",
+    "ignorable_holders": "\n- Gerd Neugebauer",
+    "license_body": "\nCopyright (C) 1995-2009 Gerd Neugebauer\n\ncwpuzzle.dtx is distributed in the hope that it will be useful, but WITHOUT ANY\nWARRANTY. No author or distributor  accepts responsibility to anyone for the\nconsequences of using it or for whether it serves any particular purpose  or\nworks at all, unless he says so in writing.\n\nEveryone is granted permission to copy, modify and redistribute cwpuzzle.dtx,\nprovided this copyright notice is preserved and any modifications are indicated."
+}

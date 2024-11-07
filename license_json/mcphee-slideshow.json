@@ -1,0 +1,11 @@
+{
+    "filename": "mcphee-slideshow.license",
+    "key": "mcphee-slideshow",
+    "short_name": "McPhee Slideshow License",
+    "name": "McPhee Slideshow License",
+    "category": "Permissive",
+    "owner": "Patrick TJ McPhee",
+    "spdx_license_key": "McPhee-slideshow",
+    "other_urls": "\n- https://mirror.las.iastate.edu/tex-archive/graphics/metapost/contrib/macros/slideshow/slideshow.mp",
+    "license_body": "\neveryone is welcome to use this code for any purpose, to modify it, and\nto copy it in whole or in part for use in other macro sets, with the\nconditions that this copyright notice be preserved with any significant\nportion of the code, and that modifications to this file be clearly\nmarked."
+}

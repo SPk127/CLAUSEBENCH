@@ -1,0 +1,16 @@
+{
+    "filename": "zpl-2.0.license",
+    "key": "zpl-2.0",
+    "short_name": "ZPL 2.0",
+    "name": "Zope Public License 2.0",
+    "category": "Permissive",
+    "owner": "Zope Community",
+    "homepage_url": "http://www.zope.org/Resources/License/",
+    "notes": "Per SPDX.org, this license is OSI certified",
+    "spdx_license_key": "ZPL-2.0",
+    "osi_license_key": "ZPL-2.0",
+    "text_urls": "\n- http://www.zope.org/Resources/License/",
+    "other_urls": "\n- http://old.zope.org/Resources/License/ZPL-2.0\n- http://opensource.org/licenses/ZPL-2.0\n- http://www.zope.com/Marks\n- https://opensource.org/licenses/ZPL-2.0",
+    "ignorable_urls": "\n- http://www.zope.com/Marks",
+    "license_body": "\nThis license has been certified as open source. It has also been designated as\nGPL compatible by the Free Software Foundation (FSF).\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n1. Redistributions in source code must retain the above copyright notice,\nthis list of conditions, and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice,\nthis list of conditions, and the following disclaimer in the documentation\nand/or other materials provided with the distribution.\n\n3. The name Zope Corporation (tm) must not be used to endorse or promote\nproducts derived from this software without prior written permission from\nZope Corporation.\n\n4. The right to distribute this software or to use it for any purpose does\nnot give you the right to use Servicemarks (sm) or Trademarks (tm) of Zope\nCorporation. Use of them is covered in a separate agreement (see\nhttp://www.zope.com/Marks).\n\n5. If any files are modified, you must cause the modified files to carry\nprominent notices stating that you changed the files and the date of any\nchange.\n\nDisclaimer\n\nTHIS SOFTWARE IS PROVIDED BY ZOPE CORPORATION ``AS IS'' AND ANY EXPRESSED OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF\nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT\nSHALL ZOPE CORPORATION OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,\nINCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\nPROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE\nOR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF\nADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nThis software consists of contributions made by Zope Corporation and many\nindividuals on behalf of Zope Corporation. Specific attributions are listed in\nthe accompanying credits file."
+}

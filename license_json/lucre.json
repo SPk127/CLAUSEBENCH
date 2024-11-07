@@ -1,0 +1,14 @@
+{
+    "filename": "lucre.license",
+    "key": "lucre",
+    "short_name": "Lucre License",
+    "name": "Lucre License",
+    "category": "Permissive",
+    "owner": "Ben Laurie",
+    "homepage_url": "https://github.com/benlaurie/lucre/blob/master/LICENCE",
+    "notes": "|\nThis is mostly similar to the OpenSSL license.",
+    "spdx_license_key": "LicenseRef-scancode-lucre",
+    "minimum_coverage": "50",
+    "ignorable_authors": "\n- Ben Laurie",
+    "license_body": "\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in\nthe documentation and/or other materials provided with the\ndistribution.\n\n3. All advertising materials mentioning features or use of this\nsoftware must display the following acknowledgment:\n\"This product includes software developed by Ben Laurie\nfor use in the Lucre project.\"\n\n4. The name \"Lucre\" must not be used to\nendorse or promote products derived from this software without\nprior written permission.\n\n5. Redistributions of any form whatsoever must retain the following\nacknowledgment:\n\"This product includes software developed by Ben Laurie\nfor use in the Lucre project.\"\n\nTHIS SOFTWARE IS PROVIDED BY BEN LAURIE ``AS IS'' AND ANY\nEXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\nPURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL BEN LAURIE OR\nHIS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT\nNOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,\nSTRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\nARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED\nOF THE POSSIBILITY OF SUCH DAMAGE."
+}

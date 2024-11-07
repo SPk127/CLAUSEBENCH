@@ -1,0 +1,15 @@
+{
+    "filename": "nysl-0.9982-jp.license",
+    "key": "nysl-0.9982-jp",
+    "language": "ja",
+    "short_name": "NYSL 0.9982 JP",
+    "name": "NYSL 0.9982 Japanese",
+    "category": "Permissive",
+    "owner": "Kazuhiro Inaba",
+    "homepage_url": "http://www.kmonos.net/nysl/index.en.html",
+    "spdx_license_key": "LicenseRef-scancode-nysl-0.9982-jp",
+    "text_urls": "\n- https://raw.githubusercontent.com/uasi/license-templates/0f48d7532fb4cc9c26fc6093db680e0601bf5738/LICENSE.NYSL.txt",
+    "faq_url": "http://www.kmonos.net/nysl/readme.html",
+    "other_urls": "\n- http://www.kmonos.net/nysl/\n- http://search.cpan.org/~yakex/Software-License-NYSL-v0.0.1/",
+    "license_body": "\nNYSL Version 0.9982\n----------------------------------------\n\nA. 本ソフトウェアは Everyone'sWare です。このソフトを手にした一人一人が、\nご自分の作ったものを扱うのと同じように、自由に利用することが出来ます。\n\nA-1. フリーウェアです。作者からは使用料等を要求しません。\nA-2. 有料無料や媒体の如何を問わず、自由に転載・再配布できます。\nA-3. いかなる種類の 改変・他プログラムでの利用 を行っても構いません。\nA-4. 変更したものや部分的に使用したものは、あなたのものになります。\n公開する場合は、あなたの名前の下で行って下さい。\n\nB. このソフトを利用することによって生じた損害等について、作者は\n責任を負わないものとします。各自の責任においてご利用下さい。\n\nC. 著作者人格権は <copyright holders> に帰属します。著作権は放棄します。\n\nD. 以上の３項は、ソース・実行バイナリの双方に適用されます。"
+}

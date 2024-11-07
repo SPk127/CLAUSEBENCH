@@ -1,0 +1,16 @@
+{
+    "filename": "wxwindows-u-3.0.license",
+    "key": "wxwindows-u-3.0",
+    "short_name": "wxWindows Unrestricted Licence 3.0",
+    "name": "wxWindows Unrestricted Licence 3.0",
+    "category": "Permissive",
+    "owner": "wxWidgets",
+    "homepage_url": "http://www.wxwidgets.org/about/licence.htm",
+    "spdx_license_key": "LicenseRef-scancode-wxwindows-u-3.0",
+    "text_urls": "\n- http://www.wxwidgets.org/about/licence.htm",
+    "faq_url": "http://www.wxwidgets.org/about/newlicen.htm",
+    "minimum_coverage": "90",
+    "ignorable_copyrights": "\n- Copyright (c) 1997 Julian Smart, Robert Roebling",
+    "ignorable_holders": "\n- Julian Smart, Robert Roebling",
+    "license_body": "\nwxWindows Unrestricted Licence, Version 3\n=========================================\n\nCopyright (c) 1997 Julian Smart, Robert Roebling, [...]\n\nEveryone is permitted to copy and distribute verbatim copies\nof this licence document, but changing it is not allowed.\n\nWXWINDOWS UNRESTRICTED LICENCE\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\nPermission to use, copy, modify, and distribute this source code text,\nthis binary library, or this piece of documentation for any purpose is\nhereby granted without fee, provided that the above copyright notice,\nauthor statement and this permission notice appear in all copies of this\nsoftware and related documentation.\n\nBECAUSE THIS SOURCE CODE TEXT, THIS BINARY LIBRARY, OR THIS PIECE OF\nDOCUMENTATION IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR IT, TO\nTHE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN\nWRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THIS SOURCE\nCODE TEXT, THIS BINARY LIBRARY OR THIS PIECE OF DOCUMENTATION \"AS IS\"\nWITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT\nNOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE\nOF THE SOURCE CODE TEXT, THE BINARY LIBRARY OR THE PIECE OF DOCUMENTATION\nIS WITH YOU.  SHOULD THE SOURCE CODE TEXT, THE BINARY LIBRARY OR THE PIECE\nOF DOCUMENTATION PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY\nSERVICING, REPAIR OR CORRECTION.\n\nIN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL\nANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR\nREDISTRIBUTE THE SOURCE CODE TEXT, THE BINARY LIBRARY, OR THE PIECE OF\nDOCUMENTATION AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING\nANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF\nTHE USE OR INABILITY TO USE THE SOURCE CODE TEXT, THE BINARY LIBRARY OR\nTHE PIECE OF DOCUMENTATION (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR\nDATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES\nOR A FAILURE OF A PROGRAM BASED ON THE SOURCE CODE TEXT, THE BINARY\nLIBRARY OR ON THE PIECE OF DOCUMENTATION TO OPERATE WITH ANY OTHER\nPROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGES."
+}

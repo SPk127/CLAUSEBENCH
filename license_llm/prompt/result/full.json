@@ -1,0 +1,1512 @@
+[
+    {
+        "license_name": "bsd-zero.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "3dslicer-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Relicense",
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include License",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "attribution.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "abstyles.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include License",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adacore-doc.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-scl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include License",
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "x11-adobe.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include License",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-glyph.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include License",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adobe-utopia.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "adsl.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-1.2.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "OPTIONAL"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Give Credit",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Patent Claims",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Give Credit",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-2.1.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Patent Claims",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Give Credit",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afl-3.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Commercial Use",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Patent Claims",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Sublicense",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Include Copyright",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Disclose Source",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Give Credit",
+                    "marker": "MUST"
+                }
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "afmparse.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Modify",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Modify",
+                    "marker": "CAN"
+                }
+            },
+            {
+                "term": "Commercial Use",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Relicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Hold Liable",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Hold Liable",
+                    "marker": "MUST NOT"
+                }
+            },
+            {
+                "term": "Use Patent Claims",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Sublicense",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Use Trademark",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Use Trademark",
+                    "marker": "NOT SPECIFIED"
+                }
+            },
+            {
+                "term": "Include Copyright",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Include License",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Disclose Source",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Give Credit",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Rename",
+                "response": "None",
+                "deepseek_response": "None"
+            },
+            {
+                "term": "Contact Author",
+                "response": "None",
+                "deepseek_response": "None"
+            }
+        ]
+    },
+    {
+        "license_name": "agpl-1.0.license",
+        "terms": [
+            {
+                "term": "Distribute",
+                "response": "None",
+                "deepseek_response": {
+                    "term": "Distribute",
+                    "marker": "CAN"
+                }
+            }
+        ]
+    }
+]

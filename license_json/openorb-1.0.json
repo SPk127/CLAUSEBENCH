@@ -1,0 +1,16 @@
+{
+    "filename": "openorb-1.0.license",
+    "key": "openorb-1.0",
+    "short_name": "OpenORB Community License 1.0",
+    "name": "OpenORB Community Software License Version 1.0",
+    "category": "Permissive",
+    "owner": "OpenORB Project",
+    "homepage_url": "http://openorb.sourceforge.net/license.txt",
+    "spdx_license_key": "LicenseRef-scancode-openorb-1.0",
+    "text_urls": "\n- http://openorb.sourceforge.net/license.txt",
+    "ignorable_copyrights": "\n- Copyright (c) 2002 The OpenORB Project",
+    "ignorable_holders": "\n- The OpenORB Project",
+    "ignorable_authors": "\n- the OpenORB Community Project (http://sourceforge.net/projects/openorb/)",
+    "ignorable_urls": "\n- http://sourceforge.net/projects/openorb\n- http://sourceforge.net/projects/openorb/",
+    "license_body": "\n================================================================================\nThe OpenORB Community Software License, Version 1.0\n================================================================================\n\nCopyright (C) 2002 The OpenORB Project. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modifica-\ntion, are permitted provided that the following conditions are met:\n\n1. Redistributions of  source code must  retain the above copyright  notice,\nthis list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice,\nthis list of conditions and the following disclaimer in the documentation\nand/or other materials provided with the distribution.\n\n3. The end-user documentation included with the redistribution, if any, must\ninclude  the following  acknowledgment:  \"This product includes  software\ndeveloped  by the OpenORB Community Project\n(http://sourceforge.net/projects/openorb/).\" together with the due credit\nstatements listed below.\nAlternately, this  acknowledgment and due credits may appear in the soft-\nware  itself, if and wherever such  third-party  acknowledgments normally\nappear.\n\nTHIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,\nINCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND\nFITNESS  FOR A PARTICULAR  PURPOSE ARE  DISCLAIMED.  IN NO  EVENT SHALL  THE\nMEMBERS OF THE OPENORB COMMUNITY PROJECT  OR ITS CONTRIBUTORS  BE LIABLE FOR\nANY  DIRECT,  INDIRECT,  INCIDENTAL,  SPECIAL,  EXEMPLARY,  OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT  OF  SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR  PROFITS; OR BUSINESS  INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING  NEGLIGENCE OR  OTHERWISE) ARISING IN  ANY WAY OUT OF THE\nUSE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nThis software consists of voluntary contributions made by many individuals to\nthe OpenORB Community Project. For more information on the OpenORB  Community\nProject, please refer to <http://sourceforge.net/projects/openorb/>."
+}

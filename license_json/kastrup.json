@@ -1,0 +1,11 @@
+{
+    "filename": "kastrup.license",
+    "key": "kastrup",
+    "short_name": "Kastrup License",
+    "name": "Kastrup License",
+    "category": "Permissive",
+    "owner": "David Kastrup",
+    "spdx_license_key": "Kastrup",
+    "other_urls": "\n- https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/kastrup/binhex.dtx",
+    "license_body": "\nAny use of the code is permitted as long as this copyright\nnotice is preserved in the code."
+}
