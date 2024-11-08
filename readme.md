@@ -46,16 +46,7 @@ CLAUSEBENCH/
 - **Fine-Grained Benchmark Dataset**: Provides a comprehensive, clause-level annotated dataset for enhanced model training and evaluation.
 - **Clause-Level Analysis**: Conducts detailed clause-specific recognition for more precise OSS compliance checks.
 - **Multiple LLMs Supported**: Integrates with DeepSeek, Mistral-large, Qianwen, and Mixtral for comprehensive evaluation.
-- **Prompt Engineering**: Here's the updated **Key Features** section with the four prompt engineering strategies and their respective hyperlinks:
-
----
-
-## Key Features
-
-- **Fine-Grained Benchmark Dataset**: Provides a comprehensive, clause-level annotated dataset for enhanced model training and evaluation.
-- **Clause-Level Analysis**: Conducts detailed clause-specific recognition for more precise OSS compliance checks.
-- **Multiple LLMs Supported**: Integrates with DeepSeek, Mistral-large, Qianwen, and Mixtral for comprehensive evaluation.
-- **Prompt Engineering Strategies**:
+- **Prompt Engineering**: Here's the four prompt engineering strategies and their respective hyperlinks:
   - [Basic Prompt](license_llm/prompt/prompt-basic.md)
   - [Few-Shot Prompt](license_llm/prompt/prompt-few.md)
   - [Contextual Prompt](license_llm/prompt/prompt-context.md)
