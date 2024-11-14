@@ -3,7 +3,7 @@ import os
 from collections import defaultdict
 
 if __name__ == "__main__":
-    json_dir = r'/home/keqiang/Benchmark/license_data/license_json'
+    json_dir = r'Benchmark/license_data/license_json'
     json_files = os.listdir(json_dir)
     
     key_count = defaultdict(int)
