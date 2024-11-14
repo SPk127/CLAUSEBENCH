@@ -52,7 +52,7 @@ def convert_license_to_json(license_file):
 
 def batch_convert(license_directory):
     count = 0
-    output_dir = r'F:\Python\PY_vscode\benchmark\license_data\license_json'
+    output_dir = r'benchmark\license_data\license_json'
     os.makedirs(output_dir, exist_ok = True)
     for filename in os.listdir(license_directory):
         if filename.endswith('.license'):
